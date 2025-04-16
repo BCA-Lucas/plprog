@@ -1,0 +1,986 @@
+[2025-04-16 13:44:39] H0001 entra en la zona común.
+[2025-04-16 13:44:40] H0001 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:40] H0002 entra en la zona común.
+[2025-04-16 13:44:41] H0002 espera para formar grupo en el túnel 3
+[2025-04-16 13:44:41] H0003 entra en la zona común.
+[2025-04-16 13:44:43] H0003 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:43] H0004 entra en la zona común.
+[2025-04-16 13:44:45] H0004 espera para formar grupo en el túnel 0
+[2025-04-16 13:44:45] H0006 entra en la zona común.
+[2025-04-16 13:44:46] H0006 espera para formar grupo en el túnel 2
+[2025-04-16 13:44:46] H0005 entra en la zona común.
+[2025-04-16 13:44:48] H0005 espera para formar grupo en el túnel 0
+[2025-04-16 13:44:48] H0009 entra en la zona común.
+[2025-04-16 13:44:49] H0009 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:49] H0008 entra en la zona común.
+[2025-04-16 13:44:49] H0003 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:49] H0009 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:49] H0001 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:49] H0003 cruza el túnel 1
+[2025-04-16 13:44:50] H0009 cruza el túnel 1
+[2025-04-16 13:44:50] H0007 entra en la zona común.
+[2025-04-16 13:44:50] H0008 espera para formar grupo en el túnel 0
+[2025-04-16 13:44:50] H0008 forma parte de un grupo en el túnel 0
+[2025-04-16 13:44:50] H0005 forma parte de un grupo en el túnel 0
+[2025-04-16 13:44:50] H0004 forma parte de un grupo en el túnel 0
+[2025-04-16 13:44:50] H0008 cruza el túnel 0
+[2025-04-16 13:44:51] H0001 cruza el túnel 1
+[2025-04-16 13:44:51] H0005 cruza el túnel 0
+[2025-04-16 13:44:52] H0007 espera para formar grupo en el túnel 2
+[2025-04-16 13:44:52] H0013 entra en la zona común.
+[2025-04-16 13:44:52] H0004 cruza el túnel 0
+[2025-04-16 13:44:53] H0013 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:53] H0012 entra en la zona común.
+[2025-04-16 13:44:53] H0003 ha recolectado 2 unidades de comida.
+[2025-04-16 13:44:53] H0003 vuelve por el túnel 1
+[2025-04-16 13:44:54] H0003 entra en la zona de descanso.
+[2025-04-16 13:44:55] H0009 ha recolectado 2 unidades de comida.
+[2025-04-16 13:44:55] H0009 vuelve por el túnel 1
+[2025-04-16 13:44:55] El zombi Z0000 ha atacado pero la víctima H0001 ha sobrevivido.
+[2025-04-16 13:44:55] H0012 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:55] H0011 entra en la zona común.
+[2025-04-16 13:44:55] H0008 ha recolectado 2 unidades de comida.
+[2025-04-16 13:44:55] H0008 vuelve por el túnel 0
+[2025-04-16 13:44:56] H0001 vuelve por el túnel 1
+[2025-04-16 13:44:56] H0011 espera para formar grupo en el túnel 0
+[2025-04-16 13:44:56] H0010 entra en la zona común.
+[2025-04-16 13:44:57] H0005 ha recolectado 2 unidades de comida.
+[2025-04-16 13:44:57] H0005 vuelve por el túnel 0
+[2025-04-16 13:44:57] H0001 entra en la zona de descanso.
+[2025-04-16 13:44:58] H0010 espera para formar grupo en el túnel 2
+[2025-04-16 13:44:58] H0018 entra en la zona común.
+[2025-04-16 13:44:58] H0007 forma parte de un grupo en el túnel 2
+[2025-04-16 13:44:58] H0006 forma parte de un grupo en el túnel 2
+[2025-04-16 13:44:58] H0010 forma parte de un grupo en el túnel 2
+[2025-04-16 13:44:58] H0007 cruza el túnel 2
+[2025-04-16 13:44:58] H0004 ha recolectado 2 unidades de comida.
+[2025-04-16 13:44:58] H0004 vuelve por el túnel 0
+[2025-04-16 13:44:59] H0006 cruza el túnel 2
+[2025-04-16 13:44:59] H0018 espera para formar grupo en el túnel 1
+[2025-04-16 13:44:59] H0017 entra en la zona común.
+[2025-04-16 13:44:59] H0012 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:59] H0013 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:59] H0018 forma parte de un grupo en el túnel 1
+[2025-04-16 13:44:59] H0012 cruza el túnel 1
+[2025-04-16 13:45:00] H0008 entra en la zona de descanso.
+[2025-04-16 13:45:00] H0010 cruza el túnel 2
+[2025-04-16 13:45:00] H0013 cruza el túnel 1
+[2025-04-16 13:45:00] H0017 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:00] H0016 entra en la zona común.
+[2025-04-16 13:45:01] El zombi Z0000 ha matado a H0006
+[2025-04-16 13:45:01] H0018 cruza el túnel 1
+[2025-04-16 13:45:02] H0003 ha comido en el comedor.
+[2025-04-16 13:45:02] H0016 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:02] H0015 entra en la zona común.
+[2025-04-16 13:45:02] H0007 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:02] H0007 vuelve por el túnel 2
+[2025-04-16 13:45:03] H0006 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:03] H0006 vuelve por el túnel 2
+[2025-04-16 13:45:04] H0015 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:04] H0014 entra en la zona común.
+[2025-04-16 13:45:04] H0009 entra en la zona de descanso.
+[2025-04-16 13:45:04] H0012 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:04] H0012 vuelve por el túnel 1
+[2025-04-16 13:45:05] H0013 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:05] H0001 ha comido en el comedor.
+[2025-04-16 13:45:05] H0010 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:05] H0010 vuelve por el túnel 2
+[2025-04-16 13:45:05] H0014 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:05] H0024 entra en la zona común.
+[2025-04-16 13:45:05] H0013 vuelve por el túnel 1
+[2025-04-16 13:45:05] H0018 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:06] H0018 vuelve por el túnel 1
+[2025-04-16 13:45:07] H0024 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:07] H0023 entra en la zona común.
+[2025-04-16 13:45:07] H0006 entra en la zona de descanso.
+[2025-04-16 13:45:08] H0022 entra en la zona común.
+[2025-04-16 13:45:08] H0023 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:08] H0023 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:08] H0014 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:08] H0002 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:08] H0023 cruza el túnel 3
+[2025-04-16 13:45:08] H0008 ha comido en el comedor.
+[2025-04-16 13:45:09] H0014 cruza el túnel 3
+[2025-04-16 13:45:09] H0005 entra en la zona de descanso.
+[2025-04-16 13:45:09] H0003 entra en la zona común.
+[2025-04-16 13:45:09] H0022 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:09] H0022 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:09] H0017 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:09] H0011 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:09] H0022 cruza el túnel 0
+[2025-04-16 13:45:10] H0002 cruza el túnel 3
+[2025-04-16 13:45:10] H0017 cruza el túnel 0
+[2025-04-16 13:45:10] H0003 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:10] H0021 entra en la zona común.
+[2025-04-16 13:45:10] H0024 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:10] H0016 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:10] H0003 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:10] H0024 cruza el túnel 1
+[2025-04-16 13:45:11] H0011 cruza el túnel 0
+[2025-04-16 13:45:11] H0016 cruza el túnel 1
+[2025-04-16 13:45:11] H0020 entra en la zona común.
+[2025-04-16 13:45:11] H0021 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:12] H0004 entra en la zona de descanso.
+[2025-04-16 13:45:12] H0003 cruza el túnel 1
+[2025-04-16 13:45:12] El zombi Z0006 ha atacado pero la víctima H0022 ha sobrevivido.
+[2025-04-16 13:45:12] H0019 entra en la zona común.
+[2025-04-16 13:45:12] H0020 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:12] H0020 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:12] H0015 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:12] H0021 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:13] H0020 cruza el túnel 2
+[2025-04-16 13:45:13] H0009 ha comido en el comedor.
+[2025-04-16 13:45:13] H0014 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:13] H0014 vuelve por el túnel 3
+[2025-04-16 13:45:13] H0023 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:14] H0015 cruza el túnel 2
+[2025-04-16 13:45:14] El zombi Z0000 ha atacado pero la víctima H0017 ha sobrevivido.
+[2025-04-16 13:45:14] H0023 vuelve por el túnel 3
+[2025-04-16 13:45:14] El zombi Z0000 ha matado a H0011
+[2025-04-16 13:45:14] H0032 entra en la zona común.
+[2025-04-16 13:45:14] H0019 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:15] H0021 cruza el túnel 2
+[2025-04-16 13:45:15] H0022 vuelve por el túnel 0
+[2025-04-16 13:45:15] H0002 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:15] H0002 vuelve por el túnel 3
+[2025-04-16 13:45:15] H0024 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:15] H0024 vuelve por el túnel 1
+[2025-04-16 13:45:15] H0001 se recupera de sus heridas en la zona de descanso.
+[2025-04-16 13:45:15] El zombi Z0011 ha atacado pero la víctima H0020 ha sobrevivido.
+[2025-04-16 13:45:16] H0017 vuelve por el túnel 0
+[2025-04-16 13:45:16] El zombi Z0006 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:45:16] El zombi Z0000 ha matado a H0016
+[2025-04-16 13:45:16] H0005 ha comido en el comedor.
+[2025-04-16 13:45:16] H0031 entra en la zona común.
+[2025-04-16 13:45:16] H0032 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:16] El zombi Z0016 ha atacado pero la víctima H0011 ha sobrevivido.
+[2025-04-16 13:45:17] H0011 vuelve por el túnel 0
+[2025-04-16 13:45:17] El zombi Z0011 ha atacado pero la víctima H0011 ha sobrevivido.
+[2025-04-16 13:45:17] H0016 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:17] H0016 vuelve por el túnel 1
+[2025-04-16 13:45:17] El zombi Z0006 ha matado a H0020
+[2025-04-16 13:45:17] H0003 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:18] H0020 vuelve por el túnel 2
+[2025-04-16 13:45:18] El zombi Z0011 ha atacado pero la víctima H0015 ha sobrevivido.
+[2025-04-16 13:45:18] H0003 vuelve por el túnel 1
+[2025-04-16 13:45:18] El zombi Z0016 ha atacado pero la víctima H0011 ha sobrevivido.
+[2025-04-16 13:45:18] H0009 entra en la zona común.
+[2025-04-16 13:45:18] H0031 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:19] H0015 vuelve por el túnel 2
+[2025-04-16 13:45:19] El zombi Z0016 ha atacado pero la víctima H0021 ha sobrevivido.
+[2025-04-16 13:45:19] H0020 entra en la zona de descanso.
+[2025-04-16 13:45:19] H0009 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:19] H0030 entra en la zona común.
+[2025-04-16 13:45:19] H0006 ha comido en el comedor.
+[2025-04-16 13:45:20] H0021 vuelve por el túnel 2
+[2025-04-16 13:45:20] El zombi Z0016 ha atacado pero la víctima H0021 ha sobrevivido.
+[2025-04-16 13:45:20] El zombi Z0020 ha atacado pero la víctima H0021 ha sobrevivido.
+[2025-04-16 13:45:20] El zombi Z0006 ha matado a H0021
+[2025-04-16 13:45:20] H0030 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:20] H0029 entra en la zona común.
+[2025-04-16 13:45:20] H0009 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:20] H0031 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:20] H0030 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:20] H0009 cruza el túnel 3
+[2025-04-16 13:45:21] H0031 cruza el túnel 3
+[2025-04-16 13:45:22] H0029 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:22] H0028 entra en la zona común.
+[2025-04-16 13:45:22] H0011 entra en la zona de descanso.
+[2025-04-16 13:45:22] H0030 cruza el túnel 3
+[2025-04-16 13:45:23] H0027 entra en la zona común.
+[2025-04-16 13:45:23] H0028 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:24] H0004 ha comido en el comedor.
+[2025-04-16 13:45:25] H0027 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:25] H0008 entra en la zona común.
+[2025-04-16 13:45:25] H0009 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:25] H0009 vuelve por el túnel 3
+[2025-04-16 13:45:25] El zombi Z0000 ha atacado pero la víctima H0030 ha sobrevivido.
+[2025-04-16 13:45:26] H0031 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:26] H0017 entra en la zona de descanso.
+[2025-04-16 13:45:26] H0031 vuelve por el túnel 3
+[2025-04-16 13:45:26] El zombi Z0020 ha atacado pero la víctima H0031 ha sobrevivido.
+[2025-04-16 13:45:26] H0008 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:26] H0026 entra en la zona común.
+[2025-04-16 13:45:27] El zombi Z0000 ha atacado pero la víctima H0030 ha sobrevivido.
+[2025-04-16 13:45:27] H0030 vuelve por el túnel 3
+[2025-04-16 13:45:27] H0020 ha comido en el comedor.
+[2025-04-16 13:45:27] El zombi Z0000 ha atacado pero la víctima H0030 ha sobrevivido.
+[2025-04-16 13:45:28] H0025 entra en la zona común.
+[2025-04-16 13:45:28] H0026 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:28] H0026 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:28] H0029 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:28] H0008 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:28] H0026 cruza el túnel 0
+[2025-04-16 13:45:28] H0002 entra en la zona de descanso.
+[2025-04-16 13:45:29] H0029 cruza el túnel 0
+[2025-04-16 13:45:29] H0025 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:29] H0043 entra en la zona común.
+[2025-04-16 13:45:30] H0008 cruza el túnel 0
+[2025-04-16 13:45:30] H0043 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:30] H0042 entra en la zona común.
+[2025-04-16 13:45:30] H0032 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:30] H0019 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:30] H0043 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:30] H0032 cruza el túnel 1
+[2025-04-16 13:45:30] H0011 ha comido en el comedor.
+[2025-04-16 13:45:31] H0019 cruza el túnel 1
+[2025-04-16 13:45:31] El zombi Z0020 ha atacado pero la víctima H0029 ha sobrevivido.
+[2025-04-16 13:45:32] H0022 entra en la zona de descanso.
+[2025-04-16 13:45:32] H0041 entra en la zona común.
+[2025-04-16 13:45:32] H0042 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:32] H0043 cruza el túnel 1
+[2025-04-16 13:45:32] El zombi Z0020 ha matado a H0032
+[2025-04-16 13:45:33] El zombi Z0011 ha atacado pero la víctima H0026 ha sobrevivido.
+[2025-04-16 13:45:33] H0026 vuelve por el túnel 0
+[2025-04-16 13:45:34] El zombi Z0032 ha atacado pero la víctima H0032 ha sobrevivido.
+[2025-04-16 13:45:34] El zombi Z0011 ha atacado pero la víctima H0032 ha sobrevivido.
+[2025-04-16 13:45:34] El zombi Z0000 ha matado a H0026
+[2025-04-16 13:45:34] H0004 entra en la zona común.
+[2025-04-16 13:45:34] H0041 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:34] H0017 ha comido en el comedor.
+[2025-04-16 13:45:34] H0008 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:34] El zombi Z0026 ha matado a H0029
+[2025-04-16 13:45:34] H0032 vuelve por el túnel 1
+[2025-04-16 13:45:34] H0008 vuelve por el túnel 0
+[2025-04-16 13:45:35] El zombi Z0032 ha matado a H0043
+[2025-04-16 13:45:35] El zombi Z0006 ha matado a H0008
+[2025-04-16 13:45:35] El zombi Z0026 ha atacado pero la víctima H0043 ha sobrevivido.
+[2025-04-16 13:45:35] El zombi Z0020 ha matado a H0019
+[2025-04-16 13:45:35] H0029 vuelve por el túnel 0
+[2025-04-16 13:45:36] H0012 entra en la zona de descanso.
+[2025-04-16 13:45:36] H0040 entra en la zona común.
+[2025-04-16 13:45:36] H0004 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:36] H0043 vuelve por el túnel 1
+[2025-04-16 13:45:37] H0019 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:37] H0019 vuelve por el túnel 1
+[2025-04-16 13:45:38] H0040 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:38] H0039 entra en la zona común.
+[2025-04-16 13:45:38] H0025 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:38] H0042 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:38] H0040 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:38] H0025 cruza el túnel 0
+[2025-04-16 13:45:38] El zombi Z0032 ha atacado pero la víctima H0019 ha sobrevivido.
+[2025-04-16 13:45:38] H0002 ha comido en el comedor.
+[2025-04-16 13:45:39] H0042 cruza el túnel 0
+[2025-04-16 13:45:39] H0039 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:39] H0038 entra en la zona común.
+[2025-04-16 13:45:39] H0010 entra en la zona de descanso.
+[2025-04-16 13:45:40] H0040 cruza el túnel 0
+[2025-04-16 13:45:40] H0037 entra en la zona común.
+[2025-04-16 13:45:40] H0038 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:40] H0038 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:40] H0041 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:40] H0027 forma parte de un grupo en el túnel 3
+[2025-04-16 13:45:40] H0038 cruza el túnel 3
+[2025-04-16 13:45:40] El zombi Z0006 ha atacado pero la víctima H0025 ha sobrevivido.
+[2025-04-16 13:45:41] El zombi Z0021 ha atacado pero la víctima H0040 ha sobrevivido.
+[2025-04-16 13:45:41] H0041 cruza el túnel 3
+[2025-04-16 13:45:42] H0037 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:42] H0001 entra en la zona común.
+[2025-04-16 13:45:42] El zombi Z0000 ha matado a H0025
+[2025-04-16 13:45:42] H0013 entra en la zona de descanso.
+[2025-04-16 13:45:42] H0025 vuelve por el túnel 0
+[2025-04-16 13:45:42] H0027 cruza el túnel 3
+[2025-04-16 13:45:42] H0022 ha comido en el comedor.
+[2025-04-16 13:45:43] El zombi Z0011 ha matado a H0042
+[2025-04-16 13:45:43] El zombi Z0043 ha atacado pero la víctima H0042 ha sobrevivido.
+[2025-04-16 13:45:43] El zombi Z0042 ha atacado pero la víctima H0038 ha sobrevivido.
+[2025-04-16 13:45:43] H0042 vuelve por el túnel 0
+[2025-04-16 13:45:43] H0001 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:43] H0036 entra en la zona común.
+[2025-04-16 13:45:44] El zombi Z0043 ha atacado pero la víctima H0042 ha sobrevivido.
+[2025-04-16 13:45:44] El zombi Z0011 ha atacado pero la víctima H0041 ha sobrevivido.
+[2025-04-16 13:45:44] El zombi Z0032 ha atacado pero la víctima H0040 ha sobrevivido.
+[2025-04-16 13:45:44] El zombi Z0043 ha matado a H0041
+[2025-04-16 13:45:45] El zombi Z0011 ha atacado pero la víctima H0038 ha sobrevivido.
+[2025-04-16 13:45:45] H0038 vuelve por el túnel 3
+[2025-04-16 13:45:45] H0035 entra en la zona común.
+[2025-04-16 13:45:45] H0036 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:45] H0040 vuelve por el túnel 0
+[2025-04-16 13:45:45] El zombi Z0029 ha atacado pero la víctima H0038 ha sobrevivido.
+[2025-04-16 13:45:45] El zombi Z0008 ha atacado pero la víctima H0040 ha sobrevivido.
+[2025-04-16 13:45:45] El zombi Z0043 ha matado a H0027
+[2025-04-16 13:45:45] El zombi Z0011 ha atacado pero la víctima H0041 ha sobrevivido.
+[2025-04-16 13:45:46] El zombi Z0025 ha matado a H0041
+[2025-04-16 13:45:46] H0010 ha comido en el comedor.
+[2025-04-16 13:45:46] H0041 vuelve por el túnel 3
+[2025-04-16 13:45:46] El zombi Z0027 ha atacado pero la víctima H0027 ha sobrevivido.
+[2025-04-16 13:45:46] El zombi Z0016 ha atacado pero la víctima H0041 ha sobrevivido.
+[2025-04-16 13:45:46] H0018 entra en la zona de descanso.
+[2025-04-16 13:45:46] H0035 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:46] H0005 entra en la zona común.
+[2025-04-16 13:45:46] El zombi Z0041 ha matado a H0027
+[2025-04-16 13:45:47] El zombi Z0027 ha matado a H0027
+[2025-04-16 13:45:48] El zombi Z0041 ha matado a H0027
+[2025-04-16 13:45:48] H0034 entra en la zona común.
+[2025-04-16 13:45:48] H0005 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:48] H0005 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:48] H0039 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:48] H0028 forma parte de un grupo en el túnel 2
+[2025-04-16 13:45:48] H0005 cruza el túnel 2
+[2025-04-16 13:45:48] H0027 vuelve por el túnel 3
+[2025-04-16 13:45:48] El zombi Z0041 ha atacado pero la víctima H0027 ha sobrevivido.
+[2025-04-16 13:45:49] H0039 cruza el túnel 2
+[2025-04-16 13:45:49] El zombi Z0041 ha atacado pero la víctima H0027 ha sobrevivido.
+[2025-04-16 13:45:49] El zombi Z0016 ha matado a H0005
+[2025-04-16 13:45:49] H0034 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:49] H0033 entra en la zona común.
+[2025-04-16 13:45:50] H0007 entra en la zona de descanso.
+[2025-04-16 13:45:50] H0028 cruza el túnel 2
+[2025-04-16 13:45:50] H0012 ha comido en el comedor.
+[2025-04-16 13:45:50] El zombi Z0041 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:50] El zombi Z0027 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:51] El zombi Z0032 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:51] H0012 entra en la zona común.
+[2025-04-16 13:45:51] H0033 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:51] H0033 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:51] H0001 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:51] H0004 forma parte de un grupo en el túnel 1
+[2025-04-16 13:45:51] H0033 cruza el túnel 1
+[2025-04-16 13:45:52] H0001 cruza el túnel 1
+[2025-04-16 13:45:52] El zombi Z0032 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:52] H0012 espera para formar grupo en el túnel 2
+[2025-04-16 13:45:52] H0061 entra en la zona común.
+[2025-04-16 13:45:53] H0039 ha recolectado 2 unidades de comida.
+[2025-04-16 13:45:53] H0039 vuelve por el túnel 2
+[2025-04-16 13:45:53] El zombi Z0016 ha atacado pero la víctima H0028 ha sobrevivido.
+[2025-04-16 13:45:53] H0018 ha comido en el comedor.
+[2025-04-16 13:45:53] H0004 cruza el túnel 1
+[2025-04-16 13:45:53] H0027 entra en la zona de descanso.
+[2025-04-16 13:45:53] El zombi Z0027 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:54] El zombi Z0041 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:54] El zombi Z0029 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:54] El zombi Z0032 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:54] El zombi Z0027 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:54] H0005 vuelve por el túnel 2
+[2025-04-16 13:45:54] El zombi Z0041 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:54] H0060 entra en la zona común.
+[2025-04-16 13:45:54] H0061 espera para formar grupo en el túnel 0
+[2025-04-16 13:45:54] H0061 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:54] H0037 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:54] H0036 forma parte de un grupo en el túnel 0
+[2025-04-16 13:45:54] H0061 cruza el túnel 0
+[2025-04-16 13:45:55] El zombi Z0021 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-16 13:45:55] H0028 vuelve por el túnel 2
+[2025-04-16 13:45:55] El zombi Z0000 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:55] El zombi Z0027 ha matado a H0033
+[2025-04-16 13:45:55] H0037 cruza el túnel 0
+[2025-04-16 13:45:56] H0041 entra en la zona de descanso.
+[2025-04-16 13:45:56] H0033 vuelve por el túnel 1
+[2025-04-16 13:45:56] H0060 espera para formar grupo en el túnel 3
+[2025-04-16 13:45:56] H0059 entra en la zona común.
+[2025-04-16 13:45:56] El zombi Z0043 ha matado a H0004
+[2025-04-16 13:45:56] El zombi Z0033 ha atacado pero la víctima H0033 ha sobrevivido.
+[2025-04-16 13:45:56] H0036 cruza el túnel 0
+[2025-04-16 13:45:56] El zombi Z0016 ha atacado pero la víctima H0004 ha sobrevivido.
+[2025-04-16 13:45:57] H0001 vuelve por el túnel 1
+[2025-04-16 13:45:57] El zombi Z0006 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:45:57] El zombi Z0027 ha matado a H0001
+[2025-04-16 13:45:58] El zombi Z0011 ha atacado pero la víctima H0001 ha sobrevivido.
+[2025-04-16 13:45:58] El zombi Z0004 ha matado a H0061
+[2025-04-16 13:45:58] El zombi Z0043 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:45:58] El zombi Z0041 ha atacado pero la víctima H0037 ha sobrevivido.
+[2025-04-16 13:45:58] H0013 ha comido en el comedor.
+[2025-04-16 13:45:58] H0040 entra en la zona de descanso.
+[2025-04-16 13:45:58] El zombi Z0041 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:45:58] H0058 entra en la zona común.
+[2025-04-16 13:45:58] H0059 espera para formar grupo en el túnel 1
+[2025-04-16 13:45:58] El zombi Z0020 ha atacado pero la víctima H0037 ha sobrevivido.
+[2025-04-16 13:45:58] El zombi Z0011 ha matado a H0037
+[2025-04-16 13:45:58] El zombi Z0004 ha atacado pero la víctima H0004 ha sobrevivido.
+[2025-04-16 13:45:58] H0004 vuelve por el túnel 1
+[2025-04-16 13:45:58] El zombi Z0001 ha atacado pero la víctima H0037 ha sobrevivido.
+[2025-04-16 13:45:59] El zombi Z0020 ha matado a H0037
+[2025-04-16 13:45:59] El zombi Z0029 ha atacado pero la víctima H0004 ha sobrevivido.
+[2025-04-16 13:45:59] El zombi Z0027 ha matado a H0036
+[2025-04-16 13:45:59] El zombi Z0025 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:45:59] El zombi Z0041 ha matado a H0004
+[2025-04-16 13:45:59] El zombi Z0037 ha matado a H0036
+[2025-04-16 13:46:00] El zombi Z0032 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:46:00] H0061 vuelve por el túnel 0
+[2025-04-16 13:46:00] H0010 entra en la zona común.
+[2025-04-16 13:46:00] H0058 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:00] El zombi Z0041 ha matado a H0037
+[2025-04-16 13:46:00] El zombi Z0021 ha matado a H0061
+[2025-04-16 13:46:00] El zombi Z0004 ha atacado pero la víctima H0061 ha sobrevivido.
+[2025-04-16 13:46:00] El zombi Z0041 ha atacado pero la víctima H0036 ha sobrevivido.
+[2025-04-16 13:46:01] H0037 vuelve por el túnel 0
+[2025-04-16 13:46:01] El zombi Z0032 ha matado a H0036
+[2025-04-16 13:46:01] El zombi Z0008 ha matado a H0036
+[2025-04-16 13:46:01] El zombi Z0000 ha atacado pero la víctima H0037 ha sobrevivido.
+[2025-04-16 13:46:02] H0036 vuelve por el túnel 0
+[2025-04-16 13:46:02] H0010 espera para formar grupo en el túnel 3
+[2025-04-16 13:46:02] H0057 entra en la zona común.
+[2025-04-16 13:46:02] H0060 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:02] H0035 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:02] H0010 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:02] H0060 cruza el túnel 3
+[2025-04-16 13:46:02] H0038 entra en la zona de descanso.
+[2025-04-16 13:46:02] H0027 ha comido en el comedor.
+[2025-04-16 13:46:02] El zombi Z0041 ha matado a H0036
+[2025-04-16 13:46:02] El zombi Z0004 ha atacado pero la víctima H0036 ha sobrevivido.
+[2025-04-16 13:46:03] H0035 cruza el túnel 3
+[2025-04-16 13:46:03] H0056 entra en la zona común.
+[2025-04-16 13:46:03] H0057 espera para formar grupo en el túnel 0
+[2025-04-16 13:46:04] H0010 cruza el túnel 3
+[2025-04-16 13:46:04] H0055 entra en la zona común.
+[2025-04-16 13:46:04] H0056 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:04] H0056 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:04] H0058 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:04] H0059 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:04] H0056 cruza el túnel 1
+[2025-04-16 13:46:04] H0042 entra en la zona de descanso.
+[2025-04-16 13:46:05] El zombi Z0008 ha matado a H0060
+[2025-04-16 13:46:05] El zombi Z0000 ha atacado pero la víctima H0060 ha sobrevivido.
+[2025-04-16 13:46:05] H0054 entra en la zona común.
+[2025-04-16 13:46:05] H0055 espera para formar grupo en el túnel 0
+[2025-04-16 13:46:05] H0058 cruza el túnel 1
+[2025-04-16 13:46:05] El zombi Z0000 ha atacado pero la víctima H0060 ha sobrevivido.
+[2025-04-16 13:46:05] El zombi Z0037 ha atacado pero la víctima H0035 ha sobrevivido.
+[2025-04-16 13:46:05] El zombi Z0027 ha atacado pero la víctima H0060 ha sobrevivido.
+[2025-04-16 13:46:05] H0007 ha comido en el comedor.
+[2025-04-16 13:46:06] El zombi Z0021 ha matado a H0035
+[2025-04-16 13:46:06] El zombi Z0008 ha atacado pero la víctima H0060 ha sobrevivido.
+[2025-04-16 13:46:06] El zombi Z0019 ha matado a H0060
+[2025-04-16 13:46:06] El zombi Z0042 ha matado a H0060
+[2025-04-16 13:46:06] El zombi Z0043 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:06] H0059 cruza el túnel 1
+[2025-04-16 13:46:06] H0060 vuelve por el túnel 3
+[2025-04-16 13:46:06] El zombi Z0061 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:06] El zombi Z0021 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:06] El zombi Z0036 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:06] El zombi Z0035 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0042 ha matado a H0035
+[2025-04-16 13:46:07] El zombi Z0011 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0037 ha matado a H0060
+[2025-04-16 13:46:07] H0053 entra en la zona común.
+[2025-04-16 13:46:07] H0054 espera para formar grupo en el túnel 3
+[2025-04-16 13:46:07] El zombi Z0008 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0001 ha matado a H0035
+[2025-04-16 13:46:07] El zombi Z0043 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:07] H0025 entra en la zona de descanso.
+[2025-04-16 13:46:07] El zombi Z0060 ha atacado pero la víctima H0035 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0020 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0021 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0035 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:07] El zombi Z0011 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0026 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0060 ha atacado pero la víctima H0035 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0061 ha matado a H0056
+[2025-04-16 13:46:08] El zombi Z0029 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0061 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0037 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0036 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0027 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0036 ha atacado pero la víctima H0035 ha sobrevivido.
+[2025-04-16 13:46:08] H0035 vuelve por el túnel 3
+[2025-04-16 13:46:08] H0053 espera para formar grupo en el túnel 3
+[2025-04-16 13:46:08] H0052 entra en la zona común.
+[2025-04-16 13:46:08] El zombi Z0020 ha matado a H0058
+[2025-04-16 13:46:08] El zombi Z0056 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0027 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:08] El zombi Z0004 ha matado a H0056
+[2025-04-16 13:46:08] El zombi Z0060 ha matado a H0010
+[2025-04-16 13:46:09] El zombi Z0036 ha matado a H0059
+[2025-04-16 13:46:09] El zombi Z0026 ha atacado pero la víctima H0035 ha sobrevivido.
+[2025-04-16 13:46:09] El zombi Z0027 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:09] El zombi Z0029 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:09] El zombi Z0061 ha matado a H0058
+[2025-04-16 13:46:09] El zombi Z0036 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:09] El zombi Z0060 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:09] El zombi Z0037 ha matado a H0059
+[2025-04-16 13:46:09] El zombi Z0027 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:09] H0008 entra en la zona de descanso.
+[2025-04-16 13:46:09] El zombi Z0027 ha matado a H0010
+[2025-04-16 13:46:09] El zombi Z0036 ha matado a H0035
+[2025-04-16 13:46:09] El zombi Z0041 ha matado a H0056
+[2025-04-16 13:46:09] H0038 ha comido en el comedor.
+[2025-04-16 13:46:09] H0056 vuelve por el túnel 1
+[2025-04-16 13:46:10] El zombi Z0036 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:10] H0010 vuelve por el túnel 3
+[2025-04-16 13:46:10] El zombi Z0061 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] H0052 espera para formar grupo en el túnel 0
+[2025-04-16 13:46:10] H0051 entra en la zona común.
+[2025-04-16 13:46:10] H0055 forma parte de un grupo en el túnel 0
+[2025-04-16 13:46:10] H0057 forma parte de un grupo en el túnel 0
+[2025-04-16 13:46:10] H0052 forma parte de un grupo en el túnel 0
+[2025-04-16 13:46:10] H0055 cruza el túnel 0
+[2025-04-16 13:46:10] El zombi Z0026 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0056 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0058 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0060 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0005 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0025 ha matado a H0059
+[2025-04-16 13:46:10] El zombi Z0058 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0032 ha matado a H0010
+[2025-04-16 13:46:10] El zombi Z0027 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0059 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0001 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:10] El zombi Z0042 ha matado a H0056
+[2025-04-16 13:46:10] El zombi Z0035 ha atacado pero la víctima H0058 ha sobrevivido.
+[2025-04-16 13:46:10] H0058 vuelve por el túnel 1
+[2025-04-16 13:46:10] El zombi Z0027 ha atacado pero la víctima H0010 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0037 ha atacado pero la víctima H0056 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0043 ha matado a H0058
+[2025-04-16 13:46:11] El zombi Z0041 ha matado a H0010
+[2025-04-16 13:46:11] El zombi Z0036 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] H0057 cruza el túnel 0
+[2025-04-16 13:46:11] El zombi Z0058 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0058 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0025 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0027 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0041 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:11] El zombi Z0058 ha matado a H0059
+[2025-04-16 13:46:11] H0022 se recupera de sus heridas en la zona de descanso.
+[2025-04-16 13:46:11] H0051 espera para formar grupo en el túnel 3
+[2025-04-16 13:46:11] H0050 entra en la zona común.
+[2025-04-16 13:46:11] H0053 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:11] H0054 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:11] H0051 forma parte de un grupo en el túnel 3
+[2025-04-16 13:46:11] H0053 cruza el túnel 3
+[2025-04-16 13:46:12] El zombi Z0006 ha matado a H0059
+[2025-04-16 13:46:12] H0052 cruza el túnel 0
+[2025-04-16 13:46:12] H0059 vuelve por el túnel 1
+[2025-04-16 13:46:12] El zombi Z0027 ha matado a H0059
+[2025-04-16 13:46:12] El zombi Z0010 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:12] El zombi Z0041 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:12] El zombi Z0058 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:12] El zombi Z0004 ha matado a H0055
+[2025-04-16 13:46:12] El zombi Z0016 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:12] El zombi Z0036 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:12] H0054 cruza el túnel 3
+[2025-04-16 13:46:13] El zombi Z0059 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:13] H0040 ha comido en el comedor.
+[2025-04-16 13:46:13] El zombi Z0058 ha matado a H0055
+[2025-04-16 13:46:13] El zombi Z0027 ha matado a H0059
+[2025-04-16 13:46:13] El zombi Z0060 ha atacado pero la víctima H0059 ha sobrevivido.
+[2025-04-16 13:46:13] H0050 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:13] H0049 entra en la zona común.
+[2025-04-16 13:46:13] El zombi Z0008 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:13] El zombi Z0059 ha matado a H0055
+[2025-04-16 13:46:13] El zombi Z0010 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:13] El zombi Z0056 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:13] El zombi Z0000 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:13] El zombi Z0016 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:13] H0051 cruza el túnel 3
+[2025-04-16 13:46:14] El zombi Z0035 ha matado a H0055
+[2025-04-16 13:46:14] El zombi Z0027 ha matado a H0053
+[2025-04-16 13:46:14] El zombi Z0059 ha matado a H0057
+[2025-04-16 13:46:14] El zombi Z0042 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0056 ha matado a H0057
+[2025-04-16 13:46:14] El zombi Z0056 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:14] H0049 espera para formar grupo en el túnel 2
+[2025-04-16 13:46:14] H0048 entra en la zona común.
+[2025-04-16 13:46:14] H0012 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:14] H0034 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:14] H0049 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:14] H0012 cruza el túnel 2
+[2025-04-16 13:46:14] El zombi Z0055 ha matado a H0057
+[2025-04-16 13:46:14] El zombi Z0035 ha matado a H0057
+[2025-04-16 13:46:14] El zombi Z0043 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0032 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0010 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0060 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0041 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:14] El zombi Z0058 ha matado a H0053
+[2025-04-16 13:46:14] El zombi Z0027 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:15] El zombi Z0004 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:15] El zombi Z0057 ha matado a H0054
+[2025-04-16 13:46:15] El zombi Z0029 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:15] El zombi Z0057 ha matado a H0054
+[2025-04-16 13:46:15] El zombi Z0043 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:15] El zombi Z0056 ha matado a H0055
+[2025-04-16 13:46:15] El zombi Z0036 ha matado a H0054
+[2025-04-16 13:46:15] El zombi Z0010 ha matado a H0053
+[2025-04-16 13:46:15] El zombi Z0042 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:15] H0034 cruza el túnel 2
+[2025-04-16 13:46:15] H0055 vuelve por el túnel 0
+[2025-04-16 13:46:15] El zombi Z0025 ha matado a H0057
+[2025-04-16 13:46:15] El zombi Z0058 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:15] El zombi Z0057 ha matado a H0054
+[2025-04-16 13:46:15] El zombi Z0057 ha matado a H0053
+[2025-04-16 13:46:15] H0048 espera para formar grupo en el túnel 3
+[2025-04-16 13:46:15] H0047 entra en la zona común.
+[2025-04-16 13:46:15] H0002 se recupera de sus heridas en la zona de descanso.
+[2025-04-16 13:46:15] El zombi Z0057 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0025 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0010 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0059 ha matado a H0055
+[2025-04-16 13:46:16] El zombi Z0054 ha matado a H0051
+[2025-04-16 13:46:16] El zombi Z0021 ha matado a H0051
+[2025-04-16 13:46:16] El zombi Z0060 ha matado a H0052
+[2025-04-16 13:46:16] El zombi Z0029 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0027 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0054 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0055 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0004 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0027 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0056 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0059 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0055 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:16] H0049 cruza el túnel 2
+[2025-04-16 13:46:16] H0057 vuelve por el túnel 0
+[2025-04-16 13:46:16] H0053 vuelve por el túnel 3
+[2025-04-16 13:46:16] El zombi Z0058 ha matado a H0057
+[2025-04-16 13:46:16] El zombi Z0036 ha matado a H0057
+[2025-04-16 13:46:16] El zombi Z0061 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0021 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0053 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0051 ha matado a H0012
+[2025-04-16 13:46:16] El zombi Z0036 ha matado a H0012
+[2025-04-16 13:46:16] El zombi Z0036 ha atacado pero la víctima H0055 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0057 ha matado a H0012
+[2025-04-16 13:46:16] El zombi Z0059 ha matado a H0053
+[2025-04-16 13:46:16] El zombi Z0010 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0060 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0058 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0027 ha matado a H0052
+[2025-04-16 13:46:16] El zombi Z0026 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0059 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0001 ha atacado pero la víctima H0053 ha sobrevivido.
+[2025-04-16 13:46:16] El zombi Z0027 ha matado a H0054
+[2025-04-16 13:46:17] H0046 entra en la zona común.
+[2025-04-16 13:46:17] H0047 espera para formar grupo en el túnel 2
+[2025-04-16 13:46:17] El zombi Z0061 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0059 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0054 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0051 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0054 ha matado a H0052
+[2025-04-16 13:46:17] El zombi Z0035 ha matado a H0012
+[2025-04-16 13:46:17] El zombi Z0057 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0055 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0056 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0025 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0056 ha matado a H0052
+[2025-04-16 13:46:17] El zombi Z0037 ha matado a H0012
+[2025-04-16 13:46:17] El zombi Z0059 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0033 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0000 ha matado a H0053
+[2025-04-16 13:46:17] El zombi Z0053 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0055 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0057 ha matado a H0052
+[2025-04-16 13:46:17] El zombi Z0057 ha atacado pero la víctima H0057 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0036 ha matado a H0012
+[2025-04-16 13:46:17] H0052 vuelve por el túnel 0
+[2025-04-16 13:46:17] El zombi Z0010 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0004 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0053 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0036 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0052 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0036 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0027 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0056 ha matado a H0052
+[2025-04-16 13:46:17] El zombi Z0055 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] H0041 ha comido en el comedor.
+[2025-04-16 13:46:17] El zombi Z0021 ha matado a H0052
+[2025-04-16 13:46:17] El zombi Z0053 ha matado a H0034
+[2025-04-16 13:46:17] El zombi Z0035 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:17] H0054 vuelve por el túnel 3
+[2025-04-16 13:46:17] El zombi Z0037 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0035 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0019 ha matado a H0034
+[2025-04-16 13:46:17] El zombi Z0037 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0051 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0060 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0012 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0011 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0058 ha matado a H0012
+[2025-04-16 13:46:17] El zombi Z0027 ha matado a H0034
+[2025-04-16 13:46:17] El zombi Z0055 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:17] El zombi Z0027 ha matado a H0012
+[2025-04-16 13:46:17] El zombi Z0059 ha matado a H0054
+[2025-04-16 13:46:18] El zombi Z0053 ha matado a H0012
+[2025-04-16 13:46:18] El zombi Z0057 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0054 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0036 ha atacado pero la víctima H0052 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0012 ha matado a H0054
+[2025-04-16 13:46:18] El zombi Z0057 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0060 ha matado a H0049
+[2025-04-16 13:46:18] El zombi Z0010 ha matado a H0051
+[2025-04-16 13:46:18] El zombi Z0057 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0010 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0059 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0061 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0059 ha matado a H0012
+[2025-04-16 13:46:18] El zombi Z0042 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0054 ha matado a H0054
+[2025-04-16 13:46:18] H0045 entra en la zona común.
+[2025-04-16 13:46:18] H0046 espera para formar grupo en el túnel 0
+[2025-04-16 13:46:18] El zombi Z0033 ha matado a H0054
+[2025-04-16 13:46:18] El zombi Z0057 ha matado a H0054
+[2025-04-16 13:46:18] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0051 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0041 ha matado a H0012
+[2025-04-16 13:46:18] El zombi Z0052 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0055 ha atacado pero la víctima H0054 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0004 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0052 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0055 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0036 ha matado a H0051
+[2025-04-16 13:46:18] El zombi Z0060 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0012 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0034 ha matado a H0051
+[2025-04-16 13:46:18] El zombi Z0036 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0042 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0035 ha matado a H0051
+[2025-04-16 13:46:18] El zombi Z0053 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0053 ha matado a H0051
+[2025-04-16 13:46:18] El zombi Z0052 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0051 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0021 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:18] El zombi Z0012 ha matado a H0049
+[2025-04-16 13:46:19] H0019 entra en la zona de descanso.
+[2025-04-16 13:46:19] El zombi Z0054 ha matado a H0051
+[2025-04-16 13:46:19] El zombi Z0057 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0059 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0054 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0053 ha matado a H0012
+[2025-04-16 13:46:19] El zombi Z0006 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0061 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0060 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0049 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0054 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0057 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0055 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0036 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0055 ha matado a H0051
+[2025-04-16 13:46:19] El zombi Z0012 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0052 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0053 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0053 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0005 ha matado a H0049
+[2025-04-16 13:46:19] El zombi Z0012 ha matado a H0012
+[2025-04-16 13:46:19] El zombi Z0055 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0059 ha matado a H0012
+[2025-04-16 13:46:19] El zombi Z0051 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0051 ha matado a H0049
+[2025-04-16 13:46:19] El zombi Z0016 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0051 ha matado a H0012
+[2025-04-16 13:46:19] El zombi Z0020 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0051 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0055 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0041 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0049 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0054 ha matado a H0051
+[2025-04-16 13:46:19] El zombi Z0057 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0057 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] H0051 vuelve por el túnel 3
+[2025-04-16 13:46:19] El zombi Z0004 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:19] El zombi Z0051 ha matado a H0049
+[2025-04-16 13:46:20] El zombi Z0029 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0027 ha matado a H0012
+[2025-04-16 13:46:20] El zombi Z0051 ha matado a H0049
+[2025-04-16 13:46:20] El zombi Z0053 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] H0044 entra en la zona común.
+[2025-04-16 13:46:20] H0045 espera para formar grupo en el túnel 0
+[2025-04-16 13:46:20] H0012 vuelve por el túnel 2
+[2025-04-16 13:46:20] El zombi Z0052 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0016 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0012 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0006 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0051 ha matado a H0012
+[2025-04-16 13:46:20] El zombi Z0054 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0012 ha matado a H0051
+[2025-04-16 13:46:20] El zombi Z0051 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0052 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0036 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0052 ha matado a H0012
+[2025-04-16 13:46:20] El zombi Z0058 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0012 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0025 ha matado a H0051
+[2025-04-16 13:46:20] El zombi Z0012 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0037 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0055 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0036 ha matado a H0051
+[2025-04-16 13:46:20] El zombi Z0029 ha matado a H0012
+[2025-04-16 13:46:20] El zombi Z0052 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0051 ha matado a H0012
+[2025-04-16 13:46:20] El zombi Z0012 ha matado a H0051
+[2025-04-16 13:46:20] El zombi Z0051 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0027 ha matado a H0049
+[2025-04-16 13:46:20] El zombi Z0054 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0052 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0005 ha matado a H0049
+[2025-04-16 13:46:20] El zombi Z0053 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0001 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0036 ha matado a H0034
+[2025-04-16 13:46:20] El zombi Z0019 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0057 ha matado a H0051
+[2025-04-16 13:46:20] El zombi Z0049 ha matado a H0049
+[2025-04-16 13:46:20] El zombi Z0037 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:20] El zombi Z0053 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0049 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:21] H0034 vuelve por el túnel 2
+[2025-04-16 13:46:21] El zombi Z0011 ha atacado pero la víctima H0012 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0049 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0012 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:21] H0087 entra en la zona común.
+[2025-04-16 13:46:21] H0044 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:21] El zombi Z0052 ha matado a H0051
+[2025-04-16 13:46:21] El zombi Z0026 ha matado a H0051
+[2025-04-16 13:46:21] El zombi Z0041 ha atacado pero la víctima H0051 ha sobrevivido.
+[2025-04-16 13:46:21] H0008 ha comido en el comedor.
+[2025-04-16 13:46:21] El zombi Z0054 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0012 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0057 ha atacado pero la víctima H0034 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0051 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0052 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0051 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0054 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0051 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0051 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0004 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0012 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0051 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0052 ha atacado pero la víctima H0049 ha sobrevivido.
+[2025-04-16 13:46:21] El zombi Z0060 ha matado a H0049
+[2025-04-16 13:46:21] El zombi Z0036 ha matado a H0049
+[2025-04-16 13:46:22] H0049 vuelve por el túnel 2
+[2025-04-16 13:46:22] El zombi Z0027 ha matado a H0049
+[2025-04-16 13:46:22] H0043 entra en la zona de descanso.
+[2025-04-16 13:46:23] H0002 entra en la zona común.
+[2025-04-16 13:46:23] H0087 espera para formar grupo en el túnel 2
+[2025-04-16 13:46:24] H0025 ha comido en el comedor.
+[2025-04-16 13:46:24] H0086 entra en la zona común.
+[2025-04-16 13:46:24] H0002 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:24] H0002 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:24] H0044 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:24] H0050 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:24] H0002 cruza el túnel 1
+[2025-04-16 13:46:25] H0044 cruza el túnel 1
+[2025-04-16 13:46:26] El zombi Z0054 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:26] H0029 entra en la zona de descanso.
+[2025-04-16 13:46:26] El zombi Z0036 ha matado a H0002
+[2025-04-16 13:46:26] H0086 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:26] H0085 entra en la zona común.
+[2025-04-16 13:46:26] El zombi Z0012 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:26] El zombi Z0054 ha matado a H0002
+[2025-04-16 13:46:26] El zombi Z0021 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:26] H0050 cruza el túnel 1
+[2025-04-16 13:46:27] El zombi Z0051 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0036 ha matado a H0002
+[2025-04-16 13:46:27] El zombi Z0011 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0053 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0049 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0012 ha matado a H0002
+[2025-04-16 13:46:27] El zombi Z0054 ha matado a H0002
+[2025-04-16 13:46:27] El zombi Z0060 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0042 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0036 ha matado a H0002
+[2025-04-16 13:46:27] El zombi Z0060 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0010 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0051 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0059 ha matado a H0002
+[2025-04-16 13:46:27] El zombi Z0053 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0051 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0012 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0049 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:27] El zombi Z0012 ha matado a H0002
+[2025-04-16 13:46:27] H0022 entra en la zona común.
+[2025-04-16 13:46:27] H0085 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:28] El zombi Z0051 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0055 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0002 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0056 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0012 ha matado a H0002
+[2025-04-16 13:46:28] El zombi Z0042 ha matado a H0044
+[2025-04-16 13:46:28] El zombi Z0055 ha matado a H0002
+[2025-04-16 13:46:28] El zombi Z0037 ha matado a H0044
+[2025-04-16 13:46:28] El zombi Z0027 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0037 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0054 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0027 ha matado a H0044
+[2025-04-16 13:46:28] El zombi Z0057 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0053 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0011 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0056 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0002 ha matado a H0002
+[2025-04-16 13:46:28] El zombi Z0055 ha matado a H0044
+[2025-04-16 13:46:28] El zombi Z0035 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0060 ha matado a H0002
+[2025-04-16 13:46:28] El zombi Z0049 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0059 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0057 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] H0042 ha comido en el comedor.
+[2025-04-16 13:46:28] El zombi Z0055 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0012 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0055 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:28] El zombi Z0055 ha matado a H0050
+[2025-04-16 13:46:28] El zombi Z0029 ha matado a H0050
+[2025-04-16 13:46:29] El zombi Z0002 ha matado a H0002
+[2025-04-16 13:46:29] El zombi Z0026 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0010 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0016 ha matado a H0044
+[2025-04-16 13:46:29] El zombi Z0059 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:29] H0022 espera para formar grupo en el túnel 1
+[2025-04-16 13:46:29] H0084 entra en la zona común.
+[2025-04-16 13:46:29] H0085 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:29] H0086 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:29] H0022 forma parte de un grupo en el túnel 1
+[2025-04-16 13:46:29] H0085 cruza el túnel 1
+[2025-04-16 13:46:29] El zombi Z0061 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0000 ha matado a H0002
+[2025-04-16 13:46:29] El zombi Z0049 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0011 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0044 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0012 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0027 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0008 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0019 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0049 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0051 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0054 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0050 ha matado a H0044
+[2025-04-16 13:46:29] El zombi Z0054 ha matado a H0044
+[2025-04-16 13:46:29] El zombi Z0059 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0049 ha matado a H0050
+[2025-04-16 13:46:29] El zombi Z0026 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:29] El zombi Z0059 ha matado a H0044
+[2025-04-16 13:46:30] El zombi Z0057 ha matado a H0044
+[2025-04-16 13:46:30] El zombi Z0036 ha matado a H0044
+[2025-04-16 13:46:30] El zombi Z0027 ha matado a H0050
+[2025-04-16 13:46:30] H0086 cruza el túnel 1
+[2025-04-16 13:46:30] H0032 entra en la zona de descanso.
+[2025-04-16 13:46:30] El zombi Z0050 ha matado a H0050
+[2025-04-16 13:46:30] El zombi Z0051 ha matado a H0044
+[2025-04-16 13:46:30] El zombi Z0051 ha matado a H0050
+[2025-04-16 13:46:30] El zombi Z0055 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0004 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0029 ha atacado pero la víctima H0002 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0002 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0044 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0012 ha matado a H0050
+[2025-04-16 13:46:30] H0084 espera para formar grupo en el túnel 2
+[2025-04-16 13:46:30] H0083 entra en la zona común.
+[2025-04-16 13:46:30] H0087 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:30] H0047 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:30] H0084 forma parte de un grupo en el túnel 2
+[2025-04-16 13:46:30] H0087 cruza el túnel 2
+[2025-04-16 13:46:30] El zombi Z0019 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0010 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0049 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0004 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0052 ha matado a H0050
+[2025-04-16 13:46:30] El zombi Z0052 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0059 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0054 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0050 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0049 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:30] El zombi Z0057 ha matado a H0050
+[2025-04-16 13:46:31] El zombi Z0050 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0053 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0020 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0051 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0043 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0036 ha atacado pero la víctima H0044 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0051 ha matado a H0050
+[2025-04-16 13:46:31] H0022 cruza el túnel 1
+[2025-04-16 13:46:31] El zombi Z0049 ha matado a H0044
+[2025-04-16 13:46:31] El zombi Z0002 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:31] El zombi Z0059 ha matado a H0044
+[2025-04-16 13:46:31] El zombi Z0036 ha atacado pero la víctima H0050 ha sobrevivido.
+[2025-04-16 13:46:31] H0047 cruza el túnel 2
