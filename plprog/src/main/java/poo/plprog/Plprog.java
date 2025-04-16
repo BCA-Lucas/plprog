@@ -12,8 +12,10 @@ public class Plprog {
         zriesgo zr4 = new zriesgo(4);
 
         // Crear humano y añadirlo a la zona 1
-        humanos h1 = new humanos(101);
+        humanos h1 = new humanos(0001);
+        humanos h2 = new humanos(0010);
         zr1.hactuales.add(h1.getId());
+        zr1.hactuales.add(h2.getId());
 
         // Crear zombi inicial y lanzarlo
         zombis zomb = new zombis("Z0000", zr1, zr2, zr3, zr4);
