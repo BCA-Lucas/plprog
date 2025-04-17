@@ -5,6 +5,9 @@ import gestor.GestorHumanos;
 import entorno.Refugio;
 import control.ControlGlobal;
 import entorno.SistemaDeLog;
+import fase1.VentanaPrincipal;
+import javax.swing.SwingUtilities;
+
 
 public class Plprog {
 
@@ -19,5 +22,7 @@ public class Plprog {
 
         gestorZombis.iniciarZombiInicial();
         gestorHumanos.iniciarGeneracionHumanos();
+        
+        new VentanaPrincipal(refugio).setVisible(true);
     }
 }

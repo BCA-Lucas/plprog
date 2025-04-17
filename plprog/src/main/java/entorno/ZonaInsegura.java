@@ -8,8 +8,11 @@ package entorno;
  *
  * @author Rodri
  */
+// src/entorno/ZonaInsegura.java
+
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.stream.Collectors;
 import modelo.Humano;
 import modelo.Zombi;
 
@@ -19,17 +22,17 @@ public class ZonaInsegura {
     static {
         for (int i = 0; i < 4; i++) zonas[i] = new ZonaInsegura(i);
     }
-    public static ZonaInsegura get(int id) { 
-        return zonas[id]; 
-    }
+
+    public static ZonaInsegura get(int id) { return zonas[id]; }
     public static ZonaInsegura getAleatoria() {
         return zonas[(int)(Math.random() * zonas.length)];
     }
 
     private final int id;
     private final Queue<Humano> humanos = new ConcurrentLinkedQueue<>();
+    private final Queue<Zombi> zombis = new ConcurrentLinkedQueue<>();
 
-    private ZonaInsegura(int id) { 
+        private ZonaInsegura(int id) { 
         this.id = id; 
     }
 
@@ -68,5 +71,13 @@ public class ZonaInsegura {
                 e.printStackTrace();
             }
         }
+    }
+
+    public List<String> getHumanosPresentes() {
+        return humanos.stream().map(Humano::getIdHumano).collect(Collectors.toList());
+    }
+
+    public List<String> getZombisPresentes() {
+        return zombis.stream().map(Zombi::getIdZombi).collect(Collectors.toList());
     }
 }
