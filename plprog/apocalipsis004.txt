@@ -1,0 +1,37 @@
+[2025-04-19 13:34:00] H0001 entra en la zona común.
+[2025-04-19 13:34:02] H0002 entra en la zona común.
+[2025-04-19 13:34:02] H0001 espera para formar grupo en el túnel 3
+[2025-04-19 13:34:03] H0003 entra en la zona común.
+[2025-04-19 13:34:03] H0002 espera para formar grupo en el túnel 0
+[2025-04-19 13:34:05] H0003 espera para formar grupo en el túnel 1
+[2025-04-19 13:34:05] H0004 entra en la zona común.
+[2025-04-19 13:34:07] H0004 espera para formar grupo en el túnel 2
+[2025-04-19 13:34:07] H0005 entra en la zona común.
+[2025-04-19 13:34:08] H0005 espera para formar grupo en el túnel 3
+[2025-04-19 13:34:08] H0006 entra en la zona común.
+[2025-04-19 13:34:09] H0007 entra en la zona común.
+[2025-04-19 13:34:09] H0006 espera para formar grupo en el túnel 2
+[2025-04-19 13:34:10] H0008 entra en la zona común.
+[2025-04-19 13:34:10] H0007 espera para formar grupo en el túnel 0
+[2025-04-19 13:34:12] H0008 espera para formar grupo en el túnel 3
+[2025-04-19 13:34:12] H0010 entra en la zona común.
+[2025-04-19 13:34:12] H0005 forma parte de un grupo en el túnel 3
+[2025-04-19 13:34:12] H0008 forma parte de un grupo en el túnel 3
+[2025-04-19 13:34:12] H0001 forma parte de un grupo en el túnel 3
+[2025-04-19 13:34:12] H0005 cruza el túnel 3
+[2025-04-19 13:34:13] H0008 cruza el túnel 3
+[2025-04-19 13:34:14] H0009 entra en la zona común.
+[2025-04-19 13:34:14] H0010 espera para formar grupo en el túnel 1
+[2025-04-19 13:34:14] H0001 cruza el túnel 3
+[2025-04-19 13:34:15] El zombi Z0000 ha atacado pero la víctima H0005 ha sobrevivido.
+[2025-04-19 13:34:15] H0013 entra en la zona común.
+[2025-04-19 13:34:15] H0009 espera para formar grupo en el túnel 0
+[2025-04-19 13:34:15] H0009 forma parte de un grupo en el túnel 0
+[2025-04-19 13:34:15] H0007 forma parte de un grupo en el túnel 0
+[2025-04-19 13:34:15] H0002 forma parte de un grupo en el túnel 0
+[2025-04-19 13:34:15] H0009 cruza el túnel 0
+[2025-04-19 13:34:16] H0007 cruza el túnel 0
+[2025-04-19 13:34:17] H0012 entra en la zona común.
+[2025-04-19 13:34:17] H0013 espera para formar grupo en el túnel 3
+[2025-04-19 13:34:17] H0005 vuelve por el túnel 3
+[2025-04-19 13:34:17] H0002 cruza el túnel 0

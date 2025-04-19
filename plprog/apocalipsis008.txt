@@ -1,0 +1,2528 @@
+[2025-04-19 13:58:46] H0001 entra en la zona común.
+[2025-04-19 13:58:46] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:58:48] H0002 entra en la zona común.
+[2025-04-19 13:58:48] H0001 espera para formar grupo en el túnel 0
+[2025-04-19 13:58:49] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:58:49] H0004 entra en la zona común.
+[2025-04-19 13:58:49] H0002 espera para formar grupo en el túnel 2
+[2025-04-19 13:58:50] H0004 espera para formar grupo en el túnel 2
+[2025-04-19 13:58:50] H0003 entra en la zona común.
+[2025-04-19 13:58:51] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:58:52] H0005 entra en la zona común.
+[2025-04-19 13:58:52] H0003 espera para formar grupo en el túnel 3
+[2025-04-19 13:58:53] H0005 espera para formar grupo en el túnel 1
+[2025-04-19 13:58:53] H0006 entra en la zona común.
+[2025-04-19 13:58:53] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:58:55] H0006 espera para formar grupo en el túnel 3
+[2025-04-19 13:58:55] H0007 entra en la zona común.
+[2025-04-19 13:58:56] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:58:57] H0007 espera para formar grupo en el túnel 0
+[2025-04-19 13:58:57] H0008 entra en la zona común.
+[2025-04-19 13:58:58] H0008 espera para formar grupo en el túnel 1
+[2025-04-19 13:58:58] H0009 entra en la zona común.
+[2025-04-19 13:58:58] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:00] H0009 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:00] H0011 entra en la zona común.
+[2025-04-19 13:59:00] H0009 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:00] H0006 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:00] H0003 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:00] H0009 cruza el túnel 3
+[2025-04-19 13:59:01] H0006 cruza el túnel 3
+[2025-04-19 13:59:01] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:01] H0010 entra en la zona común.
+[2025-04-19 13:59:01] H0011 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:01] H0011 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:01] H0011 cruza el túnel 2
+[2025-04-19 13:59:01] H0004 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:01] H0002 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:02] H0003 cruza el túnel 3
+[2025-04-19 13:59:02] H0004 cruza el túnel 2
+[2025-04-19 13:59:03] H0010 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:03] H0014 entra en la zona común.
+[2025-04-19 13:59:03] H0002 cruza el túnel 2
+[2025-04-19 13:59:03] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:04] H0009 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:04] H0009 vuelve por el túnel 3
+[2025-04-19 13:59:05] H0009 entra en la zona de descanso.
+[2025-04-19 13:59:05] H0013 entra en la zona común.
+[2025-04-19 13:59:05] H0014 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:05] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:06] H0006 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:06] H0006 vuelve por el túnel 3
+[2025-04-19 13:59:06] H0013 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:06] H0012 entra en la zona común.
+[2025-04-19 13:59:06] H0003 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:06] H0011 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:06] H0011 vuelve por el túnel 2
+[2025-04-19 13:59:07] H0003 vuelve por el túnel 3
+[2025-04-19 13:59:07] H0004 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:07] H0006 entra en la zona de descanso.
+[2025-04-19 13:59:07] H0004 vuelve por el túnel 2
+[2025-04-19 13:59:08] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:08] H0002 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:08] H0012 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:08] H0019 entra en la zona común.
+[2025-04-19 13:59:08] H0002 vuelve por el túnel 2
+[2025-04-19 13:59:09] El zombi Z0000 ha matado a H0002 Muertes: 1
+[2025-04-19 13:59:09] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:09] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:10] H0019 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:10] H0018 entra en la zona común.
+[2025-04-19 13:59:10] H0013 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:10] H0013 cruza el túnel 2
+[2025-04-19 13:59:10] H0012 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:10] H0019 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:11] H0012 cruza el túnel 2
+[2025-04-19 13:59:11] H0017 entra en la zona común.
+[2025-04-19 13:59:11] H0018 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:11] H0018 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:11] H0014 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:11] H0010 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:11] H0018 cruza el túnel 3
+[2025-04-19 13:59:12] Z0002 se cambia a la zona insegura 1
+[2025-04-19 13:59:12] H0009 ha comido en el comedor.
+[2025-04-19 13:59:12] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:12] H0019 cruza el túnel 2
+[2025-04-19 13:59:12] H0014 cruza el túnel 3
+[2025-04-19 13:59:13] H0017 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:13] H0016 entra en la zona común.
+[2025-04-19 13:59:13] H0010 cruza el túnel 3
+[2025-04-19 13:59:14] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:14] H0013 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:14] H0013 vuelve por el túnel 2
+[2025-04-19 13:59:15] H0015 entra en la zona común.
+[2025-04-19 13:59:15] H0016 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:15] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:16] H0015 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:16] H0024 entra en la zona común.
+[2025-04-19 13:59:16] H0018 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:16] H0018 vuelve por el túnel 3
+[2025-04-19 13:59:16] H0012 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:16] H0012 vuelve por el túnel 2
+[2025-04-19 13:59:16] H0019 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:17] H0006 ha comido en el comedor.
+[2025-04-19 13:59:17] H0002 entra en la zona de descanso.
+[2025-04-19 13:59:17] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:17] H0019 vuelve por el túnel 2
+[2025-04-19 13:59:17] H0024 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:17] H0023 entra en la zona común.
+[2025-04-19 13:59:17] H0008 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:17] H0005 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:17] H0024 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:17] H0008 cruza el túnel 1
+[2025-04-19 13:59:17] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:18] H0014 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:18] H0014 vuelve por el túnel 3
+[2025-04-19 13:59:18] H0005 cruza el túnel 1
+[2025-04-19 13:59:18] H0010 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:18] El zombi Z0000 ha atacado pero la víctima H0010 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:18] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:19] H0009 entra en la zona común.
+[2025-04-19 13:59:19] H0023 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:19] H0010 vuelve por el túnel 3
+[2025-04-19 13:59:19] H0024 cruza el túnel 1
+[2025-04-19 13:59:19] H0014 entra en la zona de descanso.
+[2025-04-19 13:59:19] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:20] H0022 entra en la zona común.
+[2025-04-19 13:59:20] H0009 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:21] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:22] Z0002 se cambia a la zona insegura 1
+[2025-04-19 13:59:22] H0019 entra en la zona de descanso.
+[2025-04-19 13:59:22] H0021 entra en la zona común.
+[2025-04-19 13:59:22] H0022 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:22] H0022 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:22] H0016 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:22] H0017 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:22] H0022 cruza el túnel 3
+[2025-04-19 13:59:23] H0008 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:23] H0008 vuelve por el túnel 1
+[2025-04-19 13:59:23] H0002 ha comido en el comedor.
+[2025-04-19 13:59:23] H0005 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:23] H0016 cruza el túnel 3
+[2025-04-19 13:59:23] El zombi Z0002 ha atacado pero la víctima H0005 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:23] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:23] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:24] H0005 vuelve por el túnel 1
+[2025-04-19 13:59:24] H0021 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:24] H0020 entra en la zona común.
+[2025-04-19 13:59:24] H0024 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:24] H0017 cruza el túnel 3
+[2025-04-19 13:59:25] H0024 vuelve por el túnel 1
+[2025-04-19 13:59:26] H0020 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:26] H0033 entra en la zona común.
+[2025-04-19 13:59:26] H0012 entra en la zona de descanso.
+[2025-04-19 13:59:26] Z0002 se cambia a la zona insegura 3
+[2025-04-19 13:59:26] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:27] H0033 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:27] H0033 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:27] H0032 entra en la zona común.
+[2025-04-19 13:59:27] H0033 cruza el túnel 3
+[2025-04-19 13:59:27] H0020 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:27] H0021 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:27] El zombi Z0002 ha atacado pero la víctima H0022 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:27] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:27] H0014 ha comido en el comedor.
+[2025-04-19 13:59:27] El zombi Z0000 ha matado a H0017 Muertes: 2
+[2025-04-19 13:59:27] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:27] Z0017 se cambia a la zona insegura 2
+[2025-04-19 13:59:28] H0020 cruza el túnel 3
+[2025-04-19 13:59:28] H0018 entra en la zona de descanso.
+[2025-04-19 13:59:29] H0031 entra en la zona común.
+[2025-04-19 13:59:29] H0032 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:29] H0021 cruza el túnel 3
+[2025-04-19 13:59:29] H0017 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:29] H0016 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:29] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:30] H0022 vuelve por el túnel 3
+[2025-04-19 13:59:30] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:30] Z0017 se cambia a la zona insegura 3
+[2025-04-19 13:59:30] H0031 espera para formar grupo en el túnel 0
+[2025-04-19 13:59:30] H0030 entra en la zona común.
+[2025-04-19 13:59:30] H0007 forma parte de un grupo en el túnel 0
+[2025-04-19 13:59:30] H0007 cruza el túnel 0
+[2025-04-19 13:59:30] H0001 forma parte de un grupo en el túnel 0
+[2025-04-19 13:59:30] H0031 forma parte de un grupo en el túnel 0
+[2025-04-19 13:59:30] H0019 ha comido en el comedor.
+[2025-04-19 13:59:31] H0013 entra en la zona de descanso.
+[2025-04-19 13:59:31] H0017 vuelve por el túnel 3
+[2025-04-19 13:59:31] El zombi Z0017 ha matado a H0021 Muertes: 1
+[2025-04-19 13:59:31] Z0017 se cambia a la zona insegura 1
+[2025-04-19 13:59:31] Z0021 se cambia a la zona insegura 0
+[2025-04-19 13:59:31] H0001 cruza el túnel 0
+[2025-04-19 13:59:31] H0030 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:31] H0029 entra en la zona común.
+[2025-04-19 13:59:32] Z0002 se cambia a la zona insegura 1
+[2025-04-19 13:59:32] H0016 vuelve por el túnel 3
+[2025-04-19 13:59:32] H0031 cruza el túnel 0
+[2025-04-19 13:59:32] H0033 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:33] H0028 entra en la zona común.
+[2025-04-19 13:59:33] H0029 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:33] H0029 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:33] H0030 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:33] H0015 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:33] H0029 cruza el túnel 2
+[2025-04-19 13:59:33] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:33] H0033 vuelve por el túnel 3
+[2025-04-19 13:59:33] H0021 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:33] H0011 entra en la zona de descanso.
+[2025-04-19 13:59:33] H0020 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:34] H0028 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:34] H0027 entra en la zona común.
+[2025-04-19 13:59:34] H0030 cruza el túnel 2
+[2025-04-19 13:59:34] Z0017 se cambia a la zona insegura 3
+[2025-04-19 13:59:34] H0021 vuelve por el túnel 3
+[2025-04-19 13:59:34] El zombi Z0000 ha matado a H0020 Muertes: 3
+[2025-04-19 13:59:34] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:34] Z0020 se cambia a la zona insegura 0
+[2025-04-19 13:59:34] H0012 ha comido en el comedor.
+[2025-04-19 13:59:34] Z0021 se cambia a la zona insegura 2
+[2025-04-19 13:59:35] H0015 cruza el túnel 2
+[2025-04-19 13:59:35] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:35] El zombi Z0020 ha matado a H0001 Muertes: 1
+[2025-04-19 13:59:35] Z0020 se cambia a la zona insegura 3
+[2025-04-19 13:59:35] Z0001 se cambia a la zona insegura 0
+[2025-04-19 13:59:35] El zombi Z0021 ha atacado pero la víctima H0029 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:35] Z0021 se cambia a la zona insegura 1
+[2025-04-19 13:59:35] H0020 vuelve por el túnel 3
+[2025-04-19 13:59:35] H0027 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:35] H0026 entra en la zona común.
+[2025-04-19 13:59:35] El zombi Z0000 ha atacado pero la víctima H0029 ha sobrevivido. Muertes: 3
+[2025-04-19 13:59:35] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:35] H0003 entra en la zona de descanso.
+[2025-04-19 13:59:36] H0007 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:36] H0007 vuelve por el túnel 0
+[2025-04-19 13:59:36] El zombi Z0002 ha matado a H0030 Muertes: 1
+[2025-04-19 13:59:36] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:36] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:36] El zombi Z0001 ha matado a H0007 Muertes: 1
+[2025-04-19 13:59:36] Z0001 se cambia a la zona insegura 1
+[2025-04-19 13:59:36] Z0007 se cambia a la zona insegura 3
+[2025-04-19 13:59:36] Z0017 se cambia a la zona insegura 2
+[2025-04-19 13:59:36] El zombi Z0000 ha atacado pero la víctima H0007 ha sobrevivido. Muertes: 3
+[2025-04-19 13:59:36] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:37] H0001 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:37] H0006 entra en la zona común.
+[2025-04-19 13:59:37] H0026 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:37] H0001 vuelve por el túnel 0
+[2025-04-19 13:59:37] H0031 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:37] El zombi Z0017 ha atacado pero la víctima H0030 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:37] Z0017 se cambia a la zona insegura 1
+[2025-04-19 13:59:37] El zombi Z0002 ha atacado pero la víctima H0001 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:37] Z0002 se cambia a la zona insegura 1
+[2025-04-19 13:59:37] Z0021 se cambia a la zona insegura 2
+[2025-04-19 13:59:38] Z0020 se cambia a la zona insegura 2
+[2025-04-19 13:59:38] H0029 vuelve por el túnel 2
+[2025-04-19 13:59:38] H0031 vuelve por el túnel 0
+[2025-04-19 13:59:38] H0013 ha comido en el comedor.
+[2025-04-19 13:59:38] H0004 entra en la zona de descanso.
+[2025-04-19 13:59:38] El zombi Z0021 ha matado a H0030 Muertes: 1
+[2025-04-19 13:59:38] Z0021 se cambia a la zona insegura 3
+[2025-04-19 13:59:38] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:38] El zombi Z0020 ha atacado pero la víctima H0029 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:38] Z0020 se cambia a la zona insegura 3
+[2025-04-19 13:59:38] H0006 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:38] H0025 entra en la zona común.
+[2025-04-19 13:59:38] H0027 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:38] H0032 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:38] H0006 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:38] H0027 cruza el túnel 3
+[2025-04-19 13:59:39] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:39] Z0007 se cambia a la zona insegura 1
+[2025-04-19 13:59:39] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:39] Z0001 se cambia a la zona insegura 2
+[2025-04-19 13:59:39] Z0017 se cambia a la zona insegura 2
+[2025-04-19 13:59:39] H0032 cruza el túnel 3
+[2025-04-19 13:59:39] H0030 vuelve por el túnel 2
+[2025-04-19 13:59:40] H0025 espera para formar grupo en el túnel 2
+[2025-04-19 13:59:40] H0044 entra en la zona común.
+[2025-04-19 13:59:40] H0026 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:40] H0028 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:40] H0025 forma parte de un grupo en el túnel 2
+[2025-04-19 13:59:40] El zombi Z0000 ha atacado pero la víctima H0030 ha sobrevivido. Muertes: 3
+[2025-04-19 13:59:40] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:40] H0015 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:40] El zombi Z0017 ha matado a H0015 Muertes: 2
+[2025-04-19 13:59:40] Z0017 se cambia a la zona insegura 0
+[2025-04-19 13:59:40] Z0015 se cambia a la zona insegura 1
+[2025-04-19 13:59:40] El zombi Z0001 ha atacado pero la víctima H0015 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:40] Z0001 se cambia a la zona insegura 3
+[2025-04-19 13:59:40] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:40] Z0021 se cambia a la zona insegura 0
+[2025-04-19 13:59:40] H0006 cruza el túnel 3
+[2025-04-19 13:59:40] H0026 cruza el túnel 2
+[2025-04-19 13:59:41] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:41] H0013 entra en la zona común.
+[2025-04-19 13:59:41] H0044 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:41] H0044 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:41] H0009 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:41] H0023 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:41] H0044 cruza el túnel 1
+[2025-04-19 13:59:41] Z0007 se cambia a la zona insegura 0
+[2025-04-19 13:59:41] Z0020 se cambia a la zona insegura 2
+[2025-04-19 13:59:41] H0018 ha comido en el comedor.
+[2025-04-19 13:59:41] H0031 entra en la zona de descanso.
+[2025-04-19 13:59:41] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:41] El zombi Z0001 ha matado a H0027 Muertes: 2
+[2025-04-19 13:59:41] Z0001 se cambia a la zona insegura 0
+[2025-04-19 13:59:41] Z0027 se cambia a la zona insegura 1
+[2025-04-19 13:59:41] H0028 cruza el túnel 2
+[2025-04-19 13:59:42] Z0015 se cambia a la zona insegura 0
+[2025-04-19 13:59:42] Z0017 se cambia a la zona insegura 1
+[2025-04-19 13:59:42] H0009 cruza el túnel 1
+[2025-04-19 13:59:42] H0013 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:42] H0043 entra en la zona común.
+[2025-04-19 13:59:42] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:42] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:42] H0025 cruza el túnel 2
+[2025-04-19 13:59:43] Z0021 se cambia a la zona insegura 3
+[2025-04-19 13:59:43] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:43] H0023 cruza el túnel 1
+[2025-04-19 13:59:43] Z0020 se cambia a la zona insegura 3
+[2025-04-19 13:59:43] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:43] H0015 vuelve por el túnel 2
+[2025-04-19 13:59:43] Z0007 se cambia a la zona insegura 3
+[2025-04-19 13:59:44] El zombi Z0000 ha matado a H0026 Muertes: 4
+[2025-04-19 13:59:44] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:44] Z0026 se cambia a la zona insegura 2
+[2025-04-19 13:59:44] H0043 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:44] H0042 entra en la zona común.
+[2025-04-19 13:59:44] H0032 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:44] H0032 vuelve por el túnel 3
+[2025-04-19 13:59:44] H0027 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:44] El zombi Z0007 ha atacado pero la víctima H0032 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:44] Z0007 se cambia a la zona insegura 1
+[2025-04-19 13:59:44] Z0027 se cambia a la zona insegura 0
+[2025-04-19 13:59:44] Z0001 se cambia a la zona insegura 1
+[2025-04-19 13:59:44] H0030 entra en la zona de descanso.
+[2025-04-19 13:59:44] El zombi Z0021 ha matado a H0006 Muertes: 2
+[2025-04-19 13:59:44] Z0021 se cambia a la zona insegura 2
+[2025-04-19 13:59:44] Z0006 se cambia a la zona insegura 3
+[2025-04-19 13:59:44] El zombi Z0030 ha atacado pero la víctima H0006 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:44] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:44] El zombi Z0020 ha atacado pero la víctima H0027 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:44] Z0020 se cambia a la zona insegura 2
+[2025-04-19 13:59:44] El zombi Z0030 ha atacado pero la víctima H0027 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:44] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:44] Z0015 se cambia a la zona insegura 1
+[2025-04-19 13:59:45] El zombi Z0000 ha matado a H0009 Muertes: 5
+[2025-04-19 13:59:45] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:45] Z0009 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] H0027 vuelve por el túnel 3
+[2025-04-19 13:59:45] El zombi Z0007 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:45] Z0007 se cambia a la zona insegura 2
+[2025-04-19 13:59:45] H0042 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:45] H0041 entra en la zona común.
+[2025-04-19 13:59:45] El zombi Z0026 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:45] Z0026 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] Z0017 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] Z0002 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] El zombi Z0020 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:45] Z0020 se cambia a la zona insegura 1
+[2025-04-19 13:59:45] El zombi Z0009 ha atacado pero la víctima H0006 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:45] Z0009 se cambia a la zona insegura 0
+[2025-04-19 13:59:45] El zombi Z0006 ha matado a H0006 Muertes: 1
+[2025-04-19 13:59:45] Z0006 se cambia a la zona insegura 0
+[2025-04-19 13:59:45] Z0006 se cambia a la zona insegura 2
+[2025-04-19 13:59:45] El zombi Z0015 ha atacado pero la víctima H0044 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:45] Z0015 se cambia a la zona insegura 2
+[2025-04-19 13:59:45] El zombi Z0001 ha matado a H0023 Muertes: 3
+[2025-04-19 13:59:45] Z0001 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] Z0023 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] El zombi Z0021 ha atacado pero la víctima H0028 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:45] Z0021 se cambia a la zona insegura 1
+[2025-04-19 13:59:45] El zombi Z0007 ha matado a H0026 Muertes: 1
+[2025-04-19 13:59:45] Z0007 se cambia a la zona insegura 3
+[2025-04-19 13:59:45] Z0026 se cambia a la zona insegura 3
+[2025-04-19 13:59:46] H0003 ha comido en el comedor.
+[2025-04-19 13:59:46] H0026 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:46] H0026 vuelve por el túnel 2
+[2025-04-19 13:59:46] H0006 vuelve por el túnel 3
+[2025-04-19 13:59:46] El zombi Z0015 ha atacado pero la víctima H0026 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:46] Z0015 se cambia a la zona insegura 0
+[2025-04-19 13:59:46] El zombi Z0020 ha matado a H0044 Muertes: 2
+[2025-04-19 13:59:46] Z0020 se cambia a la zona insegura 3
+[2025-04-19 13:59:46] Z0044 se cambia a la zona insegura 3
+[2025-04-19 13:59:46] El zombi Z0006 ha atacado pero la víctima H0028 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:46] Z0006 se cambia a la zona insegura 1
+[2025-04-19 13:59:46] El zombi Z0021 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:46] Z0021 se cambia a la zona insegura 3
+[2025-04-19 13:59:46] H0029 entra en la zona de descanso.
+[2025-04-19 13:59:46] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:47] Z0030 se cambia a la zona insegura 2
+[2025-04-19 13:59:47] H0044 vuelve por el túnel 1
+[2025-04-19 13:59:47] H0028 vuelve por el túnel 2
+[2025-04-19 13:59:47] H0041 espera para formar grupo en el túnel 0
+[2025-04-19 13:59:47] H0012 entra en la zona común.
+[2025-04-19 13:59:47] Z0017 se cambia a la zona insegura 2
+[2025-04-19 13:59:47] Z0027 se cambia a la zona insegura 2
+[2025-04-19 13:59:47] Z0000 se cambia a la zona insegura 3
+[2025-04-19 13:59:47] Z0026 se cambia a la zona insegura 2
+[2025-04-19 13:59:47] El zombi Z0006 ha matado a H0009 Muertes: 1
+[2025-04-19 13:59:47] Z0006 se cambia a la zona insegura 2
+[2025-04-19 13:59:47] Z0009 se cambia a la zona insegura 0
+[2025-04-19 13:59:47] El zombi Z0030 ha matado a H0044 Muertes: 1
+[2025-04-19 13:59:47] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:47] Z0044 se cambia a la zona insegura 1
+[2025-04-19 13:59:47] H0009 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:48] H0009 vuelve por el túnel 1
+[2025-04-19 13:59:48] Z0006 se cambia a la zona insegura 3
+[2025-04-19 13:59:48] Z0023 se cambia a la zona insegura 0
+[2025-04-19 13:59:48] Z0009 se cambia a la zona insegura 1
+[2025-04-19 13:59:48] El zombi Z0030 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:48] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:48] H0040 entra en la zona común.
+[2025-04-19 13:59:48] H0012 espera para formar grupo en el túnel 0
+[2025-04-19 13:59:48] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:48] El zombi Z0026 ha matado a H0025 Muertes: 1
+[2025-04-19 13:59:48] Z0026 se cambia a la zona insegura 3
+[2025-04-19 13:59:48] Z0025 se cambia a la zona insegura 1
+[2025-04-19 13:59:48] Z0044 se cambia a la zona insegura 2
+[2025-04-19 13:59:48] Z0001 se cambia a la zona insegura 2
+[2025-04-19 13:59:48] Z0007 se cambia a la zona insegura 0
+[2025-04-19 13:59:48] Z0020 se cambia a la zona insegura 2
+[2025-04-19 13:59:48] El zombi Z0027 ha matado a H0025 Muertes: 1
+[2025-04-19 13:59:48] Z0027 se cambia a la zona insegura 3
+[2025-04-19 13:59:48] Z0025 se cambia a la zona insegura 3
+[2025-04-19 13:59:48] El zombi Z0017 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:48] Z0017 se cambia a la zona insegura 0
+[2025-04-19 13:59:48] Z0026 se cambia a la zona insegura 1
+[2025-04-19 13:59:48] H0025 vuelve por el túnel 2
+[2025-04-19 13:59:48] El zombi Z0006 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:48] Z0006 se cambia a la zona insegura 1
+[2025-04-19 13:59:49] El zombi Z0044 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:49] Z0044 se cambia a la zona insegura 2
+[2025-04-19 13:59:49] El zombi Z0030 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:49] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:49] El zombi Z0002 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:49] Z0021 se cambia a la zona insegura 0
+[2025-04-19 13:59:49] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:49] H0023 vuelve por el túnel 1
+[2025-04-19 13:59:49] Z0015 se cambia a la zona insegura 2
+[2025-04-19 13:59:49] El zombi Z0009 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:49] Z0009 se cambia a la zona insegura 2
+[2025-04-19 13:59:49] El zombi Z0020 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:49] Z0020 se cambia a la zona insegura 0
+[2025-04-19 13:59:49] H0017 entra en la zona de descanso.
+[2025-04-19 13:59:49] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:49] Z0009 se cambia a la zona insegura 2
+[2025-04-19 13:59:49] H0040 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:49] H0039 entra en la zona común.
+[2025-04-19 13:59:49] El zombi Z0025 ha atacado pero la víctima H0023 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:49] Z0025 se cambia a la zona insegura 3
+[2025-04-19 13:59:49] El zombi Z0001 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 3
+[2025-04-19 13:59:49] Z0001 se cambia a la zona insegura 0
+[2025-04-19 13:59:50] El zombi Z0044 ha atacado pero la víctima H0025 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:50] Z0044 se cambia a la zona insegura 0
+[2025-04-19 13:59:50] H0011 ha comido en el comedor.
+[2025-04-19 13:59:50] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:50] Z0027 se cambia a la zona insegura 1
+[2025-04-19 13:59:50] Z0007 se cambia a la zona insegura 1
+[2025-04-19 13:59:50] Z0026 se cambia a la zona insegura 0
+[2025-04-19 13:59:50] Z0026 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] Z0017 se cambia a la zona insegura 3
+[2025-04-19 13:59:51] Z0006 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] Z0023 se cambia a la zona insegura 2
+[2025-04-19 13:59:51] Z0002 se cambia a la zona insegura 3
+[2025-04-19 13:59:51] Z0044 se cambia a la zona insegura 0
+[2025-04-19 13:59:51] Z0020 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] Z0025 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] Z0009 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] Z0021 se cambia a la zona insegura 1
+[2025-04-19 13:59:51] H0039 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:51] H0039 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:51] H0039 cruza el túnel 1
+[2025-04-19 13:59:51] H0038 entra en la zona común.
+[2025-04-19 13:59:51] H0040 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:51] H0042 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:51] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:51] Z0006 se cambia a la zona insegura 3
+[2025-04-19 13:59:52] Z0000 se cambia a la zona insegura 1
+[2025-04-19 13:59:52] Z0009 se cambia a la zona insegura 1
+[2025-04-19 13:59:52] Z0015 se cambia a la zona insegura 3
+[2025-04-19 13:59:52] Z0025 se cambia a la zona insegura 2
+[2025-04-19 13:59:52] H0016 entra en la zona de descanso.
+[2025-04-19 13:59:52] Z0044 se cambia a la zona insegura 1
+[2025-04-19 13:59:52] Z0001 se cambia a la zona insegura 2
+[2025-04-19 13:59:52] H0040 cruza el túnel 1
+[2025-04-19 13:59:52] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:53] Z0026 se cambia a la zona insegura 3
+[2025-04-19 13:59:53] Z0027 se cambia a la zona insegura 2
+[2025-04-19 13:59:53] Z0007 se cambia a la zona insegura 0
+[2025-04-19 13:59:53] Z0006 se cambia a la zona insegura 0
+[2025-04-19 13:59:53] El zombi Z0030 ha matado a H0039 Muertes: 2
+[2025-04-19 13:59:53] Z0030 se cambia a la zona insegura 2
+[2025-04-19 13:59:53] Z0039 se cambia a la zona insegura 2
+[2025-04-19 13:59:53] H0038 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:53] H0037 entra en la zona común.
+[2025-04-19 13:59:53] Z0026 se cambia a la zona insegura 2
+[2025-04-19 13:59:53] H0042 cruza el túnel 1
+[2025-04-19 13:59:53] Z0009 se cambia a la zona insegura 3
+[2025-04-19 13:59:53] Z0002 se cambia a la zona insegura 2
+[2025-04-19 13:59:53] Z0017 se cambia a la zona insegura 1
+[2025-04-19 13:59:53] Z0023 se cambia a la zona insegura 0
+[2025-04-19 13:59:54] Z0000 se cambia a la zona insegura 0
+[2025-04-19 13:59:54] Z0044 se cambia a la zona insegura 3
+[2025-04-19 13:59:54] Z0025 se cambia a la zona insegura 0
+[2025-04-19 13:59:54] Z0020 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] Z0006 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] Z0009 se cambia a la zona insegura 0
+[2025-04-19 13:59:54] Z0021 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:54] El zombi Z0017 ha matado a H0039 Muertes: 3
+[2025-04-19 13:59:54] Z0017 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] Z0039 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] Z0015 se cambia a la zona insegura 2
+[2025-04-19 13:59:54] H0037 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:54] H0019 entra en la zona común.
+[2025-04-19 13:59:54] H0013 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:54] H0043 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:54] H0037 forma parte de un grupo en el túnel 3
+[2025-04-19 13:59:54] H0013 cruza el túnel 3
+[2025-04-19 13:59:55] H0029 ha comido en el comedor.
+[2025-04-19 13:59:55] Z0025 se cambia a la zona insegura 1
+[2025-04-19 13:59:55] Z0001 se cambia a la zona insegura 1
+[2025-04-19 13:59:55] Z0044 se cambia a la zona insegura 3
+[2025-04-19 13:59:55] El zombi Z0030 ha atacado pero la víctima H0039 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:55] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:55] Z0027 se cambia a la zona insegura 0
+[2025-04-19 13:59:55] H0001 entra en la zona de descanso.
+[2025-04-19 13:59:55] Z0007 se cambia a la zona insegura 2
+[2025-04-19 13:59:55] Z0026 se cambia a la zona insegura 1
+[2025-04-19 13:59:55] H0039 vuelve por el túnel 1
+[2025-04-19 13:59:55] El zombi Z0025 ha atacado pero la víctima H0039 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:55] Z0025 se cambia a la zona insegura 3
+[2025-04-19 13:59:55] Z0026 se cambia a la zona insegura 3
+[2025-04-19 13:59:55] H0043 cruza el túnel 3
+[2025-04-19 13:59:56] Z0006 se cambia a la zona insegura 2
+[2025-04-19 13:59:56] Z0039 se cambia a la zona insegura 1
+[2025-04-19 13:59:56] Z0030 se cambia a la zona insegura 3
+[2025-04-19 13:59:56] El zombi Z0001 ha atacado pero la víctima H0039 ha sobrevivido. Muertes: 3
+[2025-04-19 13:59:56] Z0001 se cambia a la zona insegura 2
+[2025-04-19 13:59:56] Z0020 se cambia a la zona insegura 0
+[2025-04-19 13:59:56] Z0009 se cambia a la zona insegura 0
+[2025-04-19 13:59:56] H0019 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:56] H0036 entra en la zona común.
+[2025-04-19 13:59:56] Z0002 se cambia a la zona insegura 1
+[2025-04-19 13:59:56] Z0025 se cambia a la zona insegura 2
+[2025-04-19 13:59:56] Z0023 se cambia a la zona insegura 1
+[2025-04-19 13:59:56] Z0000 se cambia a la zona insegura 2
+[2025-04-19 13:59:56] Z0044 se cambia a la zona insegura 0
+[2025-04-19 13:59:56] H0037 cruza el túnel 3
+[2025-04-19 13:59:57] Z0006 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] Z0021 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] Z0009 se cambia a la zona insegura 1
+[2025-04-19 13:59:57] Z0039 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] El zombi Z0026 ha matado a H0040 Muertes: 2
+[2025-04-19 13:59:57] Z0026 se cambia a la zona insegura 2
+[2025-04-19 13:59:57] Z0040 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] El zombi Z0030 ha matado a H0013 Muertes: 3
+[2025-04-19 13:59:57] Z0030 se cambia a la zona insegura 1
+[2025-04-19 13:59:57] Z0013 se cambia a la zona insegura 0
+[2025-04-19 13:59:57] Z0017 se cambia a la zona insegura 1
+[2025-04-19 13:59:57] El zombi Z0039 ha matado a H0040 Muertes: 1
+[2025-04-19 13:59:57] Z0039 se cambia a la zona insegura 0
+[2025-04-19 13:59:57] Z0040 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] Z0015 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] Z0044 se cambia a la zona insegura 1
+[2025-04-19 13:59:57] Z0027 se cambia a la zona insegura 2
+[2025-04-19 13:59:57] El zombi Z0023 ha matado a H0040 Muertes: 1
+[2025-04-19 13:59:57] Z0023 se cambia a la zona insegura 0
+[2025-04-19 13:59:57] Z0040 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] El zombi Z0002 ha atacado pero la víctima H0040 ha sobrevivido. Muertes: 1
+[2025-04-19 13:59:57] Z0002 se cambia a la zona insegura 3
+[2025-04-19 13:59:57] Z0030 se cambia a la zona insegura 2
+[2025-04-19 13:59:57] El zombi Z0021 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:57] Z0021 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] H0040 vuelve por el túnel 1
+[2025-04-19 13:59:58] El zombi Z0044 ha matado a H0040 Muertes: 1
+[2025-04-19 13:59:58] Z0044 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0040 se cambia a la zona insegura 2
+[2025-04-19 13:59:58] H0036 espera para formar grupo en el túnel 1
+[2025-04-19 13:59:58] H0035 entra en la zona común.
+[2025-04-19 13:59:58] H0019 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:58] H0038 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:58] H0036 forma parte de un grupo en el túnel 1
+[2025-04-19 13:59:58] Z0025 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] El zombi Z0017 ha matado a H0040 Muertes: 4
+[2025-04-19 13:59:58] Z0017 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0040 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] El zombi Z0015 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:58] Z0015 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] El zombi Z0006 ha matado a H0013 Muertes: 2
+[2025-04-19 13:59:58] Z0006 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] Z0013 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] H0042 ha recolectado 2 unidades de comida.
+[2025-04-19 13:59:58] H0007 entra en la zona de descanso.
+[2025-04-19 13:59:58] Z0006 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] El zombi Z0040 ha atacado pero la víctima H0013 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:58] Z0040 se cambia a la zona insegura 2
+[2025-04-19 13:59:58] El zombi Z0040 ha matado a H0043 Muertes: 1
+[2025-04-19 13:59:58] Z0040 se cambia a la zona insegura 2
+[2025-04-19 13:59:58] Z0043 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0007 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0026 se cambia a la zona insegura 2
+[2025-04-19 13:59:58] El zombi Z0030 ha matado a H0042 Muertes: 4
+[2025-04-19 13:59:58] Z0030 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0042 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] El zombi Z0039 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:58] Z0039 se cambia a la zona insegura 2
+[2025-04-19 13:59:58] El zombi Z0009 ha atacado pero la víctima H0042 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:58] Z0009 se cambia a la zona insegura 3
+[2025-04-19 13:59:58] El zombi Z0040 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:58] Z0040 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0020 se cambia a la zona insegura 1
+[2025-04-19 13:59:58] Z0001 se cambia a la zona insegura 3
+[2025-04-19 13:59:58] El zombi Z0002 ha matado a H0013 Muertes: 2
+[2025-04-19 13:59:58] Z0002 se cambia a la zona insegura 0
+[2025-04-19 13:59:58] Z0013 se cambia a la zona insegura 1
+[2025-04-19 13:59:59] H0019 cruza el túnel 1
+[2025-04-19 13:59:59] El zombi Z0015 ha atacado pero la víctima H0042 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:59] Z0015 se cambia a la zona insegura 3
+[2025-04-19 13:59:59] El zombi Z0021 ha atacado pero la víctima H0042 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:59] Z0021 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] El zombi Z0025 ha matado a H0042 Muertes: 1
+[2025-04-19 13:59:59] Z0025 se cambia a la zona insegura 0
+[2025-04-19 13:59:59] Z0042 se cambia a la zona insegura 3
+[2025-04-19 13:59:59] Z0025 se cambia a la zona insegura 1
+[2025-04-19 13:59:59] El zombi Z0009 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:59] Z0009 se cambia a la zona insegura 1
+[2025-04-19 13:59:59] Z0013 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] Z0009 se cambia a la zona insegura 3
+[2025-04-19 13:59:59] El zombi Z0040 ha matado a H0042 Muertes: 1
+[2025-04-19 13:59:59] Z0040 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] Z0042 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] Z0039 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] H0030 ha comido en el comedor.
+[2025-04-19 13:59:59] Z0026 se cambia a la zona insegura 0
+[2025-04-19 13:59:59] Z0044 se cambia a la zona insegura 1
+[2025-04-19 13:59:59] H0013 vuelve por el túnel 3
+[2025-04-19 13:59:59] El zombi Z0013 ha atacado pero la víctima H0042 ha sobrevivido. Muertes: 0
+[2025-04-19 13:59:59] Z0013 se cambia a la zona insegura 3
+[2025-04-19 13:59:59] El zombi Z0006 ha atacado pero la víctima H0042 ha sobrevivido. Muertes: 2
+[2025-04-19 13:59:59] Z0006 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] El zombi Z0015 ha matado a H0043 Muertes: 1
+[2025-04-19 13:59:59] Z0015 se cambia a la zona insegura 2
+[2025-04-19 13:59:59] Z0043 se cambia a la zona insegura 1
+[2025-04-19 13:59:59] H0035 espera para formar grupo en el túnel 3
+[2025-04-19 13:59:59] H0014 entra en la zona común.
+[2025-04-19 13:59:59] Z0000 se cambia a la zona insegura 1
+[2025-04-19 14:00:00] H0038 cruza el túnel 1
+[2025-04-19 14:00:00] Z0023 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] Z0027 se cambia a la zona insegura 1
+[2025-04-19 14:00:00] El zombi Z0009 ha atacado pero la víctima H0043 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:00] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] El zombi Z0042 ha atacado pero la víctima H0037 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:00] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] El zombi Z0001 ha atacado pero la víctima H0013 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:00] Z0001 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:00] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:00] Z0017 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] H0043 vuelve por el túnel 3
+[2025-04-19 14:00:00] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] Z0007 se cambia a la zona insegura 2
+[2025-04-19 14:00:00] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:00] Z0006 se cambia a la zona insegura 1
+[2025-04-19 14:00:00] El zombi Z0013 ha atacado pero la víctima H0037 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:00] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:00] El zombi Z0044 ha matado a H0019 Muertes: 2
+[2025-04-19 14:00:00] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:00] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:00] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] H0036 cruza el túnel 1
+[2025-04-19 14:00:01] Z0043 se cambia a la zona insegura 1
+[2025-04-19 14:00:01] El zombi Z0027 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:01] Z0027 se cambia a la zona insegura 2
+[2025-04-19 14:00:01] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:01] El zombi Z0030 ha matado a H0019 Muertes: 5
+[2025-04-19 14:00:01] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:01] Z0002 se cambia a la zona insegura 1
+[2025-04-19 14:00:01] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:01] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:01] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:01] H0014 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:01] H0034 entra en la zona común.
+[2025-04-19 14:00:01] H0033 entra en la zona de descanso.
+[2025-04-19 14:00:01] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:01] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:01] El zombi Z0043 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:01] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0021 se cambia a la zona insegura 3
+[2025-04-19 14:00:01] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0015 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:01] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:01] H0037 vuelve por el túnel 3
+[2025-04-19 14:00:01] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:01] El zombi Z0006 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:01] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] El zombi Z0044 ha matado a H0037 Muertes: 3
+[2025-04-19 14:00:01] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:01] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:01] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] H0042 vuelve por el túnel 1
+[2025-04-19 14:00:02] Z0023 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] El zombi Z0002 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:02] Z0002 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] El zombi Z0019 ha matado a H0037 Muertes: 1
+[2025-04-19 14:00:02] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] El zombi Z0021 ha matado a H0037 Muertes: 3
+[2025-04-19 14:00:02] Z0021 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] El zombi Z0039 ha matado a H0019 Muertes: 1
+[2025-04-19 14:00:02] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] Z0000 se cambia a la zona insegura 3
+[2025-04-19 14:00:02] Z0001 se cambia a la zona insegura 0
+[2025-04-19 14:00:02] El zombi Z0040 ha atacado pero la víctima H0037 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:02] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:02] H0034 espera para formar grupo en el túnel 3
+[2025-04-19 14:00:02] H0061 entra en la zona común.
+[2025-04-19 14:00:02] El zombi Z0025 ha atacado pero la víctima H0037 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:02] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] El zombi Z0013 ha matado a H0038 Muertes: 1
+[2025-04-19 14:00:03] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] El zombi Z0023 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:03] Z0023 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] Z0017 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] H0031 ha comido en el comedor.
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:03] El zombi Z0030 ha atacado pero la víctima H0038 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:03] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:03] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:03] El zombi Z0044 ha atacado pero la víctima H0038 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:03] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] El zombi Z0040 ha matado a H0038 Muertes: 1
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] Z0007 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] El zombi Z0021 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:03] Z0021 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] El zombi Z0042 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:03] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:03] El zombi Z0039 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:03] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] El zombi Z0040 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:03] Z0027 se cambia a la zona insegura 3
+[2025-04-19 14:00:03] El zombi Z0040 ha atacado pero la víctima H0038 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:03] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:03] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:04] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:04] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:04] El zombi Z0013 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:04] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] H0038 vuelve por el túnel 1
+[2025-04-19 14:00:04] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:04] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0002 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:04] Z0015 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0043 se cambia a la zona insegura 1
+[2025-04-19 14:00:04] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:04] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:04] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:04] El zombi Z0037 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:04] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] H0061 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:04] H0060 entra en la zona común.
+[2025-04-19 14:00:04] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:04] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:04] H0022 entra en la zona de descanso.
+[2025-04-19 14:00:05] El zombi Z0040 ha matado a H0019 Muertes: 2
+[2025-04-19 14:00:05] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:05] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] Z0000 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] El zombi Z0040 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:05] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0023 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] Z0017 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] H0019 vuelve por el túnel 1
+[2025-04-19 14:00:05] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] Z0021 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0001 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] El zombi Z0009 ha atacado pero la víctima H0019 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:05] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:05] El zombi Z0023 ha matado a H0036 Muertes: 2
+[2025-04-19 14:00:05] Z0023 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0007 se cambia a la zona insegura 2
+[2025-04-19 14:00:05] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:05] El zombi Z0043 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:05] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:05] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] El zombi Z0030 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:06] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:06] H0059 entra en la zona común.
+[2025-04-19 14:00:06] H0060 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:06] H0060 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:06] H0061 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:06] H0014 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:06] H0060 cruza el túnel 2
+[2025-04-19 14:00:06] H0036 vuelve por el túnel 1
+[2025-04-19 14:00:06] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:06] Z0027 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] El zombi Z0000 ha matado a H0036 Muertes: 6
+[2025-04-19 14:00:06] Z0002 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0000 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] El zombi Z0025 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:06] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] El zombi Z0037 ha matado a H0036 Muertes: 1
+[2025-04-19 14:00:06] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:06] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] El zombi Z0019 ha matado a H0036 Muertes: 2
+[2025-04-19 14:00:06] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0006 se cambia a la zona insegura 1
+[2025-04-19 14:00:06] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] El zombi Z0009 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:06] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] H0004 ha comido en el comedor.
+[2025-04-19 14:00:06] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] El zombi Z0038 ha atacado pero la víctima H0036 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:06] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:06] Z0015 se cambia a la zona insegura 0
+[2025-04-19 14:00:06] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:06] Z0020 se cambia a la zona insegura 1
+[2025-04-19 14:00:07] H0061 cruza el túnel 2
+[2025-04-19 14:00:07] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:07] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:07] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:07] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:07] H0059 espera para formar grupo en el túnel 0
+[2025-04-19 14:00:07] H0059 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:07] H0058 entra en la zona común.
+[2025-04-19 14:00:07] H0059 cruza el túnel 0
+[2025-04-19 14:00:07] H0012 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:07] H0041 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:07] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:07] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:07] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:07] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:07] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:07] Z0017 se cambia a la zona insegura 3
+[2025-04-19 14:00:07] Z0001 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:08] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] H0014 cruza el túnel 2
+[2025-04-19 14:00:08] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0021 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] H0012 cruza el túnel 0
+[2025-04-19 14:00:08] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0023 se cambia a la zona insegura 1
+[2025-04-19 14:00:08] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] El zombi Z0043 ha matado a H0060 Muertes: 1
+[2025-04-19 14:00:08] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0007 se cambia a la zona insegura 3
+[2025-04-19 14:00:08] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] H0058 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:08] H0057 entra en la zona común.
+[2025-04-19 14:00:08] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0002 se cambia a la zona insegura 0
+[2025-04-19 14:00:08] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] H0008 entra en la zona de descanso.
+[2025-04-19 14:00:08] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:08] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0000 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] El zombi Z0013 ha matado a H0059 Muertes: 2
+[2025-04-19 14:00:09] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] El zombi Z0036 ha matado a H0060 Muertes: 1
+[2025-04-19 14:00:09] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] El zombi Z0042 ha matado a H0059 Muertes: 1
+[2025-04-19 14:00:09] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] El zombi Z0026 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:09] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0027 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] H0041 cruza el túnel 0
+[2025-04-19 14:00:09] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:09] Z0015 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] El zombi Z0006 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:09] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] El zombi Z0044 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:09] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] El zombi Z0025 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:09] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] El zombi Z0060 ha matado a H0059 Muertes: 1
+[2025-04-19 14:00:09] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:09] El zombi Z0019 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:09] El zombi Z0026 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:09] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:09] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] El zombi Z0040 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:09] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:09] El zombi Z0006 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:09] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0009 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] El zombi Z0009 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0036 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] El zombi Z0030 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 5
+[2025-04-19 14:00:10] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] Z0001 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0038 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0037 ha matado a H0059 Muertes: 2
+[2025-04-19 14:00:10] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0036 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:10] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0002 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:10] Z0002 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0013 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:10] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] El zombi Z0039 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:10] Z0039 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0027 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:10] Z0027 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] El zombi Z0013 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0036 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0020 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:10] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] El zombi Z0013 ha matado a H0060 Muertes: 1
+[2025-04-19 14:00:10] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] El zombi Z0025 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:10] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] Z0017 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0019 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:10] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] H0057 espera para formar grupo en el túnel 0
+[2025-04-19 14:00:10] H0056 entra en la zona común.
+[2025-04-19 14:00:10] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0039 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0021 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] El zombi Z0006 ha matado a H0060 Muertes: 2
+[2025-04-19 14:00:10] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:10] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] H0033 ha comido en el comedor.
+[2025-04-19 14:00:10] El zombi Z0002 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:10] Z0002 se cambia a la zona insegura 1
+[2025-04-19 14:00:10] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:10] El zombi Z0037 ha atacado pero la víctima H0059 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:10] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:10] Z0007 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] H0024 entra en la zona de descanso.
+[2025-04-19 14:00:11] El zombi Z0025 ha matado a H0041 Muertes: 2
+[2025-04-19 14:00:11] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0036 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:11] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] El zombi Z0038 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:11] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] El zombi Z0043 ha matado a H0061 Muertes: 1
+[2025-04-19 14:00:11] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] El zombi Z0014 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] El zombi Z0040 ha matado a H0012 Muertes: 2
+[2025-04-19 14:00:11] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] El zombi Z0020 ha matado a H0014 Muertes: 3
+[2025-04-19 14:00:11] Z0020 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] Z0023 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] El zombi Z0042 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:11] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0027 ha matado a H0059 Muertes: 2
+[2025-04-19 14:00:11] Z0027 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] El zombi Z0019 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:11] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] El zombi Z0059 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:11] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0019 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:11] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] El zombi Z0042 ha matado a H0061 Muertes: 1
+[2025-04-19 14:00:11] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] Z0000 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0043 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:11] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0039 ha matado a H0060 Muertes: 2
+[2025-04-19 14:00:11] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] El zombi Z0014 ha matado a H0061 Muertes: 1
+[2025-04-19 14:00:11] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:11] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] El zombi Z0039 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:11] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:11] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:11] El zombi Z0019 ha matado a H0041 Muertes: 1
+[2025-04-19 14:00:11] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:11] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:12] El zombi Z0014 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0001 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] H0060 vuelve por el túnel 2
+[2025-04-19 14:00:12] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0061 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:12] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0015 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0060 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] El zombi Z0006 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:12] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:12] H0056 espera para formar grupo en el túnel 1
+[2025-04-19 14:00:12] H0055 entra en la zona común.
+[2025-04-19 14:00:12] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0014 ha matado a H0012 Muertes: 1
+[2025-04-19 14:00:12] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0043 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:12] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0040 ha matado a H0061 Muertes: 1
+[2025-04-19 14:00:12] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0030 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] El zombi Z0007 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:12] Z0007 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0014 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] H0059 vuelve por el túnel 0
+[2025-04-19 14:00:12] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] El zombi Z0041 ha matado a H0012 Muertes: 1
+[2025-04-19 14:00:12] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0040 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:12] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] El zombi Z0040 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:12] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:12] El zombi Z0059 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:12] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0061 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0000 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 6
+[2025-04-19 14:00:12] Z0000 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0006 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:12] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0025 ha matado a H0041 Muertes: 2
+[2025-04-19 14:00:12] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:12] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:12] El zombi Z0059 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:12] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:12] El zombi Z0001 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:12] Z0001 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] El zombi Z0030 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 5
+[2025-04-19 14:00:13] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] El zombi Z0043 ha matado a H0012 Muertes: 2
+[2025-04-19 14:00:13] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0026 ha matado a H0041 Muertes: 3
+[2025-04-19 14:00:13] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] H0061 vuelve por el túnel 2
+[2025-04-19 14:00:13] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] El zombi Z0036 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0021 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0041 ha atacado pero la víctima H0060 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] El zombi Z0009 ha matado a H0012 Muertes: 1
+[2025-04-19 14:00:13] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] El zombi Z0061 ha atacado pero la víctima H0061 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] El zombi Z0038 ha matado a H0012 Muertes: 1
+[2025-04-19 14:00:13] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0027 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0017 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0012 ha matado a H0059 Muertes: 1
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] H0012 vuelve por el túnel 0
+[2025-04-19 14:00:13] El zombi Z0040 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:13] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] El zombi Z0037 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0044 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:13] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0037 ha matado a H0012 Muertes: 3
+[2025-04-19 14:00:13] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0002 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] El zombi Z0026 ha atacado pero la víctima H0012 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] El zombi Z0041 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0036 ha matado a H0012 Muertes: 2
+[2025-04-19 14:00:13] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0013 ha matado a H0041 Muertes: 1
+[2025-04-19 14:00:13] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:13] H0055 espera para formar grupo en el túnel 1
+[2025-04-19 14:00:13] H0054 entra en la zona común.
+[2025-04-19 14:00:13] El zombi Z0060 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0040 ha matado a H0012 Muertes: 2
+[2025-04-19 14:00:13] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:13] El zombi Z0059 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:13] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:13] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:13] El zombi Z0026 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:13] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] El zombi Z0012 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0023 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] El zombi Z0014 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] H0014 vuelve por el túnel 2
+[2025-04-19 14:00:14] El zombi Z0044 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:14] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] El zombi Z0006 ha matado a H0041 Muertes: 3
+[2025-04-19 14:00:14] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] El zombi Z0036 ha matado a H0041 Muertes: 1
+[2025-04-19 14:00:14] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0017 ha matado a H0014 Muertes: 5
+[2025-04-19 14:00:14] Z0017 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] El zombi Z0041 ha matado a H0014 Muertes: 1
+[2025-04-19 14:00:14] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0037 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0019 ha matado a H0014 Muertes: 3
+[2025-04-19 14:00:14] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0009 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:14] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] El zombi Z0013 ha matado a H0014 Muertes: 2
+[2025-04-19 14:00:14] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] El zombi Z0020 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:14] Z0020 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] H0041 vuelve por el túnel 0
+[2025-04-19 14:00:14] H0005 entra en la zona de descanso.
+[2025-04-19 14:00:14] El zombi Z0013 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:14] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0012 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] El zombi Z0021 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:14] Z0021 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0007 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] El zombi Z0036 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] El zombi Z0043 ha matado a H0014 Muertes: 2
+[2025-04-19 14:00:14] Z0043 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0012 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0015 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0012 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] H0054 espera para formar grupo en el túnel 1
+[2025-04-19 14:00:14] H0053 entra en la zona común.
+[2025-04-19 14:00:14] H0055 forma parte de un grupo en el túnel 1
+[2025-04-19 14:00:14] H0056 forma parte de un grupo en el túnel 1
+[2025-04-19 14:00:14] H0054 forma parte de un grupo en el túnel 1
+[2025-04-19 14:00:14] H0055 cruza el túnel 1
+[2025-04-19 14:00:14] El zombi Z0037 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:14] El zombi Z0037 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:14] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:14] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0019 ha atacado pero la víctima H0041 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:14] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] El zombi Z0041 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0012 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:14] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:14] El zombi Z0060 ha matado a H0041 Muertes: 1
+[2025-04-19 14:00:14] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:14] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:15] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] El zombi Z0040 ha atacado pero la víctima H0014 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:15] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:15] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0001 se cambia a la zona insegura 1
+[2025-04-19 14:00:15] Z0000 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:15] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] H0007 ha comido en el comedor.
+[2025-04-19 14:00:15] Z0002 se cambia a la zona insegura 1
+[2025-04-19 14:00:15] H0056 cruza el túnel 1
+[2025-04-19 14:00:15] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:15] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:15] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:15] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0023 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0027 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0039 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] H0053 espera para formar grupo en el túnel 0
+[2025-04-19 14:00:16] H0011 entra en la zona común.
+[2025-04-19 14:00:16] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0015 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] El zombi Z0059 ha matado a H0055 Muertes: 2
+[2025-04-19 14:00:16] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] H0054 cruza el túnel 1
+[2025-04-19 14:00:16] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] El zombi Z0036 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:16] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0017 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0007 se cambia a la zona insegura 0
+[2025-04-19 14:00:16] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:16] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:16] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:16] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0006 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] H0010 entra en la zona de descanso.
+[2025-04-19 14:00:17] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] El zombi Z0014 ha matado a H0055 Muertes: 1
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0021 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] El zombi Z0012 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] El zombi Z0039 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:17] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] El zombi Z0014 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:17] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0000 se cambia a la zona insegura 3
+[2025-04-19 14:00:17] Z0001 se cambia a la zona insegura 2
+[2025-04-19 14:00:17] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:17] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] El zombi Z0038 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:18] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] El zombi Z0041 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:18] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] El zombi Z0040 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:18] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] El zombi Z0021 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:18] Z0021 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] El zombi Z0059 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:18] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] El zombi Z0006 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:18] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] El zombi Z0013 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:18] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0002 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] El zombi Z0017 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 5
+[2025-04-19 14:00:18] Z0017 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] Z0043 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] El zombi Z0014 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:18] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0027 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] H0011 espera para formar grupo en el túnel 0
+[2025-04-19 14:00:18] H0011 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:18] H0052 entra en la zona común.
+[2025-04-19 14:00:18] H0011 cruza el túnel 0
+[2025-04-19 14:00:18] H0053 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:18] H0057 forma parte de un grupo en el túnel 0
+[2025-04-19 14:00:18] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0055 se cambia a la zona insegura 2
+[2025-04-19 14:00:18] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0039 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] El zombi Z0060 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:18] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] El zombi Z0019 ha matado a H0055 Muertes: 2
+[2025-04-19 14:00:18] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] El zombi Z0042 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:18] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:18] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:18] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:18] Z0015 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] El zombi Z0061 ha matado a H0055 Muertes: 1
+[2025-04-19 14:00:19] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0020 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0023 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] H0055 vuelve por el túnel 1
+[2025-04-19 14:00:19] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0007 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] El zombi Z0042 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:19] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] El zombi Z0014 ha matado a H0054 Muertes: 2
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0054 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] El zombi Z0040 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:19] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] El zombi Z0043 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:19] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] H0053 cruza el túnel 0
+[2025-04-19 14:00:19] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] El zombi Z0030 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:19] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] El zombi Z0061 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:19] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:19] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] Z0001 se cambia a la zona insegura 1
+[2025-04-19 14:00:19] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:19] El zombi Z0015 ha matado a H0054 Muertes: 2
+[2025-04-19 14:00:19] Z0015 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0054 se cambia a la zona insegura 0
+[2025-04-19 14:00:19] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0041 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:20] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] H0052 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:20] H0051 entra en la zona común.
+[2025-04-19 14:00:20] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0040 ha matado a H0055 Muertes: 3
+[2025-04-19 14:00:20] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] H0007 se recupera de sus heridas en la zona de descanso.
+[2025-04-19 14:00:20] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0055 ha atacado pero la víctima H0055 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0059 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0037 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0055 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0014 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0012 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0017 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] H0001 ha comido en el comedor.
+[2025-04-19 14:00:20] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0041 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] H0057 cruza el túnel 0
+[2025-04-19 14:00:20] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] El zombi Z0054 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0054 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] El zombi Z0023 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:20] Z0023 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0020 ha matado a H0056 Muertes: 4
+[2025-04-19 14:00:20] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] El zombi Z0060 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0000 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0027 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0059 ha matado a H0011 Muertes: 1
+[2025-04-19 14:00:20] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0021 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] El zombi Z0019 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:20] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] H0054 vuelve por el túnel 1
+[2025-04-19 14:00:20] El zombi Z0056 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0014 ha matado a H0011 Muertes: 2
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0025 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:20] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] El zombi Z0012 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:20] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:20] El zombi Z0014 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:20] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0060 ha matado a H0011 Muertes: 2
+[2025-04-19 14:00:20] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0030 ha matado a H0011 Muertes: 2
+[2025-04-19 14:00:20] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] El zombi Z0041 ha matado a H0056 Muertes: 2
+[2025-04-19 14:00:20] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:20] El zombi Z0015 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:20] Z0015 se cambia a la zona insegura 2
+[2025-04-19 14:00:20] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:20] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0059 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:21] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0002 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] El zombi Z0041 ha matado a H0011 Muertes: 2
+[2025-04-19 14:00:21] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0041 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] El zombi Z0001 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:21] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0001 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] H0051 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:21] H0050 entra en la zona común.
+[2025-04-19 14:00:21] H0052 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:21] H0058 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:21] H0051 forma parte de un grupo en el túnel 2
+[2025-04-19 14:00:21] H0052 cruza el túnel 2
+[2025-04-19 14:00:21] El zombi Z0040 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:21] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0009 ha matado a H0056 Muertes: 2
+[2025-04-19 14:00:21] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0023 ha matado a H0053 Muertes: 3
+[2025-04-19 14:00:21] Z0023 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] El zombi Z0041 ha atacado pero la víctima H0054 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] El zombi Z0019 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:21] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0055 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0037 ha matado a H0011 Muertes: 4
+[2025-04-19 14:00:21] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0007 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0030 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:21] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] El zombi Z0025 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:21] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0055 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] El zombi Z0011 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:21] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] El zombi Z0038 ha matado a H0056 Muertes: 2
+[2025-04-19 14:00:21] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0038 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] H0056 vuelve por el túnel 1
+[2025-04-19 14:00:21] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0011 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0019 ha matado a H0056 Muertes: 3
+[2025-04-19 14:00:21] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0040 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0059 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:21] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] El zombi Z0059 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:21] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] El zombi Z0060 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:21] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] El zombi Z0011 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:21] El zombi Z0041 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:21] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:21] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:21] El zombi Z0061 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:21] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:21] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] H0058 cruza el túnel 2
+[2025-04-19 14:00:22] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] El zombi Z0020 ha matado a H0053 Muertes: 5
+[2025-04-19 14:00:22] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0054 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0014 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] El zombi Z0037 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:22] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0002 ha matado a H0011 Muertes: 3
+[2025-04-19 14:00:22] Z0002 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] El zombi Z0036 ha matado a H0056 Muertes: 1
+[2025-04-19 14:00:22] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0056 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] El zombi Z0025 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:22] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0009 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] El zombi Z0012 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] El zombi Z0055 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] El zombi Z0042 ha matado a H0011 Muertes: 2
+[2025-04-19 14:00:22] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0042 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:22] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] H0050 espera para formar grupo en el túnel 1
+[2025-04-19 14:00:22] H0003 entra en la zona común.
+[2025-04-19 14:00:22] El zombi Z0041 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:22] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0007 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:22] Z0007 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] El zombi Z0055 ha matado a H0011 Muertes: 1
+[2025-04-19 14:00:22] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0014 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] El zombi Z0020 ha matado a H0052 Muertes: 6
+[2025-04-19 14:00:22] Z0020 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0037 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:22] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] El zombi Z0019 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:22] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] El zombi Z0037 ha atacado pero la víctima H0056 ha sobrevivido. Muertes: 4
+[2025-04-19 14:00:22] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:22] El zombi Z0009 ha matado a H0057 Muertes: 1
+[2025-04-19 14:00:22] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0057 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:22] El zombi Z0012 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] El zombi Z0011 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:22] Z0027 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0044 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:22] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0012 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:22] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:22] El zombi Z0043 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:22] Z0043 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0000 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] H0051 cruza el túnel 2
+[2025-04-19 14:00:23] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0037 ha matado a H0057 Muertes: 3
+[2025-04-19 14:00:23] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0057 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0011 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0017 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0060 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] El zombi Z0011 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0056 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0053 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0053 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:23] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] El zombi Z0007 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:23] Z0007 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] El zombi Z0057 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:23] Z0057 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] El zombi Z0042 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:23] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0054 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0014 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0014 ha matado a H0011 Muertes: 1
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] El zombi Z0040 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:23] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] El zombi Z0052 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] H0041 entra en la zona de descanso.
+[2025-04-19 14:00:23] Z0060 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0061 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:23] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] El zombi Z0012 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0021 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0030 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0052 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] El zombi Z0059 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0023 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] H0011 vuelve por el túnel 0
+[2025-04-19 14:00:23] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0009 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] Z0015 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0000 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 6
+[2025-04-19 14:00:23] Z0000 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] H0049 entra en la zona común.
+[2025-04-19 14:00:23] H0003 espera para formar grupo en el túnel 1
+[2025-04-19 14:00:23] Z0001 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] El zombi Z0012 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:23] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:23] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:23] El zombi Z0011 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0043 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] El zombi Z0014 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] El zombi Z0011 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:23] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:23] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:23] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0041 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0014 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0060 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0055 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0053 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0056 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0025 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0012 ha matado a H0011 Muertes: 1
+[2025-04-19 14:00:24] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0059 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:24] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0041 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0011 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0009 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0056 ha matado a H0011 Muertes: 1
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0038 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0012 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0039 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0006 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:24] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0014 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0052 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0021 ha atacado pero la víctima H0011 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:24] Z0021 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0007 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:24] Z0007 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0059 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0013 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:24] Z0013 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0054 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0056 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0019 ha matado a H0053 Muertes: 2
+[2025-04-19 14:00:24] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] El zombi Z0014 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] H0016 ha comido en el comedor.
+[2025-04-19 14:00:24] El zombi Z0041 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0019 ha matado a H0057 Muertes: 2
+[2025-04-19 14:00:24] Z0019 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0057 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0044 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0052 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0060 ha matado a H0057 Muertes: 1
+[2025-04-19 14:00:24] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0056 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] El zombi Z0042 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:24] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] El zombi Z0011 ha matado a H0058 Muertes: 1
+[2025-04-19 14:00:24] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:24] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] El zombi Z0012 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:24] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:24] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:24] Z0002 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:24] Z0019 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0030 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0061 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0056 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0051 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0059 ha matado a H0053 Muertes: 2
+[2025-04-19 14:00:25] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0036 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0027 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0025 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0059 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0011 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0041 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0011 ha matado a H0057 Muertes: 1
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0055 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] El zombi Z0053 ha matado a H0052 Muertes: 1
+[2025-04-19 14:00:25] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0056 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] H0049 espera para formar grupo en el túnel 2
+[2025-04-19 14:00:25] H0048 entra en la zona común.
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0039 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0014 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0013 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0059 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0060 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0011 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0041 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0041 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] El zombi Z0060 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0060 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0011 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0025 ha matado a H0052 Muertes: 3
+[2025-04-19 14:00:25] Z0025 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0014 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0044 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0044 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0014 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0020 ha matado a H0052 Muertes: 7
+[2025-04-19 14:00:25] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0026 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0026 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:25] Z0026 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] H0053 vuelve por el túnel 0
+[2025-04-19 14:00:25] El zombi Z0053 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0051 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0055 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0039 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] El zombi Z0056 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0012 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0042 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0057 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0037 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0057 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0057 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0036 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0036 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0056 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] El zombi Z0042 ha matado a H0051 Muertes: 2
+[2025-04-19 14:00:25] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0051 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0060 ha matado a H0058 Muertes: 1
+[2025-04-19 14:00:25] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0058 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0056 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0041 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:25] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0044 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0019 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0056 ha matado a H0058 Muertes: 2
+[2025-04-19 14:00:25] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0058 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0038 ha matado a H0053 Muertes: 3
+[2025-04-19 14:00:25] Z0038 se cambia a la zona insegura 1
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0058 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:25] Z0006 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] Z0058 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0036 ha matado a H0057 Muertes: 2
+[2025-04-19 14:00:25] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0019 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:25] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0054 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0037 se cambia a la zona insegura 0
+[2025-04-19 14:00:25] El zombi Z0014 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:25] El zombi Z0040 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0040 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] El zombi Z0019 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:25] Z0019 se cambia a la zona insegura 3
+[2025-04-19 14:00:25] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0042 ha matado a H0058 Muertes: 2
+[2025-04-19 14:00:26] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0017 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] El zombi Z0019 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:26] Z0019 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0026 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0026 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0061 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] El zombi Z0053 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0052 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0052 ha matado a H0057 Muertes: 1
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0055 ha matado a H0057 Muertes: 1
+[2025-04-19 14:00:26] Z0055 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0057 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0014 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0053 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0040 ha matado a H0058 Muertes: 3
+[2025-04-19 14:00:26] Z0040 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0036 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0030 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] H0052 vuelve por el túnel 2
+[2025-04-19 14:00:26] El zombi Z0061 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:26] Z0061 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0056 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0056 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:26] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0051 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0020 ha matado a H0053 Muertes: 8
+[2025-04-19 14:00:26] Z0020 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0044 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0044 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0001 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0013 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0011 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0002 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:26] Z0002 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0023 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0051 ha matado a H0053 Muertes: 1
+[2025-04-19 14:00:26] Z0051 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0061 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0043 ha matado a H0052 Muertes: 3
+[2025-04-19 14:00:26] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0015 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0042 ha matado a H0057 Muertes: 3
+[2025-04-19 14:00:26] Z0042 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0027 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:26] Z0027 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] H0057 vuelve por el túnel 0
+[2025-04-19 14:00:26] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0000 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] El zombi Z0014 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0059 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:26] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0036 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0059 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0057 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0057 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0058 ha atacado pero la víctima H0052 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0058 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0012 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0054 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0043 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0057 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0057 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0036 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:26] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0040 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0014 ha atacado pero la víctima H0053 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0007 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0021 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0013 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0006 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0011 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0011 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0051 se cambia a la zona insegura 1
+[2025-04-19 14:00:26] El zombi Z0020 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 8
+[2025-04-19 14:00:26] Z0020 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] El zombi Z0052 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] El zombi Z0052 ha atacado pero la víctima H0057 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:26] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] H0014 entra en la zona de descanso.
+[2025-04-19 14:00:26] El zombi Z0056 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:26] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0014 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:26] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] El zombi Z0051 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:26] Z0051 se cambia a la zona insegura 0
+[2025-04-19 14:00:26] Z0012 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:26] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0009 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0012 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0001 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:27] Z0001 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0012 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:27] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0030 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0011 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0058 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] El zombi Z0061 ha matado a H0058 Muertes: 2
+[2025-04-19 14:00:27] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0057 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] H0048 espera para formar grupo en el túnel 3
+[2025-04-19 14:00:27] H0047 entra en la zona común.
+[2025-04-19 14:00:27] H0034 forma parte de un grupo en el túnel 3
+[2025-04-19 14:00:27] H0035 forma parte de un grupo en el túnel 3
+[2025-04-19 14:00:27] H0048 forma parte de un grupo en el túnel 3
+[2025-04-19 14:00:27] H0034 cruza el túnel 3
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0052 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0051 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0052 ha matado a H0052 Muertes: 2
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0025 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] El zombi Z0027 ha matado a H0051 Muertes: 3
+[2025-04-19 14:00:27] Z0027 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0051 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0055 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0014 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:27] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] H0058 vuelve por el túnel 2
+[2025-04-19 14:00:27] El zombi Z0012 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0012 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0012 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0059 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0059 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] El zombi Z0006 ha matado a H0058 Muertes: 4
+[2025-04-19 14:00:27] Z0006 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0039 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0036 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:27] Z0036 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0021 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 3
+[2025-04-19 14:00:27] Z0021 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0015 ha matado a H0058 Muertes: 3
+[2025-04-19 14:00:27] Z0015 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] El zombi Z0054 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:27] Z0054 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0051 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0059 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0060 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0038 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0038 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] El zombi Z0030 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 5
+[2025-04-19 14:00:27] Z0030 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0036 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0014 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0011 ha matado a H0058 Muertes: 2
+[2025-04-19 14:00:27] Z0011 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0014 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0014 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0057 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0052 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0052 se cambia a la zona insegura 1
+[2025-04-19 14:00:27] Z0041 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0039 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] El zombi Z0043 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:27] Z0043 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0040 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:27] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0053 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:27] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] El zombi Z0056 ha matado a H0058 Muertes: 1
+[2025-04-19 14:00:27] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:27] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:27] Z0038 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0059 se cambia a la zona insegura 2
+[2025-04-19 14:00:27] Z0013 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] Z0060 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] Z0053 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0011 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] Z0053 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] El zombi Z0012 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:28] Z0012 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] El zombi Z0009 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:28] Z0009 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0057 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] El zombi Z0011 ha atacado pero la víctima H0058 ha sobrevivido. Muertes: 1
+[2025-04-19 14:00:28] Z0011 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0037 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] Z0026 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] Z0044 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0051 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0056 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] El zombi Z0052 ha matado a H0051 Muertes: 1
+[2025-04-19 14:00:28] Z0052 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0051 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0025 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] H0035 cruza el túnel 3
+[2025-04-19 14:00:28] Z0042 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0053 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0040 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] El zombi Z0014 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 2
+[2025-04-19 14:00:28] Z0014 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0058 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0054 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0061 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0037 se cambia a la zona insegura 3
+[2025-04-19 14:00:28] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0042 se cambia a la zona insegura 2
+[2025-04-19 14:00:28] El zombi Z0058 ha atacado pero la víctima H0051 ha sobrevivido. Muertes: 0
+[2025-04-19 14:00:28] Z0058 se cambia a la zona insegura 0
+[2025-04-19 14:00:28] Z0055 se cambia a la zona insegura 1
+[2025-04-19 14:00:28] Z0013 se cambia a la zona insegura 1

@@ -8,7 +8,7 @@ public class Humano extends Thread {
     private final String id;
     private final Refugio refugio;
     private boolean marcado = false;
-    private boolean vivo = true;
+    private volatile boolean vivo = true;
     private int comidaRecolectada = 0;
     private Túnel tunelActual;
 
@@ -33,31 +33,34 @@ public class Humano extends Thread {
         }
     }
 
-    public String getIdHumano() { 
+    public String getIdHumano() {
         return id; 
     }
     public boolean estaMarcado() {
         return marcado; 
     }
-    public void marcar() {
+    public void marcar() { 
         this.marcado = true; 
     }
+
     public void morir() {
-        this.vivo = false; 
+        this.vivo = false;
+        this.interrupt();
     }
-    public void setComidaRecolectada(int cantidad) {
-        this.comidaRecolectada = cantidad;
+
+    public void setComidaRecolectada(int cantidad) { 
+        this.comidaRecolectada = cantidad; 
     }
-    public int getComidaRecolectada() { 
+    public int getComidaRecolectada() {
         return comidaRecolectada; 
     }
-    public void resetComida() { 
+    public void resetComida() {
         this.comidaRecolectada = 0; 
     }
     public void setTunelActual(Túnel tunel) {
-        this.tunelActual = tunel; 
+        this.tunelActual = tunel;
     }
-    public Túnel getTunelActual() {
+    public Túnel getTunelActual() { 
         return tunelActual; 
     }
 }
