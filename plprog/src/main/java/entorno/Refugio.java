@@ -45,16 +45,4 @@ public class Refugio {
     private Túnel seleccionarTúnel() {
         return túneles[(int)(Math.random() * túneles.length)];
     }
-
-    public Comedor getComedor() {
-        return comedor;
-    }
-
-    public ZonaComun getZonaComun() {
-        return zonaComun;
-    }
-
-    public ZonaDescanso getZonaDescanso() {
-        return zonaDescanso;
-    }
 }

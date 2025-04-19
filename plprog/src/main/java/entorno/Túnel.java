@@ -17,9 +17,7 @@ public class Túnel {
         this.barrera = new CyclicBarrier(3);
     }
 
-    public int getId() {
-        return id; 
-    }
+    public int getId() { return id; }
 
     public void entrarGrupo(Humano h) throws InterruptedException {
         SistemaDeLog.get().log(h.getIdHumano() + " espera para formar grupo en el túnel " + id);
