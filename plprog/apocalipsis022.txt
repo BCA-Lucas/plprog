@@ -1,0 +1,83 @@
+[2025-04-23 16:05:52] H0001 entra en la zona común.
+[2025-04-23 16:05:52] Z0000 se cambia a la zona insegura 2
+[2025-04-23 16:05:54] H0001 espera para formar grupo en el túnel 2
+[2025-04-23 16:05:54] H0002 entra en la zona común.
+[2025-04-23 16:05:55] H0003 entra en la zona común.
+[2025-04-23 16:05:55] Z0000 se cambia a la zona insegura 1
+[2025-04-23 16:05:55] H0002 espera para formar grupo en el túnel 1
+[2025-04-23 16:05:56] H0004 entra en la zona común.
+[2025-04-23 16:05:57] H0003 espera para formar grupo en el túnel 2
+[2025-04-23 16:05:58] Z0000 se cambia a la zona insegura 3
+[2025-04-23 16:05:58] H0004 espera para formar grupo en el túnel 2
+[2025-04-23 16:05:58] H0001 forma parte de un grupo en el túnel 2
+[2025-04-23 16:05:58] H0003 forma parte de un grupo en el túnel 2
+[2025-04-23 16:05:58] H0004 forma parte de un grupo en el túnel 2
+[2025-04-23 16:05:58] H0001 cruza el túnel 2
+[2025-04-23 16:05:58] H0005 entra en la zona común.
+[2025-04-23 16:05:59] H0006 entra en la zona común.
+[2025-04-23 16:05:59] H0003 cruza el túnel 2
+[2025-04-23 16:05:59] H0005 espera para formar grupo en el túnel 1
+[2025-04-23 16:06:00] H0007 entra en la zona común.
+[2025-04-23 16:06:00] H0006 espera para formar grupo en el túnel 0
+[2025-04-23 16:06:00] H0004 cruza el túnel 2
+[2025-04-23 16:06:01] Z0000 se cambia a la zona insegura 0
+[2025-04-23 16:06:01] H0007 espera para formar grupo en el túnel 0
+[2025-04-23 16:06:01] H0008 entra en la zona común.
+[2025-04-23 16:06:02] H0009 entra en la zona común.
+[2025-04-23 16:06:02] H0001 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:02] H0001 vuelve por el túnel 2
+[2025-04-23 16:06:03] H0010 entra en la zona común.
+[2025-04-23 16:06:03] H0008 espera para formar grupo en el túnel 2
+[2025-04-23 16:06:03] H0001 entra en la zona de descanso.
+[2025-04-23 16:06:03] Z0000 se cambia a la zona insegura 1
+[2025-04-23 16:06:04] H0009 espera para formar grupo en el túnel 1
+[2025-04-23 16:06:04] H0009 forma parte de un grupo en el túnel 1
+[2025-04-23 16:06:04] H0005 forma parte de un grupo en el túnel 1
+[2025-04-23 16:06:04] H0002 forma parte de un grupo en el túnel 1
+[2025-04-23 16:06:04] H0009 cruza el túnel 1
+[2025-04-23 16:06:04] H0010 espera para formar grupo en el túnel 3
+[2025-04-23 16:06:04] H0011 entra en la zona común.
+[2025-04-23 16:06:05] H0005 cruza el túnel 1
+[2025-04-23 16:06:05] H0003 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:05] H0003 vuelve por el túnel 2
+[2025-04-23 16:06:05] H0004 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:05] H0011 espera para formar grupo en el túnel 1
+[2025-04-23 16:06:05] H0012 entra en la zona común.
+[2025-04-23 16:06:06] H0002 cruza el túnel 1
+[2025-04-23 16:06:06] H0003 entra en la zona de descanso.
+[2025-04-23 16:06:06] H0004 vuelve por el túnel 2
+[2025-04-23 16:06:06] Z0000 se cambia a la zona insegura 2
+[2025-04-23 16:06:07] H0012 espera para formar grupo en el túnel 2
+[2025-04-23 16:06:07] H0013 entra en la zona común.
+[2025-04-23 16:06:07] H0004 entra en la zona de descanso.
+[2025-04-23 16:06:07] H0014 entra en la zona común.
+[2025-04-23 16:06:08] H0009 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:08] H0009 vuelve por el túnel 1
+[2025-04-23 16:06:08] H0013 espera para formar grupo en el túnel 2
+[2025-04-23 16:06:08] H0013 forma parte de un grupo en el túnel 2
+[2025-04-23 16:06:08] H0012 forma parte de un grupo en el túnel 2
+[2025-04-23 16:06:08] H0008 forma parte de un grupo en el túnel 2
+[2025-04-23 16:06:08] H0013 cruza el túnel 2
+[2025-04-23 16:06:09] Z0000 se cambia a la zona insegura 3
+[2025-04-23 16:06:09] H0014 espera para formar grupo en el túnel 1
+[2025-04-23 16:06:09] H0015 entra en la zona común.
+[2025-04-23 16:06:09] H0009 entra en la zona de descanso.
+[2025-04-23 16:06:09] H0012 cruza el túnel 2
+[2025-04-23 16:06:09] H0001 ha comido en el comedor.
+[2025-04-23 16:06:09] H0001 entra en la zona común.
+[2025-04-23 16:06:10] H0008 cruza el túnel 2
+[2025-04-23 16:06:10] H0015 espera para formar grupo en el túnel 2
+[2025-04-23 16:06:10] H0005 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:10] H0005 vuelve por el túnel 1
+[2025-04-23 16:06:10] H0002 ha recolectado 2 unidades de comida.
+[2025-04-23 16:06:10] H0016 entra en la zona común.
+[2025-04-23 16:06:11] H0001 espera para formar grupo en el túnel 0
+[2025-04-23 16:06:11] H0001 forma parte de un grupo en el túnel 0
+[2025-04-23 16:06:11] H0001 cruza el túnel 0
+[2025-04-23 16:06:11] H0007 forma parte de un grupo en el túnel 0
+[2025-04-23 16:06:11] H0006 forma parte de un grupo en el túnel 0
+[2025-04-23 16:06:11] H0017 entra en la zona común.
+[2025-04-23 16:06:11] H0005 entra en la zona de descanso.
+[2025-04-23 16:06:11] H0002 vuelve por el túnel 1
+[2025-04-23 16:06:11] Z0000 se cambia a la zona insegura 1
+[2025-04-23 16:06:12] H0016 espera para formar grupo en el túnel 0

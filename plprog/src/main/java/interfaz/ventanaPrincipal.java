@@ -4,6 +4,8 @@
  */
 package interfaz;
 
+import javax.swing.JLabel;
+import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 
 /**
@@ -30,6 +32,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         bg = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
+        jLabel9 = new javax.swing.JLabel();
         jPanel2 = new javax.swing.JPanel();
         jLabel4 = new javax.swing.JLabel();
         jPanel3 = new javax.swing.JPanel();
@@ -42,38 +45,38 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jLabel8 = new javax.swing.JLabel();
         refugio = new javax.swing.JPanel();
         scrollZDescanso = new javax.swing.JScrollPane();
-        jTextArea1 = new javax.swing.JTextArea();
+        textDescanso = new javax.swing.JTextArea();
         scrollZComun = new javax.swing.JScrollPane();
-        jTextArea2 = new javax.swing.JTextArea();
+        textComun = new javax.swing.JTextArea();
         scrollComedor = new javax.swing.JScrollPane();
-        jTextArea3 = new javax.swing.JTextArea();
+        textComedor = new javax.swing.JTextArea();
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
         jScrollPane1 = new javax.swing.JScrollPane();
-        jTextArea4 = new javax.swing.JTextArea();
+        textTunel0D = new javax.swing.JTextArea();
         jPanel8 = new javax.swing.JPanel();
         jScrollPane5 = new javax.swing.JScrollPane();
-        jTextArea8 = new javax.swing.JTextArea();
+        textTunel3D = new javax.swing.JTextArea();
         jPanel9 = new javax.swing.JPanel();
         jScrollPane4 = new javax.swing.JScrollPane();
-        jTextArea7 = new javax.swing.JTextArea();
+        textTunel2D = new javax.swing.JTextArea();
         jPanel10 = new javax.swing.JPanel();
         jScrollPane3 = new javax.swing.JScrollPane();
-        jTextArea6 = new javax.swing.JTextArea();
+        textTunel1D = new javax.swing.JTextArea();
         jPanel11 = new javax.swing.JPanel();
         jScrollPane7 = new javax.swing.JScrollPane();
-        jTextArea10 = new javax.swing.JTextArea();
+        textTunel0I = new javax.swing.JTextArea();
         jPanel12 = new javax.swing.JPanel();
         jScrollPane2 = new javax.swing.JScrollPane();
-        jTextArea5 = new javax.swing.JTextArea();
+        textTunel3I = new javax.swing.JTextArea();
         jPanel13 = new javax.swing.JPanel();
         jScrollPane6 = new javax.swing.JScrollPane();
-        jTextArea9 = new javax.swing.JTextArea();
+        textTunel2I = new javax.swing.JTextArea();
         jPanel14 = new javax.swing.JPanel();
         jScrollPane8 = new javax.swing.JScrollPane();
-        jTextArea11 = new javax.swing.JTextArea();
+        textTunel1I = new javax.swing.JTextArea();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -82,15 +85,26 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(58, 92, 31));
 
+        jLabel9.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel9.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel9.setText("Zona Insegura 0");
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 260, Short.MAX_VALUE)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jLabel9, javax.swing.GroupLayout.DEFAULT_SIZE, 248, Short.MAX_VALUE)
+                .addContainerGap())
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 410, Short.MAX_VALUE)
+            .addGroup(jPanel1Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jLabel9)
+                .addContainerGap(384, Short.MAX_VALUE))
         );
 
         bg.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 260, 410));
@@ -219,17 +233,17 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         refugio.setBackground(new java.awt.Color(168, 79, 46));
 
-        jTextArea1.setColumns(20);
-        jTextArea1.setRows(5);
-        scrollZDescanso.setViewportView(jTextArea1);
+        textDescanso.setColumns(20);
+        textDescanso.setRows(5);
+        scrollZDescanso.setViewportView(textDescanso);
 
-        jTextArea2.setColumns(20);
-        jTextArea2.setRows(5);
-        scrollZComun.setViewportView(jTextArea2);
+        textComun.setColumns(20);
+        textComun.setRows(5);
+        scrollZComun.setViewportView(textComun);
 
-        jTextArea3.setColumns(20);
-        jTextArea3.setRows(5);
-        scrollComedor.setViewportView(jTextArea3);
+        textComedor.setColumns(20);
+        textComedor.setRows(5);
+        scrollComedor.setViewportView(textComedor);
 
         jLabel2.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
@@ -285,9 +299,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel7.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea4.setColumns(20);
-        jTextArea4.setRows(5);
-        jScrollPane1.setViewportView(jTextArea4);
+        jScrollPane1.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane1.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane1.setHorizontalScrollBar(null);
+
+        textTunel0D.setColumns(20);
+        textTunel0D.setRows(5);
+        jScrollPane1.setViewportView(textTunel0D);
 
         javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
         jPanel7.setLayout(jPanel7Layout);
@@ -310,9 +328,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel8.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea8.setColumns(20);
-        jTextArea8.setRows(5);
-        jScrollPane5.setViewportView(jTextArea8);
+        jScrollPane5.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane5.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane5.setHorizontalScrollBar(null);
+
+        textTunel3D.setColumns(20);
+        textTunel3D.setRows(5);
+        jScrollPane5.setViewportView(textTunel3D);
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
         jPanel8.setLayout(jPanel8Layout);
@@ -335,9 +357,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel9.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea7.setColumns(20);
-        jTextArea7.setRows(5);
-        jScrollPane4.setViewportView(jTextArea7);
+        jScrollPane4.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane4.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane4.setHorizontalScrollBar(null);
+
+        textTunel2D.setColumns(20);
+        textTunel2D.setRows(5);
+        jScrollPane4.setViewportView(textTunel2D);
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
         jPanel9.setLayout(jPanel9Layout);
@@ -360,9 +386,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel10.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea6.setColumns(20);
-        jTextArea6.setRows(5);
-        jScrollPane3.setViewportView(jTextArea6);
+        jScrollPane3.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane3.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane3.setHorizontalScrollBar(null);
+
+        textTunel1D.setColumns(20);
+        textTunel1D.setRows(5);
+        jScrollPane3.setViewportView(textTunel1D);
 
         javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
         jPanel10.setLayout(jPanel10Layout);
@@ -385,9 +415,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel11.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea10.setColumns(20);
-        jTextArea10.setRows(5);
-        jScrollPane7.setViewportView(jTextArea10);
+        jScrollPane7.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane7.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane7.setHorizontalScrollBar(null);
+
+        textTunel0I.setColumns(20);
+        textTunel0I.setRows(5);
+        jScrollPane7.setViewportView(textTunel0I);
 
         javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
         jPanel11.setLayout(jPanel11Layout);
@@ -410,9 +444,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel12.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea5.setColumns(20);
-        jTextArea5.setRows(5);
-        jScrollPane2.setViewportView(jTextArea5);
+        jScrollPane2.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane2.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane2.setHorizontalScrollBar(null);
+
+        textTunel3I.setColumns(20);
+        textTunel3I.setRows(5);
+        jScrollPane2.setViewportView(textTunel3I);
 
         javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
         jPanel12.setLayout(jPanel12Layout);
@@ -435,9 +473,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel13.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea9.setColumns(20);
-        jTextArea9.setRows(5);
-        jScrollPane6.setViewportView(jTextArea9);
+        jScrollPane6.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane6.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane6.setHorizontalScrollBar(null);
+
+        textTunel2I.setColumns(20);
+        textTunel2I.setRows(5);
+        jScrollPane6.setViewportView(textTunel2I);
 
         javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
         jPanel13.setLayout(jPanel13Layout);
@@ -460,9 +502,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel14.setBackground(new java.awt.Color(51, 51, 51));
 
-        jTextArea11.setColumns(20);
-        jTextArea11.setRows(5);
-        jScrollPane8.setViewportView(jTextArea11);
+        jScrollPane8.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane8.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+        jScrollPane8.setHorizontalScrollBar(null);
+
+        textTunel1I.setColumns(20);
+        textTunel1I.setRows(5);
+        jScrollPane8.setViewportView(textTunel1I);
 
         javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
         jPanel14.setLayout(jPanel14Layout);
@@ -538,10 +584,11 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
-    private javax.swing.JLabel jLabel8;
+    public static javax.swing.JLabel jLabel5;
+    public static javax.swing.JLabel jLabel6;
+    public static javax.swing.JLabel jLabel7;
+    public static javax.swing.JLabel jLabel8;
+    private javax.swing.JLabel jLabel9;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel10;
     private javax.swing.JPanel jPanel11;
@@ -564,37 +611,92 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane6;
     private javax.swing.JScrollPane jScrollPane7;
     private javax.swing.JScrollPane jScrollPane8;
-    public static javax.swing.JTextArea jTextArea1;
-    private javax.swing.JTextArea jTextArea10;
-    private javax.swing.JTextArea jTextArea11;
-    public static javax.swing.JTextArea jTextArea2;
-    public static javax.swing.JTextArea jTextArea3;
-    private javax.swing.JTextArea jTextArea4;
-    private javax.swing.JTextArea jTextArea5;
-    private javax.swing.JTextArea jTextArea6;
-    private javax.swing.JTextArea jTextArea7;
-    private javax.swing.JTextArea jTextArea8;
-    private javax.swing.JTextArea jTextArea9;
     private javax.swing.JPanel refugio;
     private javax.swing.JScrollPane scrollComedor;
     private javax.swing.JScrollPane scrollZComun;
     private javax.swing.JScrollPane scrollZDescanso;
+    public static javax.swing.JTextArea textComedor;
+    public static javax.swing.JTextArea textComun;
+    public static javax.swing.JTextArea textDescanso;
+    public static javax.swing.JTextArea textTunel0D;
+    public static javax.swing.JTextArea textTunel0I;
+    public static javax.swing.JTextArea textTunel1D;
+    public static javax.swing.JTextArea textTunel1I;
+    public static javax.swing.JTextArea textTunel2D;
+    public static javax.swing.JTextArea textTunel2I;
+    public static javax.swing.JTextArea textTunel3D;
+    public static javax.swing.JTextArea textTunel3I;
     // End of variables declaration//GEN-END:variables
     public static void actualizarZonaComun(String texto) {
-        if (jTextArea2 != null) {
-            SwingUtilities.invokeLater(() -> jTextArea2.setText(texto));
+        if (textComun != null) {
+            SwingUtilities.invokeLater(() -> textComun.setText(texto));
         }
     }
 
     public static void actualizarZonaDescanso(String texto) {
-        if (jTextArea1 != null) {
-            SwingUtilities.invokeLater(() -> jTextArea1.setText(texto));
+        if (textDescanso != null) {
+            SwingUtilities.invokeLater(() -> textDescanso.setText(texto));
         }
     }
 
     public static void actualizarComedor(String texto) {
-        if (jTextArea3 != null) {
-            SwingUtilities.invokeLater(() -> jTextArea3.setText(texto));
+        if (textComedor != null) {
+            SwingUtilities.invokeLater(() -> textComedor.setText(texto));
         }
+    }
+    
+    public static void actualizarTunelIzquierda(final int idTunel, final String texto) {
+        JTextArea area = switch (idTunel) {
+            case 0 -> textTunel0I;
+            case 1 -> textTunel1I;
+            case 2 -> textTunel2I;
+            case 3 -> textTunel3I;
+            default -> null;
+        };
+        if (area != null) {
+            SwingUtilities.invokeLater(new Runnable() {
+                public void run() {
+                    area.setText(texto);
+                }
+            });
+        }
+    }
+
+    public static void actualizarTunelDerecha(final int idTunel, final String texto) {
+        JTextArea area = switch (idTunel) {
+            case 0 -> textTunel0D;
+            case 1 -> textTunel1D;
+            case 2 -> textTunel2D;
+            case 3 -> textTunel3D;
+            default -> null;
+        };
+        if (area != null) {
+            SwingUtilities.invokeLater(new Runnable() {
+                public void run() {
+                    area.setText(texto);
+                }
+            });
+        }
+    }
+    
+    public static void mostrarHumanoEnTunel(final int idTunel, final String idHumano) {
+        JLabel label = switch (idTunel) {
+            case 0 -> jLabel5;
+            case 1 -> jLabel6;
+            case 2 -> jLabel7;
+            case 3 -> jLabel8;
+            default -> null;
+        };
+        if (label != null) {
+            SwingUtilities.invokeLater(new Runnable() {
+                public void run() {
+                    label.setText(idHumano);
+                }
+            });
+        }
+    }
+
+    public static void limpiarTunel(final int idTunel) {
+        mostrarHumanoEnTunel(idTunel, "");
     }
 }

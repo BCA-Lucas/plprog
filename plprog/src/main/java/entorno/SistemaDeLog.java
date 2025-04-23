@@ -17,9 +17,12 @@ public class SistemaDeLog {
     private final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
     private File logFile;
 
-    private SistemaDeLog() {}
+    private SistemaDeLog() {
+    }
 
-    public static SistemaDeLog get() { return instancia; }
+    public static SistemaDeLog get() { 
+        return instancia;
+    }
 
     public void init() {
         for (int i = 0; i < 1000; i++) {
