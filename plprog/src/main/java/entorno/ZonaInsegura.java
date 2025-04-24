@@ -8,6 +8,7 @@ package entorno;
  *
  * @author Rodri
  */
+import interfaz.ventanaPrincipal;
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import modelo.Humano;
@@ -19,9 +20,9 @@ public class ZonaInsegura {
     static {
         for (int i = 0; i < 4; i++) zonas[i] = new ZonaInsegura(i);
     }
-    public static ZonaInsegura get(int id) { 
-        return zonas[id]; 
-    }
+
+    public static ZonaInsegura get(int id) { return zonas[id]; }
+
     public static ZonaInsegura getDistintaAleatoria(int actual) {
         List<ZonaInsegura> otras = new ArrayList<>();
         for (ZonaInsegura z : zonas) {
@@ -29,51 +30,73 @@ public class ZonaInsegura {
         }
         return otras.get(new Random().nextInt(otras.size()));
     }
-    
 
     private final int id;
     private final Queue<Humano> humanos = new ConcurrentLinkedQueue<>();
+    private final Queue<Zombi> zombis = new ConcurrentLinkedQueue<>();
 
-    private ZonaInsegura(int id) { 
-        this.id = id; 
-    }
-    
-    public int getId(){
-        return id;
-    }
+    private ZonaInsegura(int id) { this.id = id; }
+
+    public int getId() { return id; }
 
     public void entrarHumano(Humano h) throws InterruptedException {
         humanos.add(h);
+        actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
-        if (!h.estaMarcado()) {
+        if (!h.estaMarcado() && !Entorno.humanosMuertos.containsKey(h.getIdHumano())) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
         }
         humanos.remove(h);
+        actualizarUI();
     }
 
     public void entrarZombi(Zombi z) throws InterruptedException {
+        zombis.add(z);
+        actualizarUI();
+
         Humano[] disponibles = humanos.toArray(new Humano[0]);
         boolean ataco = false;
 
-        if (disponibles.length > 0) {
-            Humano victima = disponibles[new Random().nextInt(disponibles.length)];
-            Thread.sleep((int)(Math.random() * 1000) + 500);
-            ataco = true;
-
-            if (Math.random() < 2.0 / 3) {
-                victima.marcar();
-                SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + victima.getIdHumano() + " ha sobrevivido. Muertes: " + z.getMuertes());
-            } else {
-                victima.morir();
-                z.registrarMuerte();
-                SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + victima.getIdHumano() + " Muertes: " + z.getMuertes());
-                new Zombi(Integer.parseInt(victima.getIdHumano().substring(1))).start();
+        for (Humano h : disponibles) {
+            if (!Entorno.humanosMuertos.containsKey(h.getIdHumano())) {
+                ataco = true;
+                Thread.sleep((int)(Math.random() * 1000) + 500);
+                if (Math.random() < 2.0 / 3) {
+                    h.marcar();
+                    SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + h.getIdHumano() + " ha sobrevivido.");
+                } else {
+                    Entorno.humanosMuertos.put(h.getIdHumano(), true);
+                    humanos.remove(h);
+                    h.morir();
+                    SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));
+                    z.registrarMuerte();
+                    new Zombi(Integer.parseInt(h.getIdHumano().substring(1))).start();
+                }
+                break;
             }
         }
 
-        if (!ataco) {
-            Thread.sleep((int)(Math.random() * 1000) + 2000); // entre 2 y 3 segundos
+        if (!ataco) Thread.sleep((int)(Math.random() * 1000) + 2000);
+
+        zombis.remove(z);
+        actualizarUI();
+    }
+
+    private void actualizarUI() {
+        ventanaPrincipal.actualizarZonaInseguraHumanos(id, formatearIds(humanos));
+        ventanaPrincipal.actualizarZonaInseguraZombis(id, formatearIds(zombis));
+    }
+
+    private <T extends Thread> String formatearIds(Collection<T> lista) {
+        StringBuilder sb = new StringBuilder();
+        int i = 0;
+        for (T t : lista) {
+            String id = (t instanceof Humano) ? ((Humano)t).getIdHumano() : ((Zombi)t).getIdZombi();
+            sb.append(id);
+            if (++i % 4 == 0) sb.append("\n");
+            else sb.append(", ");
         }
+        return sb.toString().trim();
     }
 }
