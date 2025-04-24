@@ -69,6 +69,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
+        jLabel10 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
         jScrollPane1 = new javax.swing.JScrollPane();
         textTunel0D = new javax.swing.JTextArea();
@@ -346,6 +347,8 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("DESCANSO");
 
+        jLabel10.setText("Comida:");
+
         javax.swing.GroupLayout refugioLayout = new javax.swing.GroupLayout(refugio);
         refugio.setLayout(refugioLayout);
         refugioLayout.setHorizontalGroup(
@@ -362,6 +365,10 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                         .addGap(0, 0, Short.MAX_VALUE))
                     .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap())
+            .addGroup(refugioLayout.createSequentialGroup()
+                .addGap(105, 105, 105)
+                .addComponent(jLabel10)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         refugioLayout.setVerticalGroup(
             refugioLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -378,7 +385,9 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                 .addComponent(jLabel3)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(scrollComedor, javax.swing.GroupLayout.PREFERRED_SIZE, 85, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(59, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(jLabel10)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
 
         bg.add(refugio, new org.netbeans.lib.awtextra.AbsoluteConstraints(840, 100, 260, 410));
@@ -673,6 +682,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel bg;
     private javax.swing.JLabel jLabel1;
+    public static javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -811,6 +821,10 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         if (area != null) {
             SwingUtilities.invokeLater(() -> area.setText(texto));
         }
+    }
+    
+    public static void actualizarComida(int comida) {
+        jLabel10.setText("Comida:"+comida);
     }
     
     public static void mostrarHumanoEnTunel(final int idTunel, final String idHumano) {

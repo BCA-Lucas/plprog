@@ -33,7 +33,7 @@ public class ZonaInsegura {
 
     private final int id;
     private final Queue<Humano> humanos = new ConcurrentLinkedQueue<>();
-    private final Queue<Zombi> zombis = new ConcurrentLinkedQueue<>();
+    private final Queue<Zombi> zombis = new ConcurrentLinkedQueue<>();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
     private ZonaInsegura(int id) { this.id = id; }
 
@@ -43,7 +43,7 @@ public class ZonaInsegura {
         humanos.add(h);
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
-        if (!h.estaMarcado() && !Entorno.humanosMuertos.containsKey(h.getIdHumano())) {
+        if (!h.estaMarcado() && !Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
         }
@@ -59,14 +59,14 @@ public class ZonaInsegura {
         boolean ataco = false;
 
         for (Humano h : disponibles) {
-            if (!Entorno.humanosMuertos.containsKey(h.getIdHumano())) {
+            if (!Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
                 ataco = true;
                 Thread.sleep((int)(Math.random() * 1000) + 500);
                 if (Math.random() < 2.0 / 3) {
                     h.marcar();
                     SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + h.getIdHumano() + " ha sobrevivido.");
                 } else {
-                    Entorno.humanosMuertos.put(h.getIdHumano(), true);
+                    Muertos.humanosMuertos.put(h.getIdHumano(), true);
                     humanos.remove(h);
                     h.morir();
                     SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));

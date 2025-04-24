@@ -19,6 +19,7 @@ public class Comedor {
 
     public synchronized void depositarComida(int cantidad) {
         comidaDisponible += cantidad;
+        ventanaPrincipal.actualizarComida(comidaDisponible);
         notifyAll();
     }
 
@@ -31,7 +32,9 @@ public class Comedor {
                 wait();
             }
             comidaDisponible--;
+            ventanaPrincipal.actualizarComida(comidaDisponible);
         }
+        
 
         Thread.sleep((int)(Math.random() * 2000) + 3000);
         SistemaDeLog.get().log(h.getIdHumano() + " ha comido en el comedor.");
@@ -51,5 +54,9 @@ public class Comedor {
             else sb.append(", ");
         }
         return sb.toString().trim();
+    }
+    
+    public int getComida(){
+        return comidaDisponible;
     }
 }
