@@ -66,6 +66,10 @@ public class Túnel {
 
     public void entrarDesdeExterior(Humano h) throws InterruptedException {
         esperaExterior.add(h);
+        if (!h.isAlive()){
+            esperaExterior.remove(h);
+            actualizarUI();
+        }
         actualizarUI();
         synchronized (lockDireccion) {
             while (direccionActual != Direccion.NINGUNA) {
@@ -75,6 +79,7 @@ public class Túnel {
         }
 
         sem.acquire();
+        
         esperaExterior.remove(h);
         actualizarUI();
         h.setTunelActual(this);
