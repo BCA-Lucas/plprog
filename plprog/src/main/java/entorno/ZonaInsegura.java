@@ -40,25 +40,41 @@ public class ZonaInsegura {
     public int getId() { return id; }
 
     public void entrarHumano(Humano h) throws InterruptedException {
+<<<<<<< Updated upstream
         humanos.add(h);
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
         if (!h.estaMarcado() && !Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
+=======
+        if (!Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
+            humanos.add(h);
+            actualizarUI();
+            Thread.sleep((int)(Math.random() * 2000) + 3000);
+            if (!h.estaMarcado() && !Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
+                h.setComidaRecolectada(2);
+                SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
+            }
+            humanos.remove(h);
+            actualizarUI();
+>>>>>>> Stashed changes
         }
-        humanos.remove(h);
-        actualizarUI();
     }
 
     public void entrarZombi(Zombi z) throws InterruptedException {
         zombis.add(z);
         actualizarUI();
 
-        Humano[] disponibles = humanos.toArray(new Humano[0]);
         boolean ataco = false;
+        List<Humano> disponibles;
+
+        synchronized (this) {
+            disponibles = new ArrayList<>(humanos);
+        }
 
         for (Humano h : disponibles) {
+<<<<<<< Updated upstream
             if (!Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
                 ataco = true;
                 Thread.sleep((int)(Math.random() * 1000) + 500);
@@ -72,8 +88,25 @@ public class ZonaInsegura {
                     SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));
                     z.registrarMuerte();
                     new Zombi(Integer.parseInt(h.getIdHumano().substring(1))).start();
+=======
+            synchronized (h) {
+                if (!Muertos.humanosMuertos.containsKey(h.getIdHumano())) {
+                    ataco = true;
+                    Thread.sleep((int)(Math.random() * 1000) + 500);
+                    if (Math.random() < 2.0 / 3) {
+                        h.marcar();
+                        SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + h.getIdHumano() + " ha sobrevivido.");
+                    } else {
+                        Muertos.humanosMuertos.put(h.getIdHumano(), true);
+                        humanos.remove(h);
+                        h.morir();
+                        SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));
+                        z.registrarMuerte();
+                        new Zombi(Integer.parseInt(h.getIdHumano().substring(1))).start();
+                    }
+                    break;
+>>>>>>> Stashed changes
                 }
-                break;
             }
         }
 
