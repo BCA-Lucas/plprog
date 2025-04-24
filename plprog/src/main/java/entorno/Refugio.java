@@ -15,7 +15,10 @@ public class Refugio {
     private final ZonaDescanso zonaDescanso = new ZonaDescanso();
     private final Comedor comedor = new Comedor();
     private final Túnel[] túneles = {
-        new Túnel(0), new Túnel(1), new Túnel(2), new Túnel(3)
+        new Túnel(0, 3),
+        new Túnel(1, 3),
+        new Túnel(2, 3),
+        new Túnel(3, 3)
     };
 
     public void zonaComun(Humano h) throws InterruptedException {

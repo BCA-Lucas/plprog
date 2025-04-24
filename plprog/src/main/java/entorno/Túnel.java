@@ -11,18 +11,19 @@ import modelo.Humano;
  */
 public class Túnel {
     private final int id;
-    private final Semaphore sem = new Semaphore(1, true);
+    private final Semaphore sem = new Semaphore(1);
     private final CyclicBarrier barrera;
+    private final List<Humano> esperaInterior = Collections.synchronizedList(new ArrayList<>());
+    private final List<Humano> esperaExterior = Collections.synchronizedList(new ArrayList<>());
 
-    private final Queue<Humano> esperaInterior = new ConcurrentLinkedQueue<>();
-    private final Queue<Humano> esperaExterior = new ConcurrentLinkedQueue<>();
+    private enum Direccion { ENTRADA, SALIDA, NINGUNA }
+    private Direccion direccionActual = Direccion.NINGUNA;
+    private final Object lockDireccion = new Object();
 
-    public Túnel(int id) {
+    public Túnel(int id, int grupo) {
         this.id = id;
-        this.barrera = new CyclicBarrier(3);
+        this.barrera = new CyclicBarrier(grupo);
     }
-
-    public int getId() { return id; }
 
     public void entrarGrupo(Humano h) throws InterruptedException {
         esperaInterior.add(h);
@@ -31,6 +32,7 @@ public class Túnel {
         try {
             barrera.await();
         } catch (BrokenBarrierException e) {
+            barrera.reset();
             Thread.currentThread().interrupt();
         }
         esperaInterior.remove(h);
@@ -39,36 +41,68 @@ public class Túnel {
     }
 
     public void atravesar(Humano h) throws InterruptedException {
+        synchronized (lockDireccion) {
+            while (direccionActual == Direccion.ENTRADA) {
+                lockDireccion.wait();
+            }
+            direccionActual = Direccion.SALIDA;
+        }
+
         sem.acquire();
+        h.setTunelActual(this);
         ventanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " cruza el túnel " + id);
-        Thread.sleep(1000);
-        ventanaPrincipal.limpiarTunel(id);
-        sem.release();
+        try {
+            Thread.sleep(1000);
+        } finally {
+            ventanaPrincipal.limpiarTunel(id);
+            sem.release();
+            synchronized (lockDireccion) {
+                direccionActual = Direccion.NINGUNA;
+                lockDireccion.notifyAll();
+            }
+        }
     }
 
     public void entrarDesdeExterior(Humano h) throws InterruptedException {
         esperaExterior.add(h);
         actualizarUI();
+        synchronized (lockDireccion) {
+            while (direccionActual != Direccion.NINGUNA) {
+                lockDireccion.wait();
+            }
+            direccionActual = Direccion.ENTRADA;
+        }
+
         sem.acquire();
         esperaExterior.remove(h);
         actualizarUI();
+        h.setTunelActual(this);
         ventanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " vuelve por el túnel " + id);
-        Thread.sleep(1000);
-        ventanaPrincipal.limpiarTunel(id);
-        sem.release();
+        try {
+            Thread.sleep(1000);
+        } finally {
+            ventanaPrincipal.limpiarTunel(id);
+            sem.release();
+            synchronized (lockDireccion) {
+                direccionActual = Direccion.NINGUNA;
+                lockDireccion.notifyAll();
+            }
+        }
     }
+
+    public int getId() { return id; }
 
     private void actualizarUI() {
-        ventanaPrincipal.actualizarTunelIzquierda(id, formatearCola(esperaExterior));
-        ventanaPrincipal.actualizarTunelDerecha(id, formatearCola(esperaInterior));
+        ventanaPrincipal.actualizarTunelIzquierda(id, formatear(esperaExterior));
+        ventanaPrincipal.actualizarTunelDerecha(id, formatear(esperaInterior));
     }
 
-    private String formatearCola(Queue<Humano> cola) {
+    private String formatear(List<Humano> lista) {
         StringBuilder sb = new StringBuilder();
         int i = 0;
-        for (Humano h : cola) {
+        for (Humano h : lista) {
             sb.append(h.getIdHumano());
             if (++i % 4 == 0) sb.append("\n");
             else sb.append(", ");

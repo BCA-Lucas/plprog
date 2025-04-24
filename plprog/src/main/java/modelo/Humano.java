@@ -4,12 +4,14 @@ import entorno.Refugio;
 import control.ControlGlobal;
 import entorno.Muertos;
 import entorno.Túnel;
+import interfaz.ventanaPrincipal;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Humano extends Thread {
     private final String id;
     private final Refugio refugio;
-    private boolean marcado = false;
-    private volatile boolean vivo = true;
+    private final AtomicBoolean vivo = new AtomicBoolean(true);
+    private volatile boolean marcado = false;
     private int comidaRecolectada = 0;
     private Túnel tunelActual;
 
@@ -20,24 +22,24 @@ public class Humano extends Thread {
 
     @Override
     public void run() {
-        while (vivo) {
+        Muertos.humanosVivos.put(id, this);
+        while (vivo.get()) {
             try {
-                if (Muertos.humanosMuertos.containsKey(id)) break;
                 ControlGlobal.esperarSiPausado();
                 refugio.zonaComun(this);
+                if (!vivo.get()) break;
 
-                if (!vivo) break;
                 ControlGlobal.esperarSiPausado();
                 refugio.salirAlExterior(this);
+                if (!vivo.get()) break;
 
-                if (!vivo) break;
                 ControlGlobal.esperarSiPausado();
                 refugio.volverAlRefugio(this);
-
             } catch (InterruptedException e) {
                 break;
             }
         }
+        Muertos.humanosVivos.remove(id);
     }
 
     public String getIdHumano() { return id; }
@@ -45,10 +47,13 @@ public class Humano extends Thread {
     public void marcar() { this.marcado = true; }
 
     public void morir() {
-        this.vivo = false;
+        if (!vivo.getAndSet(false)) return;
         this.interrupt();
+        if (tunelActual != null) {
+            ventanaPrincipal.limpiarTunel(tunelActual.getId());
+        }
     }
-
+    
     public void setComidaRecolectada(int cantidad) { this.comidaRecolectada = cantidad; }
     public int getComidaRecolectada() { return comidaRecolectada; }
     public void resetComida() { this.comidaRecolectada = 0; }
