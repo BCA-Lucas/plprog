@@ -66,11 +66,8 @@ public class Túnel {
 
     public void entrarDesdeExterior(Humano h) throws InterruptedException {
         esperaExterior.add(h);
-        if (!h.isAlive()){
-            esperaExterior.remove(h);
-            actualizarUI();
-        }
         actualizarUI();
+
         synchronized (lockDireccion) {
             while (direccionActual != Direccion.NINGUNA) {
                 lockDireccion.wait();
@@ -79,7 +76,19 @@ public class Túnel {
         }
 
         sem.acquire();
-        
+
+        // revalidar si ha muerto antes de entrar
+        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+            esperaExterior.remove(h);
+            actualizarUI();
+            sem.release();
+            synchronized (lockDireccion) {
+                direccionActual = Direccion.NINGUNA;
+                lockDireccion.notifyAll();
+            }
+            return;
+        }
+
         esperaExterior.remove(h);
         actualizarUI();
         h.setTunelActual(this);
@@ -96,7 +105,6 @@ public class Túnel {
             }
         }
     }
-
     public int getId() { return id; }
 
     private void actualizarUI() {

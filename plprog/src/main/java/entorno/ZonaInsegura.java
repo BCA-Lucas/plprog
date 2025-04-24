@@ -42,11 +42,11 @@ public class ZonaInsegura {
     public int getId() { return id; }
 
     public void entrarHumano(Humano h) throws InterruptedException {
-        if (!Muertos.humanosVivos.containsKey(h.getIdHumano())) return;
+        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) return;
         humanosPresentes.add(h.getIdHumano());
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
-        if (Muertos.humanosVivos.containsKey(h.getIdHumano()) && !h.estaMarcado()) {
+        if (Vivos.humanosVivos.containsKey(h.getIdHumano()) && !h.estaMarcado()) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
         }
@@ -61,17 +61,17 @@ public class ZonaInsegura {
         boolean ataco = false;
         accesoZona.acquire();
         try {
-            for (Humano h : Muertos.humanosVivos.values()) {
+            for (Humano h : Vivos.humanosVivos.values()) {
                 if (humanosPresentes.contains(h.getIdHumano())) {
                     synchronized (h) {
-                        if (!Muertos.humanosVivos.containsKey(h.getIdHumano())) continue;
+                        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) continue;
 
                         Thread.sleep((int)(Math.random() * 1000) + 500);
                         if (Math.random() < 2.0 / 3) {
                             h.marcar();
                             SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + h.getIdHumano() + " ha sobrevivido.");
                         } else {
-                            Muertos.humanosVivos.remove(h.getIdHumano());
+                            Vivos.humanosVivos.remove(h.getIdHumano());
                             humanosPresentes.remove(h.getIdHumano());
                             h.morir();
                             SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));

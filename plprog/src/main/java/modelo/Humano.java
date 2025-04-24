@@ -2,7 +2,7 @@ package modelo;
 
 import entorno.Refugio;
 import control.ControlGlobal;
-import entorno.Muertos;
+import entorno.Vivos;
 import entorno.Túnel;
 import interfaz.ventanaPrincipal;
 import java.util.concurrent.atomic.AtomicBoolean;
@@ -22,7 +22,7 @@ public class Humano extends Thread {
 
     @Override
     public void run() {
-        Muertos.humanosVivos.put(id, this);
+        Vivos.humanosVivos.put(id, this);
         while (vivo.get()) {
             try {
                 ControlGlobal.esperarSiPausado();
@@ -39,7 +39,7 @@ public class Humano extends Thread {
                 break;
             }
         }
-        Muertos.humanosVivos.remove(id);
+        Vivos.humanosVivos.remove(id);
     }
 
     public String getIdHumano() { return id; }
