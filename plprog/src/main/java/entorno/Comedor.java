@@ -59,4 +59,8 @@ public class Comedor {
     public int getComida(){
         return comidaDisponible;
     }
+    
+    public int getPresentes(){
+        return presentes.size();
+    }
 }

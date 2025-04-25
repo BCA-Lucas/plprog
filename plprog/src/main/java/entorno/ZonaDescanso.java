@@ -14,7 +14,7 @@ import modelo.Humano;
  * @author Rodri
  */
 public class ZonaDescanso {
-    private final List<Humano> presentes = new CopyOnWriteArrayList<>();
+    private static final List<Humano> presentes = new CopyOnWriteArrayList<>();
 
     public void entrar(Humano h) throws InterruptedException {
         presentes.add(h);
@@ -46,5 +46,9 @@ public class ZonaDescanso {
             else sb.append(", ");
         }
         return sb.toString().trim();
+    }
+    
+    public static int getPresentes(){
+        return presentes.size();
     }
 }
