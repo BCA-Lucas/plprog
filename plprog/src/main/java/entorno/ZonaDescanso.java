@@ -28,6 +28,7 @@ public class ZonaDescanso {
     public void recuperarse(Humano h) throws InterruptedException {
         presentes.add(h);
         SistemaDeLog.get().log(h.getIdHumano() + " se recupera de sus heridas en la zona de descanso.");
+        h.resetMarca();
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
         presentes.remove(h);

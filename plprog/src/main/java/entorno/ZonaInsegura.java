@@ -10,8 +10,7 @@ package entorno;
  */
 import interfaz.ventanaPrincipal;
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.Semaphore;
+import java.util.concurrent.ConcurrentLinkedQueue;
 import modelo.Humano;
 import modelo.Zombi;
 
@@ -33,9 +32,8 @@ public class ZonaInsegura {
     }
 
     private final int id;
-    private final Set<String> humanosPresentes = ConcurrentHashMap.newKeySet();
-    private final Set<String> zombisPresentes = ConcurrentHashMap.newKeySet();
-    private final Semaphore accesoZona = new Semaphore(1);
+    private final Queue<Humano> humanos = new ConcurrentLinkedQueue<>();
+    private final Queue<Zombi> zombis = new ConcurrentLinkedQueue<>();
 
     private ZonaInsegura(int id) { this.id = id; }
 
@@ -43,65 +41,59 @@ public class ZonaInsegura {
 
     public void entrarHumano(Humano h) throws InterruptedException {
         if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) return;
-        humanosPresentes.add(h.getIdHumano());
+        humanos.add(h);
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
+
+        while (h.estaSiendoAtacado()) Thread.sleep(100); // espera si está en ataque
+
         if (Vivos.humanosVivos.containsKey(h.getIdHumano()) && !h.estaMarcado()) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
         }
-        humanosPresentes.remove(h.getIdHumano());
+        humanos.remove(h);
         actualizarUI();
     }
 
     public void entrarZombi(Zombi z) throws InterruptedException {
-        zombisPresentes.add(z.getIdZombi());
+        zombis.add(z);
         actualizarUI();
 
         boolean ataco = false;
-        accesoZona.acquire();
-        try {
-            for (Humano h : Vivos.humanosVivos.values()) {
-                if (humanosPresentes.contains(h.getIdHumano())) {
-                    synchronized (h) {
-                        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) continue;
+        List<Humano> candidatos;
 
-                        Thread.sleep((int)(Math.random() * 1000) + 500);
-                        if (Math.random() < 2.0 / 3) {
-                            h.marcar();
-                            SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + h.getIdHumano() + " ha sobrevivido.");
-                        } else {
-                            Vivos.humanosVivos.remove(h.getIdHumano());
-                            humanosPresentes.remove(h.getIdHumano());
-                            h.morir();
-                            SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + h.getIdHumano() + " Muertes: " + (z.getMuertes() + 1));
-                            z.registrarMuerte();
-                            new Zombi(Integer.parseInt(h.getIdHumano().substring(1))).start();
-                        }
-                        ataco = true;
-                        break;
-                    }
+        synchronized (this) {
+            candidatos = new ArrayList<>(humanos);
+        }
+
+        for (Humano h : candidatos) {
+            synchronized (h) {
+                if (Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+                    humanos.remove(h); // evitar ataques múltiples
+                    h.recibirAtaque(z);
+                    ataco = true;
+                    break;
                 }
             }
-        } finally {
-            accesoZona.release();
         }
 
         if (!ataco) Thread.sleep((int)(Math.random() * 1000) + 2000);
 
-        zombisPresentes.remove(z.getIdZombi());
+        zombis.remove(z);
         actualizarUI();
     }
-
+    
     private void actualizarUI() {
-        ventanaPrincipal.actualizarZonaInseguraHumanos(id, formatearIds(humanosPresentes));
-        ventanaPrincipal.actualizarZonaInseguraZombis(id, formatearIds(zombisPresentes));
+        ventanaPrincipal.actualizarZonaInseguraHumanos(id, formatearIds(humanos));
+        ventanaPrincipal.actualizarZonaInseguraZombis(id, formatearIds(zombis));
     }
 
-    private String formatearIds(Collection<String> lista) {
+    private <T extends Thread> String formatearIds(Collection<T> lista) {
+        // Convierte una lista de humanos o zombis a un string de IDs con saltos de línea cada 4 elementos
         StringBuilder sb = new StringBuilder();
         int i = 0;
-        for (String id : lista) {
+        for (T t : lista) {
+            String id = (t instanceof Humano) ? ((Humano)t).getIdHumano() : ((Zombi)t).getIdZombi();
             sb.append(id);
             if (++i % 4 == 0) sb.append("\n");
             else sb.append(", ");

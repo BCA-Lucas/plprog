@@ -41,8 +41,9 @@ public class Túnel {
     }
 
     public void atravesar(Humano h) throws InterruptedException {
+        // Espera mientras haya humanos intentando volver desde el exterior
         synchronized (lockDireccion) {
-            while (direccionActual == Direccion.ENTRADA) {
+            while (direccionActual != Direccion.NINGUNA || !esperaExterior.isEmpty()) {
                 lockDireccion.wait();
             }
             direccionActual = Direccion.SALIDA;
@@ -68,32 +69,36 @@ public class Túnel {
         esperaExterior.add(h);
         actualizarUI();
 
+        // Verifica inmediatamente si ha muerto antes de esperar
+        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+            esperaExterior.remove(h);
+            actualizarUI();
+            return;
+        }
+
         synchronized (lockDireccion) {
             while (direccionActual != Direccion.NINGUNA) {
                 lockDireccion.wait();
             }
+
+            // Verifica justo antes de adquirir el túnel por si murió mientras esperaba
+            if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+                esperaExterior.remove(h);
+                actualizarUI();
+                return;
+            }
+
             direccionActual = Direccion.ENTRADA;
         }
 
         sem.acquire();
-
-        // revalidar si ha muerto antes de entrar
-        if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
-            esperaExterior.remove(h);
-            actualizarUI();
-            sem.release();
-            synchronized (lockDireccion) {
-                direccionActual = Direccion.NINGUNA;
-                lockDireccion.notifyAll();
-            }
-            return;
-        }
 
         esperaExterior.remove(h);
         actualizarUI();
         h.setTunelActual(this);
         ventanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " vuelve por el túnel " + id);
+
         try {
             Thread.sleep(1000);
         } finally {
