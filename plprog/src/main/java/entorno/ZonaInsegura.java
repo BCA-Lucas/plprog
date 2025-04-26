@@ -100,4 +100,22 @@ public class ZonaInsegura {
         }
         return sb.toString().trim();
     }
+    
+    public int getHumanos(){
+        return humanos.size();
+    }
+    
+    public int getZombis(){
+        return zombis.size();
+    }
+    
+    public static List<Zombi> getZombisLista() {
+        List<Zombi> zombisLista = new ArrayList<>();
+
+        for (ZonaInsegura zona : zonas) {
+            zombisLista.addAll(zona.zombis);
+        }
+        
+        return zombisLista;
+    }
 }

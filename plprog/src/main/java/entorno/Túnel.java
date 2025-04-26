@@ -127,4 +127,15 @@ public class Túnel {
         }
         return sb.toString().trim();
     }
+    
+    public int getEsperaInteriorSize() {
+        return esperaInterior.size();
+    }
+
+    public int getEsperaExteriorSize() {
+        return esperaExterior.size();
+    }
+
 }
+
+

@@ -4,7 +4,9 @@
  */
 package entorno;
 
+import java.util.*;
 import modelo.Humano;
+
 
 /**
  *
@@ -14,12 +16,18 @@ public class Refugio {
     private final ZonaComun zonaComun = new ZonaComun();
     private final ZonaDescanso zonaDescanso = new ZonaDescanso();
     private final Comedor comedor = new Comedor();
+    public static Refugio instanciaGlobal;
     private final Túnel[] túneles = {
         new Túnel(0, 3),
         new Túnel(1, 3),
         new Túnel(2, 3),
         new Túnel(3, 3)
     };
+    
+    public Refugio() {
+        instanciaGlobal = this;
+    }
+
 
     public void zonaComun(Humano h) throws InterruptedException {
         zonaComun.entrar(h);
@@ -47,5 +55,15 @@ public class Refugio {
 
     private Túnel seleccionarTúnel() {
         return túneles[(int)(Math.random() * túneles.length)];
+    }
+    
+    public static Map<Integer, Integer> getHumanosEnTuneles() {
+        Map<Integer, Integer> resultado = new HashMap<>();
+        for (int i = 0; i < instanciaGlobal.túneles.length; i++) {
+            Túnel tunel = instanciaGlobal.túneles[i];
+            int humanosEsperando = tunel.getEsperaInteriorSize() + tunel.getEsperaExteriorSize();
+            resultado.put(i, humanosEsperando);
+        }
+        return resultado;
     }
 }

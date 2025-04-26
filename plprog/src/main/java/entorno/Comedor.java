@@ -15,7 +15,7 @@ import modelo.Humano;
  */
 public class Comedor {
     private int comidaDisponible = 0;
-    private final List<Humano> presentes = new CopyOnWriteArrayList<>();
+    private final static List<Humano> presentes = new CopyOnWriteArrayList<>();
 
     public synchronized void depositarComida(int cantidad) {
         comidaDisponible += cantidad;
@@ -60,7 +60,7 @@ public class Comedor {
         return comidaDisponible;
     }
     
-    public int getPresentes(){
+    public static int getPresentes(){
         return presentes.size();
     }
 }
