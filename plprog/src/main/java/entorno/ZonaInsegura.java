@@ -8,6 +8,7 @@ package entorno;
  *
  * @author Rodri
  */
+import control.ControlGlobal;
 import interfaz.VentanaPrincipal;
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
@@ -40,22 +41,26 @@ public class ZonaInsegura {
     public int getId() { return id; }
 
     public void entrarHumano(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) return;
         humanos.add(h);
         actualizarUI();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
 
         while (h.estaSiendoAtacado()) Thread.sleep(100); // espera si está en ataque
-
+        
+        ControlGlobal.esperarSiPausado();
         if (Vivos.humanosVivos.containsKey(h.getIdHumano()) && !h.estaMarcado()) {
             h.setComidaRecolectada(2);
             SistemaDeLog.get().log(h.getIdHumano() + " ha recolectado 2 unidades de comida.");
         }
+        ControlGlobal.esperarSiPausado();
         humanos.remove(h);
         actualizarUI();
     }
 
     public void entrarZombi(Zombi z) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         zombis.add(z);
         actualizarUI();
 
@@ -69,6 +74,7 @@ public class ZonaInsegura {
         for (Humano h : candidatos) {
             synchronized (h) {
                 if (Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+                    ControlGlobal.esperarSiPausado();
                     humanos.remove(h); // evitar ataques múltiples
                     h.recibirAtaque(z);
                     ataco = true;
@@ -76,9 +82,10 @@ public class ZonaInsegura {
                 }
             }
         }
-
+        
         if (!ataco) Thread.sleep((int)(Math.random() * 1000) + 2000);
-
+        
+        ControlGlobal.esperarSiPausado();
         zombis.remove(z);
         actualizarUI();
     }

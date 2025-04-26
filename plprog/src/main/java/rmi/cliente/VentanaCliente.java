@@ -2,19 +2,29 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package interfaz;
+package rmi.cliente;
+
+import java.rmi.Naming;
+import javax.swing.JOptionPane;
+import javax.swing.SwingUtilities;
+import rmi.servidor.ServidorRemoto;
+import java.util.Map;
+import java.util.List;
+import javax.swing.Timer;
+
 
 /**
  *
  * @author Rodri
  */
 public class VentanaCliente extends javax.swing.JFrame {
-
-    /**
-     * Creates new form ventanaCliente
-     */
+    
+    private ServidorRemoto servidor;
+    
     public VentanaCliente() {
         initComponents();
+        conectarServidor();
+        iniciarActualizacion();
     }
 
     /**
@@ -33,11 +43,11 @@ public class VentanaCliente extends javax.swing.JFrame {
         jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
-        jTextArea1 = new javax.swing.JTextArea();
+        areaTuneles = new javax.swing.JTextArea();
         jScrollPane2 = new javax.swing.JScrollPane();
-        jTextArea2 = new javax.swing.JTextArea();
+        areaHumanosInseguros = new javax.swing.JTextArea();
         jScrollPane4 = new javax.swing.JScrollPane();
-        jTextArea4 = new javax.swing.JTextArea();
+        areaZombisInseguras = new javax.swing.JTextArea();
         humanosRefugio = new javax.swing.JLabel();
         jPanel2 = new javax.swing.JPanel();
         top2 = new javax.swing.JLabel();
@@ -47,16 +57,20 @@ public class VentanaCliente extends javax.swing.JFrame {
         top3 = new javax.swing.JLabel();
         jPanel5 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
+        botonParar = new javax.swing.JToggleButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setMinimumSize(new java.awt.Dimension(530, 430));
+        jPanel1.setName(""); // NOI18N
+        jPanel1.setPreferredSize(new java.awt.Dimension(530, 450));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Leaderboard (Top 3):");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 280, 130, -1));
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 320, 130, -1));
 
         jLabel3.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
@@ -71,50 +85,50 @@ public class VentanaCliente extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jLabel5.setText("Humanos en refugio:");
-        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 170, 190, -1));
+        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 190, 190, -1));
 
         jLabel6.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         jLabel6.setText("Zombis en zonas inseguras:");
-        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 170, 190, -1));
+        jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 190, 190, -1));
 
         jScrollPane1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jScrollPane1.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         jScrollPane1.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
-        jTextArea1.setColumns(20);
-        jTextArea1.setRows(5);
-        jScrollPane1.setViewportView(jTextArea1);
+        areaTuneles.setColumns(20);
+        areaTuneles.setRows(5);
+        jScrollPane1.setViewportView(areaTuneles);
 
-        jPanel1.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 90, 190, 70));
+        jPanel1.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 90, 190, 90));
 
         jScrollPane2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jScrollPane2.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         jScrollPane2.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
-        jTextArea2.setColumns(20);
-        jTextArea2.setRows(5);
-        jTextArea2.setText("0    |   4   |   4   |   5   |   ");
-        jScrollPane2.setViewportView(jTextArea2);
+        areaHumanosInseguros.setColumns(20);
+        areaHumanosInseguros.setRows(5);
+        jScrollPane2.setViewportView(areaHumanosInseguros);
 
-        jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 90, 190, 70));
+        jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 90, 190, 90));
 
         jScrollPane4.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jScrollPane4.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         jScrollPane4.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
-        jTextArea4.setColumns(20);
-        jTextArea4.setRows(5);
-        jScrollPane4.setViewportView(jTextArea4);
+        areaZombisInseguras.setColumns(20);
+        areaZombisInseguras.setRows(5);
+        jScrollPane4.setViewportView(areaZombisInseguras);
 
-        jPanel1.add(jScrollPane4, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 190, 190, 70));
+        jPanel1.add(jScrollPane4, new org.netbeans.lib.awtextra.AbsoluteConstraints(330, 210, 190, 90));
 
-        humanosRefugio.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
+        humanosRefugio.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         humanosRefugio.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
-        jPanel1.add(humanosRefugio, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 190, 190, 70));
+        jPanel1.add(humanosRefugio, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 210, 190, 90));
 
         jPanel2.setBackground(new java.awt.Color(215, 215, 215));
 
+        top2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         top2.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
@@ -138,11 +152,12 @@ public class VentanaCliente extends javax.swing.JFrame {
                     .addGap(0, 0, Short.MAX_VALUE)))
         );
 
-        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 330, 170, 20));
+        jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 370, 170, 20));
 
         jPanel3.setBackground(new java.awt.Color(254, 225, 1));
 
         top1.setBackground(new java.awt.Color(255, 255, 255));
+        top1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         top1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
@@ -166,10 +181,11 @@ public class VentanaCliente extends javax.swing.JFrame {
                     .addGap(0, 0, Short.MAX_VALUE)))
         );
 
-        jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 300, 170, 20));
+        jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 340, 170, 20));
 
         jPanel4.setBackground(new java.awt.Color(167, 112, 68));
 
+        top3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         top3.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
@@ -193,7 +209,7 @@ public class VentanaCliente extends javax.swing.JFrame {
                     .addGap(0, 0, Short.MAX_VALUE)))
         );
 
-        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 330, 170, 20));
+        jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 370, 170, 20));
 
         jPanel5.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -215,19 +231,47 @@ public class VentanaCliente extends javax.swing.JFrame {
 
         jPanel1.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 530, 60));
 
+        botonParar.setText("Pausar");
+        botonParar.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
+        botonParar.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                botonPararActionPerformed(evt);
+            }
+        });
+        jPanel1.add(botonParar, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 410, 110, 20));
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 531, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, 385, javax.swing.GroupLayout.PREFERRED_SIZE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void botonPararActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonPararActionPerformed
+        if(botonParar.getText().equals("Pausar")){
+            botonParar.setText("Reanudar");
+            try { 
+                servidor.pausar(); 
+            } catch (Exception ex) {
+                ex.printStackTrace(); 
+            }
+        }else{
+            botonParar.setText("Pausar");
+            try { 
+                servidor.reanudar(); 
+            } catch (Exception ex) {
+                ex.printStackTrace(); 
+            }
+        }
+        
+    }//GEN-LAST:event_botonPararActionPerformed
 
     /**
      * @param args the command line arguments
@@ -258,14 +302,16 @@ public class VentanaCliente extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new VentanaCliente().setVisible(true);
-            }
+        SwingUtilities.invokeLater(() -> {
+            new VentanaCliente().setVisible(true);
         });
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JTextArea areaHumanosInseguros;
+    private javax.swing.JTextArea areaTuneles;
+    private javax.swing.JTextArea areaZombisInseguras;
+    private javax.swing.JToggleButton botonParar;
     private javax.swing.JLabel humanosRefugio;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
@@ -281,11 +327,67 @@ public class VentanaCliente extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane4;
-    private javax.swing.JTextArea jTextArea1;
-    private javax.swing.JTextArea jTextArea2;
-    private javax.swing.JTextArea jTextArea4;
     private javax.swing.JLabel top1;
     private javax.swing.JLabel top2;
     private javax.swing.JLabel top3;
     // End of variables declaration//GEN-END:variables
+    private void conectarServidor() {
+        try {
+            servidor = (ServidorRemoto) Naming.lookup("rmi://localhost/ServidorApocalipsis");
+            System.out.println("[ClienteRMI_UI] Conectado al servidor.");
+        } catch (Exception e) {
+            e.printStackTrace();
+            JOptionPane.showMessageDialog(this, "Error conectando al servidor", "Error", JOptionPane.ERROR_MESSAGE);
+            System.exit(1);
+        }
+    }
+    private void actualizarDatos() {
+        try {
+            // Humanos en refugio
+            humanosRefugio.setText(String.valueOf(servidor.getHumanosRefugio()));
+
+            // Humanos en túneles
+            StringBuilder sbTuneles = new StringBuilder();
+            for (Map.Entry<Integer, Integer> entry : servidor.getHumanosTuneles().entrySet()) {
+                sbTuneles.append("Túnel ").append(entry.getKey()).append(": ").append(entry.getValue()).append("\n");
+            }
+            areaTuneles.setText(sbTuneles.toString());
+
+            // Humanos en zonas inseguras
+            StringBuilder sbHumanosZonas = new StringBuilder();
+            for (Map.Entry<Integer, Integer> entry : servidor.getHumanosZonasInseguras().entrySet()) {
+                sbHumanosZonas.append("Zona ").append(entry.getKey()).append(": ").append(entry.getValue()).append("\n");
+            }
+            areaHumanosInseguros.setText(sbHumanosZonas.toString());
+
+            // Zombis en zonas inseguras
+            StringBuilder sbZombisZonas = new StringBuilder();
+            for (Map.Entry<Integer, Integer> entry : servidor.getZombisZonasInseguras().entrySet()) {
+                sbZombisZonas.append("Zona ").append(entry.getKey()).append(": ").append(entry.getValue()).append("\n");
+            }
+            areaZombisInseguras.setText(sbZombisZonas.toString());
+
+            // Top 3 zombis letales
+            List<String> top = servidor.getTop3ZombisLetales();
+            top1.setText(top.size() > 0 ? top.get(0) : "-");
+            top2.setText(top.size() > 1 ? top.get(1) : "-");
+            top3.setText(top.size() > 2 ? top.get(2) : "-");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+            humanosRefugio.setText("Error");
+            areaTuneles.setText("Error");
+            areaHumanosInseguros.setText("Error");
+            areaZombisInseguras.setText("Error");
+            top1.setText("Error");
+            top2.setText("Error");
+            top3.setText("Error");
+        }
+    }
+    private void iniciarActualizacion() {
+        Timer timer = new Timer(100, e -> actualizarDatos());
+        timer.start();
+    }
+
+    
 }

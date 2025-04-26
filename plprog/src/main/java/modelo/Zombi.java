@@ -20,6 +20,7 @@ public class Zombi extends Thread {
                 ControlGlobal.esperarSiPausado();
                 ZonaInsegura zona = ZonaInsegura.getDistintaAleatoria(zonaActual);
                 zonaActual = zona.getId();
+                ControlGlobal.esperarSiPausado();
                 zona.entrarZombi(this);
                 SistemaDeLog.get().log(this.getIdZombi() + " se cambia a la zona insegura " + zonaActual);
             } catch (InterruptedException e) {

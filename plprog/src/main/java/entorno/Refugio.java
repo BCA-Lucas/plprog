@@ -4,6 +4,7 @@
  */
 package entorno;
 
+import control.ControlGlobal;
 import java.util.*;
 import modelo.Humano;
 
@@ -30,18 +31,23 @@ public class Refugio {
 
 
     public void zonaComun(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         zonaComun.entrar(h);
     }
 
     public void salirAlExterior(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         Túnel tunel = seleccionarTúnel();
         h.setTunelActual(tunel);
+        ControlGlobal.esperarSiPausado();
         tunel.entrarGrupo(h);
+        ControlGlobal.esperarSiPausado();
         tunel.atravesar(h);
         ZonaInsegura.get(tunel.getId()).entrarHumano(h);
     }
 
     public void volverAlRefugio(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         Túnel tunel = h.getTunelActual();
         tunel.entrarDesdeExterior(h);
         if (!h.estaMarcado()) {
@@ -49,7 +55,9 @@ public class Refugio {
         }
         h.resetComida();
         zonaDescanso.entrar(h);
+        ControlGlobal.esperarSiPausado();
         comedor.comer(h);
+        ControlGlobal.esperarSiPausado();
         if (h.estaMarcado()) zonaDescanso.recuperarse(h);
     }
 

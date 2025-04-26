@@ -1,5 +1,6 @@
 package entorno;
 
+import control.ControlGlobal;
 import interfaz.VentanaPrincipal;
 import java.util.*;
 import java.util.concurrent.*;
@@ -26,6 +27,7 @@ public class Túnel {
     }
 
     public void entrarGrupo(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         esperaInterior.add(h);
         actualizarUI();
         SistemaDeLog.get().log(h.getIdHumano() + " espera para formar grupo en el túnel " + id);
@@ -35,12 +37,14 @@ public class Túnel {
             barrera.reset();
             Thread.currentThread().interrupt();
         }
+        ControlGlobal.esperarSiPausado();
         esperaInterior.remove(h);
         actualizarUI();
         SistemaDeLog.get().log(h.getIdHumano() + " forma parte de un grupo en el túnel " + id);
     }
 
     public void atravesar(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         // Espera mientras haya humanos intentando volver desde el exterior
         synchronized (lockDireccion) {
             while (direccionActual != Direccion.NINGUNA || !esperaExterior.isEmpty()) {
@@ -53,9 +57,11 @@ public class Túnel {
         h.setTunelActual(this);
         VentanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " cruza el túnel " + id);
+        ControlGlobal.esperarSiPausado();
         try {
             Thread.sleep(1000);
         } finally {
+            ControlGlobal.esperarSiPausado();
             VentanaPrincipal.limpiarTunel(id);
             sem.release();
             synchronized (lockDireccion) {
@@ -66,23 +72,26 @@ public class Túnel {
     }
 
     public void entrarDesdeExterior(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         esperaExterior.add(h);
         actualizarUI();
 
         // Verifica inmediatamente si ha muerto antes de esperar
         if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+            ControlGlobal.esperarSiPausado();
             esperaExterior.remove(h);
             actualizarUI();
             return;
         }
-
+        ControlGlobal.esperarSiPausado();
         synchronized (lockDireccion) {
             while (direccionActual != Direccion.NINGUNA) {
                 lockDireccion.wait();
             }
-
+            ControlGlobal.esperarSiPausado();
             // Verifica justo antes de adquirir el túnel por si murió mientras esperaba
             if (!Vivos.humanosVivos.containsKey(h.getIdHumano())) {
+                ControlGlobal.esperarSiPausado();
                 esperaExterior.remove(h);
                 actualizarUI();
                 return;
@@ -93,15 +102,19 @@ public class Túnel {
 
         sem.acquire();
 
+        ControlGlobal.esperarSiPausado();
         esperaExterior.remove(h);
         actualizarUI();
         h.setTunelActual(this);
+        ControlGlobal.esperarSiPausado();
         VentanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " vuelve por el túnel " + id);
-
+        ControlGlobal.esperarSiPausado();
         try {
+            ControlGlobal.esperarSiPausado();
             Thread.sleep(1000);
         } finally {
+            ControlGlobal.esperarSiPausado();
             VentanaPrincipal.limpiarTunel(id);
             sem.release();
             synchronized (lockDireccion) {

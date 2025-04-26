@@ -4,8 +4,11 @@
  */
 package gestor;
 
+import control.ControlGlobal;
 import entorno.Refugio;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import modelo.Humano;
 
 /**
@@ -23,11 +26,16 @@ public class GestorHumanos {
     public void iniciarGeneracionHumanos() {
         new Thread(() -> {
             while (contador.get() < 10000) {
-                Humano h = new Humano(contador.incrementAndGet(), refugio);
-                h.start();
                 try {
-                    Thread.sleep((int)(Math.random() * 1500) + 500);
-                } catch (InterruptedException ignored) {}
+                    ControlGlobal.esperarSiPausado();
+                    Humano h = new Humano(contador.incrementAndGet(), refugio);
+                    h.start();
+                    try {
+                        Thread.sleep((int)(Math.random() * 1500) + 500);
+                    } catch (InterruptedException ignored) {}
+                } catch (InterruptedException ex) {
+                    Logger.getLogger(GestorHumanos.class.getName()).log(Level.SEVERE, null, ex);
+                }
             }
         }).start();
     }

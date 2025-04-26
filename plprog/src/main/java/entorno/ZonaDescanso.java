@@ -4,6 +4,7 @@
  */
 package entorno;
 
+import control.ControlGlobal;
 import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -17,20 +18,26 @@ public class ZonaDescanso {
     private static final List<Humano> presentes = new CopyOnWriteArrayList<>();
 
     public void entrar(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         presentes.add(h);
         SistemaDeLog.get().log(h.getIdHumano() + " entra en la zona de descanso.");
         actualizarUI();
+        ControlGlobal.esperarSiPausado();
         Thread.sleep((int)(Math.random() * 2000) + 2000);
+        ControlGlobal.esperarSiPausado();
         presentes.remove(h);
         actualizarUI();
     }
 
     public void recuperarse(Humano h) throws InterruptedException {
+        ControlGlobal.esperarSiPausado();
         presentes.add(h);
         SistemaDeLog.get().log(h.getIdHumano() + " se recupera de sus heridas en la zona de descanso.");
         h.resetMarca();
         actualizarUI();
+        ControlGlobal.esperarSiPausado();
         Thread.sleep((int)(Math.random() * 2000) + 3000);
+        ControlGlobal.esperarSiPausado();
         presentes.remove(h);
         actualizarUI();
     }
