@@ -4,7 +4,7 @@
  */
 package entorno;
 
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import modelo.Humano;
@@ -36,7 +36,7 @@ public class ZonaDescanso {
     }
 
     private void actualizarUI() {
-        ventanaPrincipal.actualizarZonaDescanso(formatearIds(presentes));
+        VentanaPrincipal.actualizarZonaDescanso(formatearIds(presentes));
     }
 
     private String formatearIds(List<Humano> lista) {

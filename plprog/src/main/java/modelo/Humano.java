@@ -2,7 +2,7 @@ package modelo;
 
 import control.ControlGlobal;
 import entorno.*;
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Humano extends Thread {
@@ -69,7 +69,7 @@ public class Humano extends Thread {
             }
         }
         Vivos.humanosVivos.remove(id);
-        if (tunelActual != null) ventanaPrincipal.limpiarTunel(tunelActual.getId());
+        if (tunelActual != null) VentanaPrincipal.limpiarTunel(tunelActual.getId());
     }
 
     public String getIdHumano() { return id; }
@@ -79,7 +79,7 @@ public class Humano extends Thread {
     public void morir() {
         if (!vivo.getAndSet(false)) return;
         this.interrupt();
-        if (tunelActual != null) ventanaPrincipal.limpiarTunel(tunelActual.getId());
+        if (tunelActual != null) VentanaPrincipal.limpiarTunel(tunelActual.getId());
     }
     
     public void resetMarca() {

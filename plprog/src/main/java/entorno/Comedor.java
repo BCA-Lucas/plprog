@@ -4,7 +4,7 @@
  */
 package entorno;
 
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import modelo.Humano;
@@ -19,7 +19,7 @@ public class Comedor {
 
     public synchronized void depositarComida(int cantidad) {
         comidaDisponible += cantidad;
-        ventanaPrincipal.actualizarComida(comidaDisponible);
+        VentanaPrincipal.actualizarComida(comidaDisponible);
         notifyAll();
     }
 
@@ -32,7 +32,7 @@ public class Comedor {
                 wait();
             }
             comidaDisponible--;
-            ventanaPrincipal.actualizarComida(comidaDisponible);
+            VentanaPrincipal.actualizarComida(comidaDisponible);
         }
         
 
@@ -43,7 +43,7 @@ public class Comedor {
     }
 
     private void actualizarUI() {
-        ventanaPrincipal.actualizarComedor(formatearIds(presentes));
+        VentanaPrincipal.actualizarComedor(formatearIds(presentes));
     }
 
     private String formatearIds(List<Humano> lista) {

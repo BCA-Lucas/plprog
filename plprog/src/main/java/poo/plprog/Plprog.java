@@ -5,7 +5,7 @@ import gestor.GestorHumanos;
 import entorno.Refugio;
 import control.ControlGlobal;
 import entorno.SistemaDeLog;
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import rmi.servidor.ServidorRMI;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.Naming;
@@ -25,7 +25,7 @@ public class Plprog {
         SistemaDeLog.get().init();
         
         javax.swing.SwingUtilities.invokeLater(() -> {
-            ventanaPrincipal ventana = new ventanaPrincipal();
+            VentanaPrincipal ventana = new VentanaPrincipal();
             ventana.setVisible(true);
         });
 

@@ -4,7 +4,7 @@
  */
 package entorno;
 
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import modelo.Humano;
@@ -26,7 +26,7 @@ public class ZonaComun {
     }
 
     private void actualizarUI() {
-        ventanaPrincipal.actualizarZonaComun(formatearIds(presentes));
+        VentanaPrincipal.actualizarZonaComun(formatearIds(presentes));
     }
 
     private String formatearIds(List<Humano> lista) {

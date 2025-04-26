@@ -12,12 +12,12 @@ import javax.swing.SwingUtilities;
  *
  * @author Rodri
  */
-public class ventanaPrincipal extends javax.swing.JFrame {
+public class VentanaPrincipal extends javax.swing.JFrame {
 
     /**
      * Creates new form ventanaPrincipal
      */
-    public ventanaPrincipal() {
+    public VentanaPrincipal() {
         initComponents();
     }
 
@@ -45,11 +45,6 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jTextArea5 = new javax.swing.JTextArea();
         jScrollPane14 = new javax.swing.JScrollPane();
         jTextArea6 = new javax.swing.JTextArea();
-        jScrollPane15 = new javax.swing.JScrollPane();
-        jTextArea7 = new javax.swing.JTextArea();
-        jScrollPane16 = new javax.swing.JScrollPane();
-        jTextArea8 = new javax.swing.JTextArea();
-        jLabel11 = new javax.swing.JLabel();
         jLabel12 = new javax.swing.JLabel();
         jLabel13 = new javax.swing.JLabel();
         jPanel2 = new javax.swing.JPanel();
@@ -97,6 +92,15 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jPanel14 = new javax.swing.JPanel();
         jScrollPane8 = new javax.swing.JScrollPane();
         textTunel1I = new javax.swing.JTextArea();
+        jPanel15 = new javax.swing.JPanel();
+        jLabel14 = new javax.swing.JLabel();
+        jPanel16 = new javax.swing.JPanel();
+        jScrollPane23 = new javax.swing.JScrollPane();
+        jTextArea15 = new javax.swing.JTextArea();
+        jLabel16 = new javax.swing.JLabel();
+        jScrollPane17 = new javax.swing.JScrollPane();
+        jTextArea16 = new javax.swing.JTextArea();
+        jPanel17 = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -105,7 +109,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(58, 92, 31));
 
-        jLabel9.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel9.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel9.setForeground(new java.awt.Color(255, 255, 255));
         jLabel9.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel9.setText("Zona Insegura 0");
@@ -114,6 +118,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane9.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea1.setColumns(20);
+        jTextArea1.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea1.setRows(5);
         jScrollPane9.setViewportView(jTextArea1);
 
@@ -121,6 +126,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane10.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea2.setColumns(20);
+        jTextArea2.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea2.setRows(5);
         jScrollPane10.setViewportView(jTextArea2);
 
@@ -128,6 +134,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane11.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea3.setColumns(20);
+        jTextArea3.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea3.setRows(5);
         jScrollPane11.setViewportView(jTextArea3);
 
@@ -135,6 +142,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane12.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea4.setColumns(20);
+        jTextArea4.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea4.setRows(5);
         jScrollPane12.setViewportView(jTextArea4);
 
@@ -142,6 +150,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane13.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea5.setColumns(20);
+        jTextArea5.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea5.setRows(5);
         jScrollPane13.setViewportView(jTextArea5);
 
@@ -149,34 +158,16 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane14.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
 
         jTextArea6.setColumns(20);
+        jTextArea6.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         jTextArea6.setRows(5);
         jScrollPane14.setViewportView(jTextArea6);
 
-        jScrollPane15.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
-        jScrollPane15.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
-
-        jTextArea7.setColumns(20);
-        jTextArea7.setRows(5);
-        jScrollPane15.setViewportView(jTextArea7);
-
-        jScrollPane16.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
-        jScrollPane16.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
-
-        jTextArea8.setColumns(20);
-        jTextArea8.setRows(5);
-        jScrollPane16.setViewportView(jTextArea8);
-
-        jLabel11.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
-        jLabel11.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel11.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel11.setText("Zona Insegura 3");
-
-        jLabel12.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel12.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));
         jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel12.setText("Zona Insegura 2");
 
-        jLabel13.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel13.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel13.setForeground(new java.awt.Color(255, 255, 255));
         jLabel13.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel13.setText("Zona Insegura 1");
@@ -196,10 +187,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                     .addComponent(jScrollPane13)
                     .addComponent(jLabel12, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(jScrollPane12)
-                    .addComponent(jScrollPane14)
-                    .addComponent(jLabel11, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jScrollPane15)
-                    .addComponent(jScrollPane16))
+                    .addComponent(jScrollPane14))
                 .addContainerGap())
         );
         jPanel1Layout.setVerticalGroup(
@@ -223,25 +211,20 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                 .addComponent(jScrollPane12, javax.swing.GroupLayout.PREFERRED_SIZE, 65, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jScrollPane14, javax.swing.GroupLayout.PREFERRED_SIZE, 65, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jLabel11)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jScrollPane15, javax.swing.GroupLayout.PREFERRED_SIZE, 65, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jScrollPane16, javax.swing.GroupLayout.PREFERRED_SIZE, 71, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap())
+                .addGap(191, 191, 191))
         );
 
-        bg.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 260, 730));
+        bg.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 260, 550));
 
         jPanel2.setBackground(new java.awt.Color(204, 204, 204));
 
-        jLabel4.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("TÚNELES");
 
         jLabel5.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel5.setFont(new java.awt.Font("Microsoft YaHei UI", 0, 12)); // NOI18N
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
@@ -262,6 +245,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         );
 
         jLabel6.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel6.setFont(new java.awt.Font("Microsoft YaHei UI", 0, 12)); // NOI18N
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
@@ -282,6 +266,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         );
 
         jLabel7.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel7.setFont(new java.awt.Font("Microsoft YaHei UI", 0, 12)); // NOI18N
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
@@ -302,6 +287,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         );
 
         jLabel8.setBackground(new java.awt.Color(255, 255, 255));
+        jLabel8.setFont(new java.awt.Font("Microsoft YaHei UI", 0, 12)); // NOI18N
         jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
@@ -347,41 +333,53 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                 .addComponent(jPanel5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addComponent(jPanel6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(72, Short.MAX_VALUE))
+                .addContainerGap(13, Short.MAX_VALUE))
         );
 
-        bg.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 260, 410));
+        bg.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 260, 350));
 
         refugio.setBackground(new java.awt.Color(168, 79, 46));
 
+        scrollZDescanso.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        scrollZDescanso.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+
         textDescanso.setColumns(20);
+        textDescanso.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textDescanso.setRows(5);
         scrollZDescanso.setViewportView(textDescanso);
 
+        scrollZComun.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        scrollZComun.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+
         textComun.setColumns(20);
+        textComun.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textComun.setRows(5);
         scrollZComun.setViewportView(textComun);
 
+        scrollComedor.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        scrollComedor.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+
         textComedor.setColumns(20);
+        textComedor.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textComedor.setRows(5);
         scrollComedor.setViewportView(textComedor);
 
-        jLabel2.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("ZONA COMÚN");
 
-        jLabel3.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("COMEDOR");
 
-        jLabel1.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("DESCANSO");
 
-        jLabel10.setFont(new java.awt.Font("Monospaced", 1, 14)); // NOI18N
+        jLabel10.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(255, 255, 255));
         jLabel10.setText("Comida:");
 
@@ -420,7 +418,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                 .addComponent(scrollComedor, javax.swing.GroupLayout.PREFERRED_SIZE, 85, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel10, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(20, Short.MAX_VALUE))
+                .addContainerGap(23, Short.MAX_VALUE))
         );
 
         bg.add(refugio, new org.netbeans.lib.awtextra.AbsoluteConstraints(840, 70, 260, 410));
@@ -432,6 +430,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane1.setHorizontalScrollBar(null);
 
         textTunel0D.setColumns(20);
+        textTunel0D.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel0D.setRows(5);
         jScrollPane1.setViewportView(textTunel0D);
 
@@ -461,6 +460,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane5.setHorizontalScrollBar(null);
 
         textTunel3D.setColumns(20);
+        textTunel3D.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel3D.setRows(5);
         jScrollPane5.setViewportView(textTunel3D);
 
@@ -490,6 +490,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane4.setHorizontalScrollBar(null);
 
         textTunel2D.setColumns(20);
+        textTunel2D.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel2D.setRows(5);
         jScrollPane4.setViewportView(textTunel2D);
 
@@ -519,6 +520,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane3.setHorizontalScrollBar(null);
 
         textTunel1D.setColumns(20);
+        textTunel1D.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel1D.setRows(5);
         jScrollPane3.setViewportView(textTunel1D);
 
@@ -548,6 +550,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane7.setHorizontalScrollBar(null);
 
         textTunel0I.setColumns(20);
+        textTunel0I.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel0I.setRows(5);
         jScrollPane7.setViewportView(textTunel0I);
 
@@ -577,6 +580,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane2.setHorizontalScrollBar(null);
 
         textTunel3I.setColumns(20);
+        textTunel3I.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel3I.setRows(5);
         jScrollPane2.setViewportView(textTunel3I);
 
@@ -606,6 +610,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane6.setHorizontalScrollBar(null);
 
         textTunel2I.setColumns(20);
+        textTunel2I.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel2I.setRows(5);
         jScrollPane6.setViewportView(textTunel2I);
 
@@ -635,6 +640,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         jScrollPane8.setHorizontalScrollBar(null);
 
         textTunel1I.setColumns(20);
+        textTunel1I.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
         textTunel1I.setRows(5);
         jScrollPane8.setViewportView(textTunel1I);
 
@@ -656,6 +662,91 @@ public class ventanaPrincipal extends javax.swing.JFrame {
         );
 
         bg.add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 190, 100, 60));
+
+        jPanel15.setBackground(new java.awt.Color(255, 255, 255));
+
+        jLabel14.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 36)); // NOI18N
+        jLabel14.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel14.setText("SIMULACIÓN DE SUPERVIVENCIA ZOMBI");
+
+        javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
+        jPanel15.setLayout(jPanel15Layout);
+        jPanel15Layout.setHorizontalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, 1100, Short.MAX_VALUE)
+        );
+        jPanel15Layout.setVerticalGroup(
+            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel15Layout.createSequentialGroup()
+                .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, 64, Short.MAX_VALUE)
+                .addContainerGap())
+        );
+
+        bg.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1100, 70));
+
+        jPanel16.setBackground(new java.awt.Color(58, 92, 31));
+
+        jScrollPane23.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane23.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+
+        jTextArea15.setColumns(20);
+        jTextArea15.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
+        jTextArea15.setRows(5);
+        jScrollPane23.setViewportView(jTextArea15);
+
+        jLabel16.setFont(new java.awt.Font("Microsoft JhengHei UI", 1, 14)); // NOI18N
+        jLabel16.setForeground(new java.awt.Color(255, 255, 255));
+        jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel16.setText("Zona Insegura 3");
+
+        jScrollPane17.setHorizontalScrollBarPolicy(javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
+        jScrollPane17.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER);
+
+        jTextArea16.setColumns(20);
+        jTextArea16.setFont(new java.awt.Font("Microsoft JhengHei UI", 0, 12)); // NOI18N
+        jTextArea16.setRows(5);
+        jScrollPane17.setViewportView(jTextArea16);
+
+        javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
+        jPanel16.setLayout(jPanel16Layout);
+        jPanel16Layout.setHorizontalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel16Layout.createSequentialGroup()
+                .addContainerGap()
+                .addGroup(jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel16, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jScrollPane23, javax.swing.GroupLayout.DEFAULT_SIZE, 248, Short.MAX_VALUE)
+                    .addComponent(jScrollPane17))
+                .addContainerGap())
+        );
+        jPanel16Layout.setVerticalGroup(
+            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(jPanel16Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel16)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(jScrollPane23, javax.swing.GroupLayout.PREFERRED_SIZE, 65, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane17, javax.swing.GroupLayout.PREFERRED_SIZE, 65, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(12, 12, 12))
+        );
+
+        bg.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 425, -1, 190));
+
+        jPanel17.setBackground(new java.awt.Color(58, 92, 31));
+
+        javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
+        jPanel17.setLayout(jPanel17Layout);
+        jPanel17Layout.setHorizontalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 520, Short.MAX_VALUE)
+        );
+        jPanel17Layout.setVerticalGroup(
+            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 10, Short.MAX_VALUE)
+        );
+
+        bg.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 610, 520, 10));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -692,20 +783,21 @@ public class ventanaPrincipal extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(ventanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(VentanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(ventanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(VentanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(ventanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(VentanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(ventanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(VentanaPrincipal.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new ventanaPrincipal().setVisible(true);
+                new VentanaPrincipal().setVisible(true);
             }
         });
     }
@@ -714,9 +806,10 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JPanel bg;
     private javax.swing.JLabel jLabel1;
     public static javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
+    private javax.swing.JLabel jLabel14;
+    private javax.swing.JLabel jLabel16;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
@@ -731,6 +824,9 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel12;
     private javax.swing.JPanel jPanel13;
     private javax.swing.JPanel jPanel14;
+    private javax.swing.JPanel jPanel15;
+    private javax.swing.JPanel jPanel16;
+    private javax.swing.JPanel jPanel17;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel4;
@@ -745,9 +841,9 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane12;
     private javax.swing.JScrollPane jScrollPane13;
     private javax.swing.JScrollPane jScrollPane14;
-    private javax.swing.JScrollPane jScrollPane15;
-    private javax.swing.JScrollPane jScrollPane16;
+    private javax.swing.JScrollPane jScrollPane17;
     private javax.swing.JScrollPane jScrollPane2;
+    private javax.swing.JScrollPane jScrollPane23;
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JScrollPane jScrollPane4;
     private javax.swing.JScrollPane jScrollPane5;
@@ -756,13 +852,13 @@ public class ventanaPrincipal extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane8;
     private javax.swing.JScrollPane jScrollPane9;
     public static javax.swing.JTextArea jTextArea1;
+    public static javax.swing.JTextArea jTextArea15;
+    public static javax.swing.JTextArea jTextArea16;
     public static javax.swing.JTextArea jTextArea2;
     public static javax.swing.JTextArea jTextArea3;
     public static javax.swing.JTextArea jTextArea4;
     public static javax.swing.JTextArea jTextArea5;
     public static javax.swing.JTextArea jTextArea6;
-    public static javax.swing.JTextArea jTextArea7;
-    public static javax.swing.JTextArea jTextArea8;
     private javax.swing.JPanel refugio;
     private javax.swing.JScrollPane scrollComedor;
     private javax.swing.JScrollPane scrollZComun;
@@ -836,7 +932,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
             case 0 -> jTextArea2;
             case 1 -> jTextArea1;
             case 2 -> jTextArea4;
-            case 3 -> jTextArea7;
+            case 3 -> jTextArea15;
             default -> null;
         };
         if (area != null) {
@@ -849,7 +945,7 @@ public class ventanaPrincipal extends javax.swing.JFrame {
             case 0 -> jTextArea3;
             case 1 -> jTextArea5;
             case 2 -> jTextArea6;
-            case 3 -> jTextArea8;
+            case 3 -> jTextArea16;
             default -> null;
         };
         if (area != null) {

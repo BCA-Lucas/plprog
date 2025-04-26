@@ -1,6 +1,6 @@
 package entorno;
 
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.*;
 import java.util.concurrent.*;
 import modelo.Humano;
@@ -51,12 +51,12 @@ public class Túnel {
 
         sem.acquire();
         h.setTunelActual(this);
-        ventanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
+        VentanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " cruza el túnel " + id);
         try {
             Thread.sleep(1000);
         } finally {
-            ventanaPrincipal.limpiarTunel(id);
+            VentanaPrincipal.limpiarTunel(id);
             sem.release();
             synchronized (lockDireccion) {
                 direccionActual = Direccion.NINGUNA;
@@ -96,13 +96,13 @@ public class Túnel {
         esperaExterior.remove(h);
         actualizarUI();
         h.setTunelActual(this);
-        ventanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
+        VentanaPrincipal.mostrarHumanoEnTunel(id, h.getIdHumano());
         SistemaDeLog.get().log(h.getIdHumano() + " vuelve por el túnel " + id);
 
         try {
             Thread.sleep(1000);
         } finally {
-            ventanaPrincipal.limpiarTunel(id);
+            VentanaPrincipal.limpiarTunel(id);
             sem.release();
             synchronized (lockDireccion) {
                 direccionActual = Direccion.NINGUNA;
@@ -113,8 +113,8 @@ public class Túnel {
     public int getId() { return id; }
 
     private void actualizarUI() {
-        ventanaPrincipal.actualizarTunelIzquierda(id, formatear(esperaExterior));
-        ventanaPrincipal.actualizarTunelDerecha(id, formatear(esperaInterior));
+        VentanaPrincipal.actualizarTunelIzquierda(id, formatear(esperaExterior));
+        VentanaPrincipal.actualizarTunelDerecha(id, formatear(esperaInterior));
     }
 
     private String formatear(List<Humano> lista) {

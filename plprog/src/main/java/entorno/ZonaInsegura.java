@@ -8,7 +8,7 @@ package entorno;
  *
  * @author Rodri
  */
-import interfaz.ventanaPrincipal;
+import interfaz.VentanaPrincipal;
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import modelo.Humano;
@@ -84,8 +84,8 @@ public class ZonaInsegura {
     }
     
     private void actualizarUI() {
-        ventanaPrincipal.actualizarZonaInseguraHumanos(id, formatearIds(humanos));
-        ventanaPrincipal.actualizarZonaInseguraZombis(id, formatearIds(zombis));
+        VentanaPrincipal.actualizarZonaInseguraHumanos(id, formatearIds(humanos));
+        VentanaPrincipal.actualizarZonaInseguraZombis(id, formatearIds(zombis));
     }
 
     private <T extends Thread> String formatearIds(Collection<T> lista) {
