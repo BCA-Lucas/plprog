@@ -875,106 +875,107 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     public static javax.swing.JTextArea textTunel3D;
     public static javax.swing.JTextArea textTunel3I;
     // End of variables declaration//GEN-END:variables
-    public static void actualizarZonaComun(String texto) {
-        if (textComun != null) {
-            SwingUtilities.invokeLater(() -> textComun.setText(texto));
-        }
+    // Método para actualizar el texto que representa la zona común
+public static void actualizarZonaComun(String texto) {
+    if (textComun != null) {
+        SwingUtilities.invokeLater(() -> textComun.setText(texto));
     }
+}
 
-    public static void actualizarZonaDescanso(String texto) {
-        if (textDescanso != null) {
-            SwingUtilities.invokeLater(() -> textDescanso.setText(texto));
-        }
+// Método para actualizar el texto que representa la zona de descanso
+public static void actualizarZonaDescanso(String texto) {
+    if (textDescanso != null) {
+        SwingUtilities.invokeLater(() -> textDescanso.setText(texto));
     }
+}
 
-    public static void actualizarComedor(String texto) {
-        if (textComedor != null) {
-            SwingUtilities.invokeLater(() -> textComedor.setText(texto));
-        }
+// Método para actualizar el texto que representa el comedor
+public static void actualizarComedor(String texto) {
+    if (textComedor != null) {
+        SwingUtilities.invokeLater(() -> textComedor.setText(texto));
     }
-    
-    public static void actualizarTunelIzquierda(final int idTunel, final String texto) {
-        JTextArea area = switch (idTunel) {
-            case 0 -> textTunel0I;
-            case 1 -> textTunel1I;
-            case 2 -> textTunel2I;
-            case 3 -> textTunel3I;
-            default -> null;
-        };
-        if (area != null) {
-            SwingUtilities.invokeLater(new Runnable() {
-                public void run() {
-                    area.setText(texto);
-                }
-            });
-        }
-    }
+}
 
-    public static void actualizarTunelDerecha(final int idTunel, final String texto) {
-        JTextArea area = switch (idTunel) {
-            case 0 -> textTunel0D;
-            case 1 -> textTunel1D;
-            case 2 -> textTunel2D;
-            case 3 -> textTunel3D;
-            default -> null;
-        };
-        if (area != null) {
-            SwingUtilities.invokeLater(new Runnable() {
-                public void run() {
-                    area.setText(texto);
-                }
-            });
-        }
+// Método para actualizar la parte izquierda (interior) de un túnel específico
+public static void actualizarTunelIzquierda(final int idTunel, final String texto) {
+    // Selecciona el área de texto correspondiente al túnel
+    JTextArea area = switch (idTunel) {
+        case 0 -> textTunel0I;
+        case 1 -> textTunel1I;
+        case 2 -> textTunel2I;
+        case 3 -> textTunel3I;
+        default -> null;
+    };
+    // Si el área es válida, se actualiza en el hilo de interfaz gráfica
+    if (area != null) {
+        SwingUtilities.invokeLater(() -> area.setText(texto));
     }
-    
-    public static void actualizarZonaInseguraHumanos(int id, String texto) {
-        JTextArea area = switch (id) {
-            case 0 -> jTextArea2;
-            case 1 -> jTextArea1;
-            case 2 -> jTextArea4;
-            case 3 -> jTextArea15;
-            default -> null;
-        };
-        if (area != null) {
-            SwingUtilities.invokeLater(() -> area.setText(texto));
-        }
-    }
+}
 
-    public static void actualizarZonaInseguraZombis(int id, String texto) {
-        JTextArea area = switch (id) {
-            case 0 -> jTextArea3;
-            case 1 -> jTextArea5;
-            case 2 -> jTextArea6;
-            case 3 -> jTextArea16;
-            default -> null;
-        };
-        if (area != null) {
-            SwingUtilities.invokeLater(() -> area.setText(texto));
-        }
+// Método para actualizar la parte derecha (exterior) de un túnel específico
+public static void actualizarTunelDerecha(final int idTunel, final String texto) {
+    JTextArea area = switch (idTunel) {
+        case 0 -> textTunel0D;
+        case 1 -> textTunel1D;
+        case 2 -> textTunel2D;
+        case 3 -> textTunel3D;
+        default -> null;
+    };
+    if (area != null) {
+        SwingUtilities.invokeLater(() -> area.setText(texto));
     }
-    
-    public static void actualizarComida(int comida) {
-        jLabel10.setText("Comida: "+comida);
-    }
-    
-    public static void mostrarHumanoEnTunel(final int idTunel, final String idHumano) {
-        JLabel label = switch (idTunel) {
-            case 0 -> jLabel5;
-            case 1 -> jLabel6;
-            case 2 -> jLabel7;
-            case 3 -> jLabel8;
-            default -> null;
-        };
-        if (label != null) {
-            SwingUtilities.invokeLater(new Runnable() {
-                public void run() {
-                    label.setText(idHumano);
-                }
-            });
-        }
-    }
+}
 
-    public static void limpiarTunel(final int idTunel) {
-        mostrarHumanoEnTunel(idTunel, "");
+// Método para actualizar los humanos en una zona insegura específica
+public static void actualizarZonaInseguraHumanos(int id, String texto) {
+    JTextArea area = switch (id) {
+        case 0 -> jTextArea2;
+        case 1 -> jTextArea1;
+        case 2 -> jTextArea4;
+        case 3 -> jTextArea15;
+        default -> null;
+    };
+    if (area != null) {
+        SwingUtilities.invokeLater(() -> area.setText(texto));
     }
+}
+
+// Método para actualizar los zombis en una zona insegura específica
+public static void actualizarZonaInseguraZombis(int id, String texto) {
+    JTextArea area = switch (id) {
+        case 0 -> jTextArea3;
+        case 1 -> jTextArea5;
+        case 2 -> jTextArea6;
+        case 3 -> jTextArea16;
+        default -> null;
+    };
+    if (area != null) {
+        SwingUtilities.invokeLater(() -> area.setText(texto));
+    }
+}
+
+// Método para actualizar el contador de comida en un JLabel
+public static void actualizarComida(int comida) {
+    jLabel10.setText("Comida: " + comida);
+}
+
+// Método para mostrar el ID de un humano dentro de un túnel, usando un JLabel
+public static void mostrarHumanoEnTunel(final int idTunel, final String idHumano) {
+    JLabel label = switch (idTunel) {
+        case 0 -> jLabel5;
+        case 1 -> jLabel6;
+        case 2 -> jLabel7;
+        case 3 -> jLabel8;
+        default -> null;
+    };
+    if (label != null) {
+        SwingUtilities.invokeLater(() -> label.setText(idHumano));
+    }
+}
+
+// Método para limpiar el túnel (remover texto del JLabel)
+public static void limpiarTunel(final int idTunel) {
+    mostrarHumanoEnTunel(idTunel, "");
+}
+
 }
