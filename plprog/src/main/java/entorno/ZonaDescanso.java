@@ -28,7 +28,8 @@ public class ZonaDescanso {
         actualizarUI();
 
         ControlGlobal.esperarSiPausado();
-        Thread.sleep((int)(Math.random() * 2000) + 2000); // Descanso entre 2 y 4 segundos
+        
+        ControlGlobal.sleepInterrumpible((int)(Math.random() * 2000) + 2000);// Descanso entre 2 y 4 segundos
         ControlGlobal.esperarSiPausado();
 
         presentes.remove(h); // El humano sale de la zona de descanso
@@ -50,7 +51,7 @@ public class ZonaDescanso {
         actualizarUI();
 
         ControlGlobal.esperarSiPausado();
-        Thread.sleep((int)(Math.random() * 2000) + 3000); // Tiempo de recuperación entre 3 y 5 segundos
+        ControlGlobal.sleepInterrumpible((int)(Math.random() * 2000) + 3000);// Tiempo de recuperación entre 3 y 5 segundos
         ControlGlobal.esperarSiPausado();
 
         presentes.remove(h); // Sale de la zona de descanso

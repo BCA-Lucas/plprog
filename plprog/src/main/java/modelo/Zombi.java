@@ -35,10 +35,11 @@ public class Zombi extends Thread {
                 zonaActual = zona.getId();
 
                 ControlGlobal.esperarSiPausado();
-                zona.entrarZombi(this); // Entra a la zona para intentar atacar
-
                 // Registra el cambio de zona en el log
                 SistemaDeLog.get().log(this.getIdZombi() + " se cambia a la zona insegura " + zonaActual);
+                zona.entrarZombi(this); // Entra a la zona para intentar atacar
+
+                
 
             } catch (InterruptedException e) {
                 break; // Si se interrumpe el hilo, termina su ejecución

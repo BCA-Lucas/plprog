@@ -1,5 +1,6 @@
 package entorno;
 
+import control.ControlGlobal;
 import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -26,7 +27,7 @@ public class ZonaComun {
         actualizarUI(); // Actualiza la interfaz gráfica
 
         // El humano permanece en la zona durante 1 a 2 segundos
-        Thread.sleep((int)(Math.random() * 1000) + 1000);
+        ControlGlobal.sleepInterrumpible((int)(Math.random() * 1000) + 1000);
 
         presentes.remove(h); // El humano sale de la zona
         actualizarUI(); // Se actualiza nuevamente la interfaz

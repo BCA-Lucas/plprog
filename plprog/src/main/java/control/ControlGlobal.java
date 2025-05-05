@@ -45,4 +45,29 @@ public class ControlGlobal {
     public static void iniciar() {
         pausado = false;
     }
+    
+    /**
+     * Método sleep que respeta las pausas.
+     * Similar a reanudar pero sin notificar a los hilos.
+     */
+    public static void sleepInterrumpible(long tiempoTotal) throws InterruptedException {
+        final long tick = 50; // milisegundos
+        long dormido = 0;
+
+        while (dormido < tiempoTotal) {
+            esperarSiPausado(); // espera si está pausado
+
+            long restante = tiempoTotal - dormido;
+            long dormirAhora = Math.min(tick, restante);
+
+            try {
+                Thread.sleep(dormirAhora);
+                dormido += dormirAhora;
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt(); // mantiene buena práctica
+                break;
+            }
+        }
+    }
+
 }

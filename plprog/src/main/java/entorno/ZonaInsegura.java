@@ -68,10 +68,12 @@ public class ZonaInsegura {
 
         humanos.add(h);
         actualizarUI();
-        Thread.sleep((int)(Math.random() * 2000) + 3000); // Tiempo de exploración
+        ControlGlobal.sleepInterrumpible((int)(Math.random() * 2000) + 3000); // Tiempo de exploración
 
         // Espera a que termine cualquier ataque que esté recibiendo
-        while (h.estaSiendoAtacado()) Thread.sleep(100);
+        while (h.estaSiendoAtacado()){
+            ControlGlobal.sleepInterrumpible(100);
+        }
 
         ControlGlobal.esperarSiPausado();
 
@@ -117,7 +119,9 @@ public class ZonaInsegura {
         }
 
         // Si no atacó, espera un tiempo simulado antes de salir
-        if (!ataco) Thread.sleep((int)(Math.random() * 1000) + 2000);
+        if (!ataco){
+            ControlGlobal.sleepInterrumpible((int)(Math.random() * 1000) + 2000);
+        }
 
         ControlGlobal.esperarSiPausado();
         zombis.remove(z); // El zombi se retira de la zona

@@ -83,7 +83,7 @@ public class Túnel {
         ControlGlobal.esperarSiPausado();
 
         try {
-            Thread.sleep(1000); // Simula el tiempo de cruce
+            ControlGlobal.sleepInterrumpible(1000);// Simula el tiempo de cruce
         } finally {
             ControlGlobal.esperarSiPausado();
             VentanaPrincipal.limpiarTunel(id);
@@ -144,7 +144,7 @@ public class Túnel {
 
         try {
             ControlGlobal.esperarSiPausado();
-            Thread.sleep(1000); // Simula el tiempo de cruce
+            ControlGlobal.sleepInterrumpible(1000);// Simula el tiempo de cruce
         } finally {
             ControlGlobal.esperarSiPausado();
             VentanaPrincipal.limpiarTunel(id);

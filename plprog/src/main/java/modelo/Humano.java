@@ -34,12 +34,13 @@ public class Humano extends Thread {
      * @param z Zombi atacante.
      * @return true si el ataque fue procesado correctamente.
      */
-    public synchronized boolean recibirAtaque(Zombi z) {
+    public synchronized boolean recibirAtaque(Zombi z) throws InterruptedException {
         if (!vivo.get()) return false; // Si ya está muerto, no se procesa el ataque
 
         enAtaque = true;
 
         try {
+            ControlGlobal.esperarSiPausado();
             Thread.sleep((int)(Math.random() * 1000) + 500); // Tiempo que tarda el ataque
         } catch (InterruptedException e) {
             enAtaque = false;
@@ -47,14 +48,17 @@ public class Humano extends Thread {
         }
 
         if (Math.random() < 2.0 / 3) {
+            ControlGlobal.esperarSiPausado();
             // Sobrevive, pero queda marcado
             marcar();
             SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha atacado pero la víctima " + id + " ha sobrevivido.");
         } else {
             // Muere y se convierte en zombi
+            ControlGlobal.esperarSiPausado();
             vivo.set(false);
             Vivos.humanosVivos.remove(id);
             SistemaDeLog.get().log("El zombi " + z.getIdZombi() + " ha matado a " + id + " Muertes: " + (z.getMuertes() + 1));
+            ControlGlobal.esperarSiPausado();
             z.registrarMuerte();
             morir();
             new Zombi(Integer.parseInt(id.substring(1))).start(); // Se crea un nuevo zombi con el mismo ID numérico

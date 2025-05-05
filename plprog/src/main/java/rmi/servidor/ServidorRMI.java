@@ -18,6 +18,8 @@ public class ServidorRMI extends UnicastRemoteObject implements ServidorRemoto {
     /**
      * Constructor necesario para RMI. Llama al constructor de la superclase.
      */
+    
+    
     public ServidorRMI() throws RemoteException {
         super();
     }

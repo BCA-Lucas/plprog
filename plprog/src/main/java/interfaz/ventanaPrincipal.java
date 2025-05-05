@@ -7,6 +7,7 @@ package interfaz;
 import javax.swing.JLabel;
 import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
+import rmi.servidor.ServidorRemoto;
 
 /**
  *
@@ -18,6 +19,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
      * Creates new form ventanaPrincipal
      */
     public VentanaPrincipal() {
+        setLocationRelativeTo(null); // centra la ventana
         initComponents();
     }
 
@@ -765,7 +767,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+   
     /**
      * @param args the command line arguments
      */

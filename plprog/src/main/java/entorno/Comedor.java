@@ -4,6 +4,7 @@
  */
 package entorno;
 
+import control.ControlGlobal;
 import interfaz.VentanaPrincipal;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -53,7 +54,7 @@ public class Comedor {
         }
 
         // Simula el tiempo que tarda en comer (entre 3 y 5 segundos)
-        Thread.sleep((int)(Math.random() * 2000) + 3000);
+        ControlGlobal.sleepInterrumpible((int)(Math.random() * 2000) + 3000);
         
         // Registra en el log que el humano ha comido
         SistemaDeLog.get().log(h.getIdHumano() + " ha comido en el comedor.");

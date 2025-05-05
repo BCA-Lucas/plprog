@@ -38,7 +38,8 @@ public class GestorHumanos {
 
                     // Espera entre 500 ms y 2 segundos antes de crear otro humano
                     try {
-                        Thread.sleep((int)(Math.random() * 1500) + 500);
+                        ControlGlobal.esperarSiPausado();
+                        ControlGlobal.sleepInterrumpible((int)(Math.random() * 1500) + 500);
                     } catch (InterruptedException ignored) {} // Ignora interrupciones menores
 
                 } catch (InterruptedException ex) {
